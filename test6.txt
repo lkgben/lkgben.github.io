@@ -1,0 +1,665 @@
+体育Sports,#genre#
+Supersport1a,http://iptvtree.net:8080/test-edd59f/329a/157559
+Supersport_1,http://iptvtree.net:8080/test-edd59f/329a/146068
+SuperSport 1(Mi),mitv://147.135.39.171:9906/5e5a0699000ee41a3b3a170e70ad7328.ts
+SuperSport1(P2),P2p://147.135.39.171:9906/5e5a0699000ee41a3b3a170e70ad7328.ts
+Supersport2a,http://iptvtree.net:8080/test-edd59f/329a/157556 
+Supersport_2,http://iptvtree.net:8080/test-edd59f/329a/196476
+SuperSport 2(Mi),mitv://147.135.39.171:9906/5e5a069a0005c8653b3a18a403ea45fd.ts
+SuperSport2(P2),P2p://147.135.39.171:9906/5e5a069a0005c8653b3a18a403ea45fd.ts
+Supersport3a,http://iptvtree.net:8080/test-edd59f/329a/157557
+Supersport_3,http://iptvtree.net:8080/test-edd59f/329a/196477
+SuperSport3(P2),P2p://147.135.39.171:9906/5e5a069a000c9b3d3b3a1a5a1409143e.ts
+Supersport4a,http://iptvtree.net:8080/test-edd59f/329a/157558
+Supersport_4,http://iptvtree.net:8080/test-edd59f/329a/197051
+SuperSport4(P2),P2p://147.135.39.171:9906/5e5a069b0002dcac3b3a1bd1128f0ddf.ts
+SPORTTV_1,https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+SPORTTV_2,https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+SPORTTV_3,https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+SPORTTV_4,https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+SPORTTV_5,https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+RTM Sport,https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8#http://iptvtree.net:8080/test-edd59f/329a/187243
+ARENA,http://iptvtree.net:8080/test-edd59f/329a/157485
+Arena Sport 1,http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
+Arena Sport 2,http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8
+Arena Sport 3,http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
+Arena Sport 4,http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
+Arena Sport 5,http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
+CRICKET,http://iptvtree.net:8080/test-edd59f/329a/157565
+RUGBY PASS TV,http://iptvtree.net:8080/test-edd59f/329a/157564
+FIGHT Sports,http://iptvtree.net:8080/test-edd59f/329a/157606
+FOX SPORTS 1,http://iptvtree.net:8080/test-edd59f/329a/162517
+FOX SPORTS 2,http://iptvtree.net:8080/test-edd59f/329a/162516
+FOX SPORTS 3,http://iptvtree.net:8080/test-edd59f/329a/165088
+MNC Sport 1,http://iptvtree.net:8080/test-edd59f/329a/157589
+MNC Sport 2,http://iptvtree.net:8080/test-edd59f/329a/197973
+beIN Sports,http://iptvtree.net:8080/test-edd59f/329a/157561
+beIN Sports ENG 2,http://iptvtree.net:8080/test-edd59f/329a/197052
+beIN Sports MAX,http://iptvtree.net:8080/test-edd59f/329a/157487
+eGG Network,http://iptvtree.net:8080/test-edd59f/329a/157484
+EUROSPORT HD,http://iptvtree.net:8080/test-edd59f/329a/158353
+FOX SPORTS 1,http://iptvtree.net:8080/test-edd59f/329a/174721
+FOX SPORTS 2 HD,http://iptvtree.net:8080/test-edd59f/329a/157488
+FOX SPORTS 3 HD,http://iptvtree.net:8080/test-edd59f/329a/157560
+FOX SPORTS HD,http://iptvtree.net:8080/test-edd59f/329a/171978
+GNIX SPORTS HD,http://iptvtree.net:8080/test-edd59f/329a/174698
+GOLF Channel HD,http://iptvtree.net:8080/test-edd59f/329a/157563
+RTM Sports,http://iptvtree.net:8080/test-edd59f/329a/187243
+SkyNet Golf HD,http://iptvtree.net:8080/test-edd59f/329a/174727
+WWE Network,http://iptvtree.net:8080/test-edd59f/329a/157562
+TH:PPTV 1,http://iptvtree.net:8080/test-edd59f/329a/174669
+Real Madrid TV,http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?checkedby#http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+EURO Sports,#genre#
+Ch-1,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
+Ch-2,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200&checkedby
+Ch-3,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800&checkedby
+Ch-4,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400&checkedby
+Ch-5,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000&checkedby
+Ch-6,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600&checkedby
+Ch-7,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200&checkedby
+Ch-8,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800&checkedby
+Ch-9,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400&checkedby
+Ch-10,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000&checkedby
+Ch-11,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-39600&checkedby
+Ch-12,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-43200&checkedby
+Ch-13,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-46800&checkedby
+Ch-14,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-50400&checkedby
+Ch-15,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-54000&checkedby
+Ch-16,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-57600&checkedby
+Ch-17,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-61200&checkedby
+Ch-18,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-64800&checkedby
+Ch-19,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-68400&checkedby
+Ch-20,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-72000&checkedby
+Ch-21,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-75600&checkedby
+Ch-22,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-79200&checkedby
+Ch-23,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-82800&checkedby
+Ch-24,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-86400&checkedby
+Ch-25,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-90000&checkedby
+Ch-26,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-93600&checkedby
+Ch-27,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-97200&checkedby
+Ch-28,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-100800&checkedby
+Ch-29,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-104400&checkedby
+Ch-30,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-108000&checkedby
+Ch-31,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-111600&checkedby
+Ch-32,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-115200&checkedby
+Ch-33,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-118800&checkedby
+Ch-34,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-122400&checkedby
+Ch-35,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-126000&checkedby
+Ch-36,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-129600&checkedby
+Ch-37,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-133200&checkedby
+Ch-38,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-136800&checkedby
+Ch-39,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-140400&checkedby
+Ch-40,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-144000&checkedby
+Ch-41,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby
+Ch-42,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-151200&checkedby
+Ch-43,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-154800&checkedby
+Ch-44,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400&checkedby
+Ch-45,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000&checkedby
+Ch-46,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600&checkedby
+Ch-47,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-169200&checkedby
+Ch-48,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800&checkedby
+Ch-49,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-176400&checkedby
+Ch-50,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000&checkedby
+
+EasyTravelJapanese,#genre#
+Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/q/g/kqgi7uf0_i5958l9n_h264_1244K.mp4/chunklist.m3u8
+Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/l/m/u/lmu5530b_u049v32g_h264_1244K.mp4/chunklist.m3u8
+Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/i/4/5/i4565669_m03e3me2_h264_1244K.mp4/chunklist.m3u8
+Lesson-4,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/f/u/4/fu47k67j_md31l8n9_h264_1244K.mp4/chunklist.m3u8
+Lesson-5,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/3/y/e3yoa45u_chup166d_h264_1244K.mp4/chunklist.m3u8
+Lesson-6,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/o/4/5/o45808x3_q9416hbt_h264_1244K.mp4/chunklist.m3u8
+Lesson-7,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/6/z/x6z92k6m_xtfe3ker_h264_1244K.mp4/chunklist.m3u8
+Lesson-8,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/4/n/x4ncip71_e8jx0l5w_h264_1244K.mp4/chunklist.m3u8
+
+Japan-easy1,#genre#
+Lesson-1a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/01/skit_01_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-1b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/01/skit_01_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-1c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/01/skit_01_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-1d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/01/skit_01_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-1e,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/01/skit_01_c5.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-2a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/02/skit_02_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-2b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/02/skit_02_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-2c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/02/skit_02_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-2d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/02/skit_02_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-2e,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/02/skit_02_c5.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-3a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/03/skit_03_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-3b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/03/skit_03_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-3c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/03/skit_03_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-3d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/03/skit_03_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-3e,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/03/skit_03_c5.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-4a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/04/skit_04_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-4b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/04/skit_04_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-4c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/04/skit_04_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-4d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/04/skit_04_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-4e,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/04/skit_04_c5.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-5a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/05/skit_05_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-5b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/05/skit_05_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-5c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/05/skit_05_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-5d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/05/skit_05_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-5e,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/05/skit_05_c5.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-6a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/06/skit_06_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-6b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/06/skit_06_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-6c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/06/skit_06_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-6d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/06/skit_06_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-6e,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/06/skit_06_c5.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-7a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/07/skit_07_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-7b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/07/skit_07_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-7c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/07/skit_07_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-7d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/07/skit_07_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-8a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/08/skit_08_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-8b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/08/skit_08_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-8c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/08/skit_08_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-8d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/08/skit_08_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-8e,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/08/skit_08_c5.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-9a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/09/skit_09_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-9b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/09/skit_09_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-9c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/09/skit_09_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-9d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/09/skit_09_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-10a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/10/skit_10_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-10b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/10/skit_10_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-10c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/10/skit_10_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-10d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/10/skit_10_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-10e,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/10/skit_10_c5.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-11a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/11/skit_11_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-11b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/11/skit_11_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-11c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/11/skit_11_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-11d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/11/skit_11_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-11e,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/11/skit_11_c5.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-12a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/12/skit_12_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-12b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/12/skit_12_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-12c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/12/skit_12_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-12d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/12/skit_12_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-12e,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/12/skit_12_c5.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-12f,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/12/skit_12_c6.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-13a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/13/skit_13_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-13b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/13/skit_13_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-13c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/13/skit_13_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-14a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/14/skit_14_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-14b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/14/skit_14_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-14c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/14/skit_14_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-14d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/14/skit_14_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-15a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/15/skit_15_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-15b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/15/skit_15_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-15c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/15/skit_15_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-15d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/15/skit_15_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-16a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/16/skit_16_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-16b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/16/skit_16_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-16c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/16/skit_16_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-16d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/16/skit_16_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-17a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/17/skit_17_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-17b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/17/skit_17_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-17c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/17/skit_17_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-17d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/17/skit_17_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-18a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/18/skit_18_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-18b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/18/skit_18_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-18c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/18/skit_18_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-18d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/18/skit_18_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-19a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/19/skit_19_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-19b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/19/skit_19_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-19c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/19/skit_19_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-19d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/19/skit_19_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-20a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/20/skit_20_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-20b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/20/skit_20_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-20c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/20/skit_20_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-20d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/20/skit_20_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-21a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/21/skit_21_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-21b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/21/skit_21_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-21c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/21/skit_21_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-21d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/21/skit_21_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-22a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/22/skit_22_c2a.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-22b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/22/skit_22_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-22c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/22/skit_22_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-22d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/22/skit_22_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-23a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/23/skit_23_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-23b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/23/skit_23_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-23c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/23/skit_23_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-23d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/23/skit_23_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-24a,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/24/skit_24_c1.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-24b,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/24/skit_24_c2.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-24c,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/24/skit_24_c3.mp4/master.m3u8?set-akamai-hls-revision=5
+Lesson-24d,https://nhkworld-vh.akamaihd.net/i/nhkworld/en/tv/japaneasy/season1/video/24/skit_24_c4.mp4/master.m3u8?set-akamai-hls-revision=5
+
+Japan-easy2,#genre#
+Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/0/d/g0dfs57b_r2445j48_h264_1244K.mp4/chunklist.m3u8
+Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/l/8/gl876c48_sn0hvr34_h264_1244K.mp4/chunklist.m3u8
+Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/f/1/0/f10iu9lx_dsu682sj_h264_1244K.mp4/chunklist.m3u8
+Lesson-4,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/h/x/k/hxkfxi6w_v8104j6y_h264_1244K.mp4/chunklist.m3u8
+Lesson-5,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/h/x/k/hxkfxi6w_v8104j6y_h264_1244K.mp4/chunklist.m3u8
+Lesson-6,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/j/0/l/j0l45b4g_sbddke5d_h264_1244K.mp4/chunklist.m3u8
+Lesson-7,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/z/m/2/zm24q6ml_jhzhd73i_h264_1244K.mp4/chunklist.m3u8
+Lesson-8,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/4/w/x4w7tp8v_a1wp47tf_h264_1244K.mp4/chunklist.m3u8
+Lesson-9,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/w/f/9/wf93fvt8_jx4kzmty_h264_1244K.mp4/chunklist.m3u8
+Lesson-10,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/f/8/k/f8k0q9f7_z5v59290_h264_1244K.mp4/chunklist.m3u8
+Lesson-11,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/n/j/2/nj2bg58t_pso9l708_h264_1244K.mp4/chunklist.m3u8
+Lesson-12,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/p/f/kpfiotb0_f48a6kl3_h264_1244K.mp4/chunklist.m3u8
+Lesson-13,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/o/2/k/o2k1w071_j1wue655_h264_1244K.mp4/chunklist.m3u8
+Lesson-14,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/o/y/9/oy950rm6_e3986xnq_h264_1244K.mp4/chunklist.m3u8
+Lesson-15,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/v/3/t/v3t97d6m_wp17bur1_h264_1244K.mp4/chunklist.m3u8
+Lesson-16,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/v/v/b/vvbt343s_ww54uz1j_h264_1244K.mp4/chunklist.m3u8
+Lesson-17,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/h/6/5/h65y6l3q_q0t4x183_h264_1244K.mp4/chunklist.m3u8
+Lesson-18,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/u/0/v/u0vcy38b_vxh54r4o_h264_1244K.mp4/chunklist.m3u8
+Lesson-19,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/h/6/y/h6y5pl9z_z70l4o26_h264_1244K.mp4/chunklist.m3u8
+Lesson-20,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/h/0/l/h0l3w9f3_rv0jof60_h264_1244K.mp4/chunklist.m3u8
+Lesson-21,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/y/8/e/y8e1pgmb_i9iakzd0_h264_1244K.mp4/chunklist.m3u8
+Lesson-22,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/z/2/3/z236j8dv_g99e7f6d_h264_1244K.mp4/chunklist.m3u8
+Lesson-23,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/r/w/8/rw85ga6e_i9q4ne3o_h264_1244K.mp4/chunklist.m3u8
+Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8
+
+马新,#genre#
+AEC,http://62.210.127.217:8080/snwYC0SQEg/rAh0q9pwwq/28704?play_token=VJqCzLgNIO&token=QhVcUhcJRggXXQAHBFJTAVMPUgAAVlYAVlUNVwQHUlcIVlZRAlQCBw1GGURBEkJRAFtpWgVEXlFdUwVVSkAXElxFa1oAQ14QA1cFXwZSEhhDQl9eBEReUlBdAVlfVFJYDxsWQw0FRggXVgdUClESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXBg1TFBoRAgkRDREWTENcQDEmGxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABUAgNUFEs=
+AEC,http://jkk2.luyutv.com/dream.m3u8?id=dda3493cd5327634&keygemini=55f4da939cba988214f051320d49f74f
+AEC(Delay),http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+AEC(Mi),mitv://147.135.39.171:9906/5ea81ffc0003a7a1e652019e15207790.ts#mitv://147.135.39.171:9906/5ea3241900098381d2da020e44db01a8.ts
+全佳,http://jkk1.luyutv.com/dream.m3u8?id=a2865135e0b3acc2&keygemini=55f4da939cba988214f051320d49f74f
+全佳(Mi),mitv://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts
+爱奇艺,http://jkk1.luyutv.com/dream.m3u8?id=66c0f5e001520f67&keygemini=55f4da939cba988214f051320d49f74f
+愛奇藝(Mi),mitv://147.135.39.171:9906/5e57755e00054af53132b22041d007fa.ts#mitv://fccseuro.pvbox.live:18912/5d6631530004ae4c2d9505ff2a9c6848.ts
+华丽台,http://jkk1.luyutv.com/dream.m3u8?id=040080a10ca83ca6&keygemini=55f4da939cba988214f051320d49f74f
+華麗台(Mi),mitv://147.135.39.171:9906/5e5779ed00004fd231447f705c0876bd.ts#mitv://147.135.39.171:9906/5e9e7306000e6fb6c086511e3b730318.ts
+双星,http://jkk2.luyutv.com/dream.m3u8?id=76f530e9b859accc&keygemini=55f4da939cba988214f051320d49f74f
+双星(Mi),mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts
+欢喜台,http://jkk2.luyutv.com/dream.m3u8?id=9d892e5a6322664f&keygemini=55f4da939cba988214f051320d49f74f
+歡喜台(Mi),mitv://147.135.39.171:9906/5e98aade000b7c3ca9f062024ca07104.ts#mitv://147.135.39.171:9906/5eb3078b000f1ae610ea9ce760ff6fb5.ts
+小太阳(Mi),mitv://147.135.39.171:9906/5c311b380000b12f06c9ab7174b605e2.ts
+天映頻道(Mi),mitv://147.135.39.171:9906/5e7cfab00001b8d03dc7f4e34dfd4368.ts
+天映經典(Mi),mitv://147.135.39.171:9906/5e7cf98f00024e183dc38c1a5eb34315.ts
+AOD,http://jkk2.luyutv.com/dream.m3u8?id=3f0cfcf41e536f59&keygemini=55f4da939cba988214f051320d49f74f
+AOD351(Mi) ,mitv://147.135.39.171:9906/5eb3076300010b0110e9fd0d71637a0b.ts#mitv://147.135.39.171:9906/5e577104000e8a9a3121b4f12c473608.ts
+NTV7,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+8TV,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+TV9,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+TV1,https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+TV2,https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+TV3,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u87
+AWANI,http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+Bernama TV,https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
+Berita RTM,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+Ceria,http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+OKEY,https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+OASIS,http://jkk2.luyutv.com/dream.m3u8?id=29e8ad0e3ef26739&keygemini=55f4da939cba988214f051320d49f74f
+Drama Sangat,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+RTB,https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+Prima,http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8 
+Ria,http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+Warna,http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+Hello,https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
+TVIKIM,http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+Mediacorp8(Mi),mitv://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts
+Mediacorp5(Mi),mitv://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts
+Ch U,http://jkk1.luyutv.com/dream.m3u8?id=29fc3e533434776c&keygemini=55f4da939cba988214f051320d49f74f
+
+港澳,#genre#
+鳳凰中文台,http://live.centerch.com/fhzw.m3u8#https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixTVHD.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8,ppepg-141#http://144.48.240.144:2019/SunTv.php?name=PhoenixTVHD
+鳳凰資訊台,http://live.centerch.com/fhzx.m3u8#https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixinfoTVHD.m3u8#http://198.98.55.16/crtv.php?id=1080#rtmp://58.200.131.2:1935/livetv/fhzx#http://198.98.55.16/crtv.php?id=1079#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://144.48.240.144:2019/SunTv.php?name=PhoenixinfoTVHD
+鳳凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT#https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixHKHD.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8#http://144.48.240.144:2019/SunTv.php?name=PhoenixHKHD
+無綫新聞台,https://www.ootori.xyz/tv/tvb.php?id=inews#http://livetv.dnsfor.me/channel.10.m3u8#http://tv.sason.xyz/proxy/tvb.php?id=xw#http://45.93.217.106/jiuban/hg.php?id=1#http://tv.sason.xyz/proxy/tvb.php?id=xw#http://45.93.217.106/jiuban/hg.php?id=13#http://45.93.217.106/jiuban/hg.php?id=10
+有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8#http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8#http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2026
+有線新聞台(Mi),mitv://147.135.39.171:9906/5e9e83070000f800c0c4d18b692d70da.ts
+有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
+有线直播(Mi),mitv://147.135.39.171:9906/5ef4ecd400015d191252b914239a34f8.ts
+Now新聞,http://teslagram.com/live/channel_332.m3u8#http://ws.matchupstream.tuboshu.com/live/6264ed5164c62e24ce3e0f966e5960e7.flv#http://hls.globaliptv.ml/now332.php#http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2054#http://112.213.101.147/cctv/UBlive.php?id=396#http://198.98.55.16/crtv.php?id=396
+Now新闻(P5),p5p://user3.shusongw.mobi:16871/5e565c070000cb6f2d78cad5c040fa7b
+Now新闻(Mi),mitv://147.135.39.171:9906/5e3e2d4d00034f186dbafcc93ae46ad8.ts
+Now直播331台,http://livetv.dnsfor.me/channel.3.m3u8#http://teslagram.com/live/channel_331.m3u8#http://hls.globaliptv.ml/now331.php
+翡翠台,http://livetv.dnsfor.me/channel.18.m3u8#http://144.48.240.144:2019/SunTv.php?name=XGFeiCui
+翡翠(Mi),mitv://147.135.39.171:9906/5ea51995000ec10eda81021569fa53dc.ts#mitv://147.135.39.171:9906/5e9e8063000969abc0ba831e7a0351c1.ts
+J2(Mi),mitv://147.135.39.171:9906/5defdab5000c62a56ea0b90a0b532a03.ts
+明珠台,http://144.48.240.144:2019/SunTv.php?name=XGMingZhu#http://61.238.6.49:8001/bysid/2
+明珠台(Mi),mitv://147.135.39.171:9906/5defe1400004ed256eba461e3fa17ad5.ts
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+RTHK31,http://livetv.dnsfor.me/channel.1.m3u8#http://teslagram.com/live/channel_31.m3u8#http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8
+RTHK31(Mi),mitv://147.135.39.171:9906/5e9fd724000764a5c5f564790eb03709.ts
+RTHK32,http://livetv.dnsfor.me/channel.2.m3u8#http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
+RTHK32(Mi),mitv://147.135.39.171:9906/5e9fd724000d1fc7c5f565f078712f85.ts
+RTHK新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
+ViuTV,http://hls.globaliptv.ml/viu99.php#http://61.238.6.49:8000/bysid/99
+VIUTV(Mi),mitv://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
+ViuTV 6,http://hls.globaliptv.ml/viu96.php#http://61.238.6.49:8000/bysid/96
+VIUTV6(Mi),mitv://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts
+ATV香港追擊搜,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8#http://livetv.dnsfor.me/channel.14.m3u8
+ATV煮場,https://vod.prod.hkatv.com/D2E7EC29A95E400387707B252399E97B/hls/SD/index.m3u8
+無綫財經,http://livetv.dnsfor.me/channel.11.m3u8
+无线财经(Mi),mitv://147.135.39.171:9906/5e975a520003b3a4a4cdbd1e7a4a258e.ts
+有線財經資訊台,http://livetv.dnsfor.me:80/channel.6.m3u8
+有线财经(Mi),mitv://147.135.39.171:9906/5ead19e0000c2946f9c238242b751a54.ts
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+卫视电影(Mi),mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
+星衛電影台(Mi),mitv://147.135.39.171:9906/5e9b4b1300069e38b43241e231037404.ts
+TVB星河(Mi),mitv://147.135.39.171:9906/5ea53a9a000d39fddb01fd3f19aa567e.ts
+有线娱乐,http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8#http://livetv.dnsfor.me:80/channel.7.m3u8
+有线娱乐(Mi),mitv://147.135.39.171:9906/5e73be6500011d2f19b464df5ab64e5b.ts
+有线体育(Mi),mitv://147.135.39.171:9906/5ea539e900076757daff48514c4e1e96.ts
+有线体育Plus 1(Mi),mitv://147.135.39.171:9906/5ea539ea00007ceadaff4a743a176aa1.ts
+有线体育Plus 2(Mi),mitv://147.135.39.171:9906/5ef4ecd40007934c1252baaa5c8b564e.ts
+Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
+Now Sports Prime 630,http://teslagram.com/live/channel_630.m3u8
+Now爆谷台,https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
+HKC beIN SPOS1,mitv://147.135.39.171:9906/5ea28d9a0005c385d08e210c66e47615.ts
+HKC beIN SPOS2,mitv://147.135.39.171:9906/5ea28d9a000cfc2bd08e22e03ebd0c76.ts
+HKC体育(Mi),mitv://147.135.39.171:9906/5ea539e900076757daff48514c4e1e96.ts
+HKC Spo1(Mi),mitv://147.135.39.171:9906/5ea539ea00007ceadaff4a743a176aa1.ts#mitv://147.135.39.171:9906/5ef4ecd40007934c1252baaa5c8b564e.ts
+星空卫视,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XingKongTV.m3u8#rtmp://58.200.131.2:1935/livetv/startv#http://www.mytvhd.xyz/tvm.php?id=XingKongTV#http://144.48.240.144:2019/SunTv.php?name=XingKongTV
+凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8#rtmp://58.200.131.2:1935/livetv/fhdy
+邵氏电影,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
+陽光衛視,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_SunShineTV.m3u8​#http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8#http://www.mytvhd.xyz/tvm.php?id=SunShineTV#http://144.48.240.144:2019/SunTv.php?name=SunShineTV
+环球电视,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+亚旅卫视ATV,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+Channel [V],https://www.fanmingming.cn/hls/channelv.m3u8
+Fashion TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+澳門蓮花(Mi),mitv://147.135.39.171:9906/5eb29ebb000185ac0f512ced64dc1bd4.ts
+澳亞衛視,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_MasTV.m3u8#http://61.58.60.230:9319/live/256.m3u8#http://144.48.240.144:2019/SunTv.php?name=MasTV
+澳门卫视,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_MSTV.m3u8#http://www.mytvhd.xyz/tvm.php?id=MSTV
+澳視葡文,http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+澳門MACAU,http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
+澳門立法會直播,http://live4.tdm.com.mo/tv/ch21.live/playlist.m3u8
+澳門綜藝,http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8#http://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+澳門資訊,http://61.244.22.5/ch5/info_ch5.live/master.m3u8#http://live4.tdm.com.mo/ch5/_difinst_/info_ch5.live/playlist.m3u8
+澳門體育,http://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+澳門互動新聞台,http://202.175.127.77/live/show/ch2/index.m3u8
+澳門有線 CH1,http://202.175.127.77/live/show/ch1/index.m3u8
+澳門有線 CH3,http://202.175.127.77/live/show/ch3/index.
+澳視澳門,http://61.244.22.4/ch1/ch1.live/index.m3u8
+澳視衛星,http://61.244.22.4/ch3/ch3.live/index.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
+
+台湾新聞,#genre#
+東森新聞台,http://seb.sason.top/sc/dsxw_fhd.m3u8
+民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+華視新聞台,http://seb.sason.top/sc/hsxw_fhd.m3u8
+年代新闻台,http://125.227.210.37:20434/VideoInput/play.ts#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中天新闻台,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中視新聞台,http://seb.sason.top/sc/zsxw_fhd.m3u8#mitv://fccseuro.pvbox.live:18912/5b14095e000f3774fcef729d8154a4de.ts#mitv://fccseuro.pvbox.live:18912/5b14095e000f3774fcef729d8154a4de.ts#mitv://fccseuro.pvbox.live:18912/5b14095e000f3774fcef729d8154a4de.ts
+三立 新闻台,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8#http://60.199.188.66/HLS/WG_ETTV-N/01.m3u8#http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立iNEWS新聞台,http://seb.sason.top/sc/slinews_fhd.m3u8
+一新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8#mitv://fccseuro.pvbox.live:18912/5c2dd75c000b56815360377ee7c224e6.ts#mitv://fccseuro.pvbox.live:18912/5c2dd75c000b56815360377ee7c224e6.ts
+TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8#http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8#mitv://fccseuro.pvbox.live:18912/5b1409600008c73b7a88bdb183a33614.ts#mitv://fccseuro.pvbox.live:18912/5b1409600008c73b7a88bdb183a33614.ts#mitv://fccseuro.pvbox.live:18912/5b1409600008c73b7a88bdb183a33614.ts
+亚洲新闻台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+公视新闻台,mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2f2deec889425a77f.ts#mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2f2deec889425a77f.ts
+寰宇新闻台,http://112.213.101.147/cctv/UBlive.php?id=304#https://pullstream-ucan.speedws.com/live/aaa1004zzz/playlist.m3u8#mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts#mitv://fccseuro.pvbox.live:18912/5b1408f30005adec5f7f531e0d42a29f.ts#mitv://fccseuro.pvbox.live:18912/5b1408f30005adec5f7f531e0d42a29f.ts#mitv://fccsovh.pvbox.live:18912/5b1408f30005adec057583980131e1ee.ts
+寰宇2新闻台,http://ddbb.228888888.xyz:8081/live/tw114.m3u8
+非凡新闻台,http://ddbb.228888888.xyz:8081/live/tw110.m3u8
+原住民族電視台,mitv://fccseuro.pvbox.live:18912/5bdbf387000760a7e096a3225c6ed52c.ts#mitv://fccseuro.pvbox.live:18912/5bdbf387000760a7e096a3225c6ed52c.ts
+CNC-新华社,http://livecdn1.news.cn/cnccn/manifest.m3u8
+中文电视-加拿大,http://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_2150400_av-b.m3u8
+東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
+亞美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8#http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
+加拿大国家电视台,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+加拿大中文电视台,http://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_2150400_av-b.m3u8
+三立台灣台,http://58.99.33.9:1935/liveedge2/live_29_1.stream/chunklist708113372.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+
+其它,#genre#
+亞洲旅遊台,http://jkk1.luyutv.com/dream.m3u8?id=e1b094035d742d30&keygemini=55f4da939cba988214f051320d49f74f#http://tw.iptv8k.org/gftv.m3u8?id=8b77f7b80e74be40&key=JiEGivHPpmjGEIjkeVwnVs846a3CHTEd5iCBvrDo81nTx%2BT5DHs7BfaA%2F0BjnEMwZahtNmwqCdUPQaGc%2FPLKvNj7ejb1U5zMYyVBzmxGspo9dezJfKepJoSALBaeVDpIKOijow64yV0LfxJc%2B%2B2y1sxrMDg44q2MWqX3yHBd99FJH0UrPzmB2N2qJGAUxzk%2FpWJK%2FBm1YgpEtoTYszOSVp2R73iLMMnAPj187SIsq9k%3D&ver=1902
+亚洲旅游台(Tb),tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM#mitv://lino.homeunix.com:6358/5f31a0b0000c7c9b76996657f3ee00bf.ts
+爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+EYE TV旅遊(Tb),tvbus://6jAFC7WRYVnfPVGizQpwkrkwMXwj43JxqhQFPLSXP4ww7Q5mbNv9irAbmKJBc#mitv://lino.homeunix.com:6358/5f31a0a300006fa67699307a0b9d3ad7.ts
+民視旅游,http://520574.xyz/dl/gt.php?id=ftvtravel#http://tw.iptv8k.org/gftv.m3u8?id=4d6cc2c1e1a1ee7e&key=JiEGivHPpmjGEIjkeVwnVs846a3CHTEd5iCBvrDo81nTx%2BT5DHs7BfaA%2F0BjnEMwZahtNmwqCdUPQaGc%2FPLKvNj7ejb1U5zMYyVBzmxGspo9dezJfKepJoSALBaeVDpIKOijow64yV0LfxJc%2B%2B2y1sxrMDg44q2MWqX3yHBd99FJH0UrPzmB2N2qJGAUxzk%2FpWJK%2FBm1YgpEtoTYszOSVp2R73iLMMnAPj187SIsq9k%3D&ver=1902#http://520574.xyz/dl/gt.php?id=ftvtravel
+AFN亞洲美食,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+亚洲美食(Tb),tvbus://5cnGsb1zt9JnveQhexaWWPVG84Tdf1eXynqTXH3sCK7WvHqExgLGvdKMfUejC
+美食厨房-1,http://gslb.dianshihome.com/gslb/live?stream_id=iqiyilb_meishichufang&ostype=android&hwtype=p212&tm=1591704014&isp=telecom&region=440000&uuid=6d63669aec684b6fbc3727651a62a4be&sign=aecde94602a0507daff4f40cc4e28dc3&ver=1.0.8#http://www.mytvhd.xyz/iqiyi.php?id=380187022
+美食星球(Mi),mitv://fccseuro.pvbox.live:18912/5b140917000d8becfd7949265b2f087b.ts
+美食星球(Tb),tvbus://63uxhzeBficQALWigXLjuifUxLJH9CsqtXXVjTDCQyXGBxGgXTzxVucFY1x35
+李子柒美食,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+中华美食,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi
+爱美食,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/1.m3u8#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8#http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8#https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+緯來日本(Mi),mitv://147.135.39.171:9906/5e9b449a0002edbbb418f850343a565d.ts#mitv://lino.homeunix.com:6358/5f31a08d000c4a4d7698dd93cc2f9206.ts#tvbus://6aXrMD1Fq4WUmnGWi2jLES3532SG84b4FNawKcrGXERkP2ytUfjZWGv2QjPP8
+國興衛視(Mi),mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
+龙华日韩,http://tw.iptv8k.org/gftv.m3u8?id=3b5977a28477d44e&key=JiEGivHPpmjGEIjkeVwnVs846a3CHTEd5iCBvrDo81nTx%2BT5DHs7BfaA%2F0BjnEMwZahtNmwqCdUPQaGc%2FPLKvNj7ejb1U5zMYyVBzmxGspo9dezJfKepJoSALBaeVDpIKOijow64yV0LfxJc%2B%2B2y1sxrMDg44q2MWqX3yHBd99FJH0UrPzmB2N2qJGAUxzk%2FpWJK%2FBm1YgpEtoTYszOSVp2R73iLMMnAPj187SIsq9k%3D&ver=1902
+靖天日本,mitv://198.255.74.87:9906/5dc08f1b000c12a001b7f60eb395631d.ts
+曼迪日本,P2p://sdgdklwos.finetv.tv:9906/59fd3343000561bb02dcba5e474715ac#tvbus://4fM63tvfNDCDEjrKzkFmNMhzP99Cm6ZaHmVQ2bGe1RYKDu4MdM#mitv://198.255.74.87:9906/5dc08f1800007a5301b7e75ee5782a3e.ts
+TLC旅遊生活,mitv://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts
+豬哥亮歌廳秀
+優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8#http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
+動物星球,http://live5.ocnttv.com:8080/ZZ_hbo/ZZ_hbo.m3u8
+精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+环球奇观,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=8
+亞洲旅视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+TLC旅遊台,mitv://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts
+环球旅游,http://125.210.152.18:9090/live/HQLY.m3u8
+旅游卫视,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/lvyoustv/1.m3u8#http://223.82.250.72/live/lvyoustv/1.m3u8
+汽车,http://v.iam7.cn/iptv/cibn.php?code=QiChe
+收藏天下,http://125.210.152.18:9090/live/SCTX.m3u8
+四海钓鱼,http://112.17.40.140/PLTV/88888888/224/3221226533/index.m3u8
+快乐垂钓,http://hnml.chinashadt.com:2036/live/2.stream/playlist.m3u8#http://hnml.chinashadt.com:2036/live/2.stream_360p/playlist.m3u8
+超级游艇,http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+爱玩具I,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+全纪实,http://39.134.52.178:80/wh7f454c46tw1840737207_-1614632442/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226014/1.m3u8
+北京纪实,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+NewTV 记录片,http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
+CGTN记录频道,http://live.cgtn.com/1000d/prog_index.m3u8
+农业致富,http://112.17.40.140/PLTV/88888888/224/3221226664/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+中国功夫,http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
+湖南茶频道,http://125.210.152.18:9090/live/CPD.m3u8
+经典音乐,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=162
+巨星演唱会,http://v.iam7.cn/iptv/cibn.php?code=135
+老陈音谈,http://v.iam7.cn/iptv/cibn.php?code=136
+南京生活,http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+文旅中国,http://v.iam7.cn/iptv/cibn.php?code=MeiZhuang
+新知识,http://v.iam7.cn/iptv/cibn.php?code=FengShang
+精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+古典樂,http://198.98.55.16/crtv.php?id=1027#http://112.213.101.147/cctv/UBlive.php?id=1027
+探索科學,http://198.98.55.16/crtv.php?id=343#http://112.213.101.147/cctv/UBlive.php?id=343
+探索亞洲,http://198.98.55.16/crtv.php?id=306#http://112.213.101.147/cctv/UBlive.php?id=306
+生活英語,http://198.98.55.16/crtv.php?id=323#http://112.213.101.147/cctv/UBlive.php?id=323
+
+央视卫视,#genre#
+CCTV1-综合,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8#http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8#http://112.17.40.49:80/PLTV/88888888/224/3221226527/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.49_80&hms_devid=1452,1477&online=1570000251
+CCTV2-财经,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8#http://112.17.40.206:80/PLTV/88888888/224/3221226468/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.206_80&hms_devid=1452,1480&online=1570000383
+CCTV3-综艺,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=28&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://ivi.bupt.edu.cn/hls/cctv3.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8#http://112.17.40.46:80/PLTV/88888888/224/3221226431/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.46_80&hms_devid=1452,1470&online=1570000438
+CCTV4-国际亚洲,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=30&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+CCTV5-体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=29&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://112.17.40.144:80/PLTV/88888888/224/3221226562/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.144_80&hms_devid=1452,1466&online=1570000480
+CCTV5+-体育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8#http://112.17.40.138:80/PLTV/88888888/224/3221226166/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.138_80&hms_devid=1482,1451&online=1570000579
+CCTV6-电影,http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8#http://112.17.40.204:80/PLTV/88888888/224/3221226433/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.204_80&hms_devid=1452,1458&online=1570000642
+CCTV7-国防军事,http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://ivi.bupt.edu.cn/hls/cctv7.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226122/1.m3u8
+CCTV8-电视剧,http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=34&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://112.17.40.151:80/PLTV/88888888/224/3221226330/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.151_80&hms_devid=1452,1475&online=1570000891
+CCTV9-纪录,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=35&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://ivi.bupt.edu.cn/hls/cctv9.m3u8#http://112.17.40.145:80/PLTV/88888888/224/3221226561/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.145_80&hms_devid=1452,1466&online=1570000942
+CCTV10-科教,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=36&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://112.17.40.144:80/PLTV/88888888/224/3221226472/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.144_80&hms_devid=1452,1466&online=1570000988
+CCTV11-戏曲,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=33&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://112.17.40.199:80/PLTV/88888888/224/3221226219/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.43_80&hms_devid=1452,1460&online=1570001006
+CCTV12-社会与法,http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8#http://112.17.40.145:80/PLTV/88888888/224/3221226563/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.145_80&hms_devid=1452,1466&online=1570001023
+CCTV13-新闻,http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=38&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226193/1.m3u8
+CCTV14-少儿,http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=16&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://112.17.40.42:80/PLTV/88888888/224/3221226565/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.42_80&hms_devid=1452,1464&online=1570001112
+CCTV15-音乐,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8#http://112.17.40.208:80/PLTV/88888888/224/3221226112/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.208_80&hms_devid=1452,1456&online=1570001131
+CCTV17-农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+CGTN China,https://live.cgtn.com/1000/prog_index.m3u8
+CCTV发现之旅,http://125.210.152.18:9090/live/FXZL.m3u8
+CCTV风云剧场,http://125.210.152.18:9090/live/FYJC.m3u8
+CCTV怀旧剧场,http://125.210.152.18:9090/live/HJJC.m3u8
+CCTV央视文化精品,http://125.210.152.18:9090/live/YSWHJP.m3u8
+CCTV世界地理,http://125.210.152.18:9090/live/SJDL.m3u8
+CCTV卫生健康,http://125.210.152.18:9090/live/WSJK.m3u8
+CCTV风云音乐,http://125.210.152.18:9090/live/FYYY.m3u8
+CCTV第一剧场,http://125.210.152.18:9090/live/DYJC.m3u8
+CCTV-老故事,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV女性时尚,http://125.210.152.18:9090/live/NXSS.m3u8
+河南卫视,http://dl.942wifi.com/migu.php?id=635489820#http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
+湖南卫视,http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunantv.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226569/index.m3u8
+江苏卫视,http://ivi.bupt.edu.cn/hls/jshd.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226567/index.m3u8
+浙江卫视,http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226474/index.m3u8
+东方卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8#http://dl.942wifi.com/migu.php?id=651625930#http://112.17.40.140/PLTV/88888888/224/3221226549/index.m3u8
+四川卫视,http://dl.942wifi.com/migu.php?id=630288361#http://112.17.40.140/PLTV/88888888/224/3221226215/index.m3u8
+北京卫视,http://dl.942wifi.com/migu.php?id=630287636#http://dl.942wifi.com/migu.php?id=630287661#http://112.17.40.140/PLTV/88888888/224/3221226545/index.m3u8
+广东卫视,http://dl.942wifi.com/migu.php?id=608831538#http://112.17.40.140/PLTV/88888888/224/3221226408/index.m3u8
+广西卫视,http://dl.942wifi.com/migu.php?id=634055160#http://112.17.40.140/PLTV/88888888/224/3221226211/index.m3u8
+山东教育,http://dl.942wifi.com/migu.php?id=609154353#http://112.17.40.140/PLTV/88888888/224/3221226652/index.m3u8
+山东卫视HD,http://112.17.40.140/PLTV/88888888/224/3221226587/index.m3u8
+天津卫视,http://ivi.bupt.edu.cn/hls/tjtv.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226488/index.m3u8
+东南卫视,http://dl.942wifi.com/migu.php?id=651642156#http://112.17.40.140/PLTV/88888888/224/3221226134/index.m3u8
+黑龙江卫视,http://cctvalih5ca.v.myalicdn.com/wstv/heilongjiang_2/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226492/index.m3u8
+湖北卫视,http://dl.942wifi.com/migu.php?id=630288760#http://112.17.40.140/PLTV/88888888/224/3221226494/index.m3u8
+江西卫视,http://dl.942wifi.com/migu.php?id=630290852#http://112.17.40.140/PLTV/88888888/224/3221226128/index.m3u8
+辽宁卫视,http://dl.942wifi.com/migu.php?id=623583504#http://112.17.40.140/PLTV/88888888/224/3221226148/index.m3u8
+重庆卫视,http://dl.942wifi.com/migu.php?id=630288006#http://112.17.40.140/PLTV/88888888/224/3221226217/index.m3u8
+河北卫视,http://dl.942wifi.com/migu.php?id=630292528#http://112.17.40.140/PLTV/88888888/224/3221226494/index.m3u8
+贵州卫视,http://dl.942wifi.com/migu.php?id=631094827#http://112.17.40.140/PLTV/88888888/224/3221226146/index.m3u8
+安徽卫视,http://dl.942wifi.com/migu.php?id=644933992#http://dl.942wifi.com/migu.php?id=630971260#
+峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+海南卫视,http://by4.nty.tv189.cn/live/tm-traveltv-800k.m3u8
+海霞卫视,http://by4.nty.tv189.cn/live/tm-haixiatv-800k.m3u8
+河北卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hebei_2/index.m3u8
+CNC-China,http://livecdn1.news.cn/cnccn/manifest.m3u8
+青海卫视,http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+吉林卫视,http://dl.942wifi.com/migu.php?id=630288397#http://112.17.40.140/PLTV/88888888/224/3221226158/index.m3u8
+厦门卫视,http://cstvpull.live.wscdns.com/live/xiamen.flv#https://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen3_2/index.m3u8
+山西卫视,http://dl.942wifi.com/migu.php?id=630289043#http://112.17.40.140/PLTV/88888888/224/3221226114/index.m3u8
+陕西卫视,http://dl.942wifi.com/migu.php?id=630287233#http://112.17.40.140/PLTV/88888888/224/3221226177/index.m3u8
+云南卫视,http://dl.942wifi.com/migu.php?id=630291417#http://112.17.40.140/PLTV/88888888/224/3221226241/index.m3u8
+甘肃卫视,http://dl.942wifi.com/migu.php?id=630287549#http://112.17.40.140/PLTV/88888888/224/3221226187/index.m3u8
+宁夏卫视,http://dl.942wifi.com/migu.php?id=630287436#http://112.17.40.140/PLTV/88888888/224/3221226209/index.m3u8
+青海卫视,http://dl.942wifi.com/migu.php?id=630287272
+西藏卫视,http://dl.942wifi.com/migu.php?id=630291593#http://112.17.40.140/PLTV/88888888/224/3221226160/index.m3u8
+新疆卫视,http://dl.942wifi.com/migu.php?id=635385783#http://112.17.40.140/PLTV/88888888/224/3221226124/index.m3u8
+内蒙古卫视,http://dl.942wifi.com/migu.php?id=630287015#http://112.17.40.140/PLTV/88888888/224/3221226174/index.m3u8
+兵团卫视,http://dl.942wifi.com/migu.php?id=630288004#http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
+康巴卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
+海峡卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
+安徽卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
+河南卫视,http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/henan_2/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
+深圳卫视,http://112.17.40.140/PLTV/88888888/224/3221226543/index.m3u8
+
+外语新闻,#genre#
+Awani-Mal,http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+Berita RTM-Mal,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+Bernama-Mal,https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
+Channel NewsAsia-SG,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+Channel 8-SG,mitv://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts
+Acns-SG,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://delivery.macan.live/stream/id_cna/index.m3u8?token=uLys6&v=20200308
+CNBC-Indo,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1727180659_b384000_sleng.m3u8
+CNN-Indo,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8#http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
+iNews-Indo,https://www.dropbox.com/s/dl/9i6gugwhuhhlxtm/mkctv_inews.m3u8
+Metro News-Indo,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+Tv Ri-Indo,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+B1 News-Indo,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+Thai PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+Sky News-Aus,https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8#https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+ABC News-Aus,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+CGTN China,https://live.cgtn.com/1000/prog_index.m3u8#https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+CGTN Spain,http://livees.cgtn.com/1000e/prog_index.m3u8
+Arirang-Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+KBS World-korea,https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8
+KCTV-Korea,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+CBC News-Canada,http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+DW News-Germany,http://185.93.2.35:12012/live/359111068247FFA1/Kx6KVblYzUzOGCutoLR-dZovv97HS6UNGcfvECy3jun3Y875wK-K8CuIge15C6r5/9C40D04882CA425D/852280.ts#https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+France 24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+Euronews-France,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
+Al Jazeera-Qatar,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Africa News,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
+Russia Today,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8#p2p://lino.homeunix.com:6007/5acb88f40000e1422c19ae4624f1680c.ts
+BBC News-UK, http://51.52.156.22:8888/http/004
+BBC CBESE-UK, http://51.52.156.22:8888/http/003
+Sky News-UK,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+MSNBC-US,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+BBC WORLD NEWS-US,
+BLOOMBERG TV-US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8#http://185.93.2.35:12012/live/359111068247FFA1/SKBruUymzyojEEMZzTy5AqBwu3x9Mw51gjy719107qNNNUtHwmI-uWT-8hcFEXlQ/003F68F3712541AB/876650.ts#https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8#http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+Newsmax-US,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8#http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+CBS News-US,https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT#http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8#http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+CNN-US,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8#http://185.93.2.35:12012/live/359111068247FFA1/6_yUHuCDw5gOeGedzoF5dJRfan2yaXQG0Nvi371paYyRfLuOfxfkQBKW5bh_ah5H/7440B78E821745B8/449552.ts#http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+ABC News-US,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+ABC News 24-US,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+Global News-US,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+Wairarapa-TV NZ,http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+Times Now-India,http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+Telesur Venezuela,https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+Africa News,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
+
+VIP_999999,#genre#
+快乐频道,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
+松视一台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
+松视一台,https://717616144.r.worldssl.net/717616144/tv/ttv11/playlist.m3u8
+一本道,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
+二本道,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0431_full/1500kb/hls/index.m3u8
+Blowblow,http://cdn.adultiptv.net/blowjob.m3u8
+麻豆1,https://qq.com-ixx-iqiyi.com/20200225/18181_1ae9db9c/1000k/hls/index.m3u8
+麻豆2,https://qq.com-ixx-iqiyi.com/20200225/18180_81d6e485/1000k/hls/index.m3u8
+麻豆3,https://qq.com-ixx-iqiyi.com/20200225/18179_66eeba54/1000k/hls/index.m3u8
+麻豆4,https://qq.com-ixx-iqiyi.com/20200225/18178_1c6cb53f/1000k/hls/index.m3u8
+麻豆5,https://qq.com-ixx-iqiyi.com/20200225/18177_4364a179/1000k/hls/index.m3u8
+麻豆6,https://qq.com-ixx-iqiyi.com/20200225/18176_431e7aab/1000k/hls/index.m3u8
+麻豆7,https://qq.com-ixx-iqiyi.com/20200225/18175_eddbee9b/1000k/hls/index.m3u8
+麻豆8,https://qq.com-ixx-iqiyi.com/20200225/18173_68ed7296/1000k/hls/index.m3u8
+麻豆9,https://qq.com-ixx-iqiyi.com/20200225/18174_6ccb0662/1000k/hls/index.m3u8
+魔力男士上错身,https://n4.huayundiaosu.com/202009/08/qA25TnRX/2200kb/hls/index.m3u8
+美女约小伙打炮,https://n4.huayundiaosu.com/202009/08/G5yeuRsb/2200kb/hls/index.m3u8
+荷官的情欲睡衣诱惑,https://n4.huayundiaosu.com/202009/01/Cx6Gd1AT/2200kb/hls/index.m3u8
+旅行时与性感女友无套啪啪,https://n4.huayundiaosu.com/202009/01/Eax8t5UK/2200kb/hls/index.m3u8
+爱吃醋女友的驭男术,https://n4.huayundiaosu.com/202009/01/H274NlEJ/2200kb/hls/index.m3u8
+外送妹的售后打炮福利,https://n4.huayundiaosu.com/202009/01/0Bayxdt7/2200kb/hls/index.m3u8
+宅男性爱幻想狂干梦中女神,https://n4.huayundiaosu.com/202009/01/15Vwl5db/2200kb/hls/index.m3u8
+梦梦遭束缚啪啪沦为肉便器,https://n4.huayundiaosu.com/202008/12/XOLxYUXd/2200kb/hls/index.m3u8
+给欲女化妆师传授性爱技巧,https://n4.huayundiaosu.com/202008/12/oavWJpYE/2200kb/hls/index.m3u8
+美女主播与金主酒后啪啪,https://n4.huayundiaosu.com/202008/12/m26c8pTb/2200kb/hls/index.m3u8
+洋子跳蛋玩穴激情性爱,https://n4.huayundiaosu.com/202007/20/wvodGKSk/2200kb/hls/index.m3u8
+纹身女清纯装自慰打炮,https://n4.huayundiaosu.com/202007/20/0KV4nn7h/2200kb/hls/index.m3u8
+欲女主妇的性福端午,https://n4.huayundiaosu.com/202007/03/q6RV7yK5/2200kb/hls/index.m3u8
+健身室猛操白虎瑜伽教练,https://n4.huayundiaosu.com/202007/03/ymADvfes/2200kb/hls/index.m3u8
+空降女神与粉丝的海岛邂逅,https://n4.huayundiaosu.com/202006/24/EksgiUY4/2200kb/hls/index.m3u8
+怒肏上门的纹身快递妹,https://n4.huayundiaosu.com/202006/24/GIVk5DLv/2200kb/hls/index.m3u8
+淫荡兄妹躲猫猫,https://n4.huayundiaosu.com/202006/24/zlYyBT7y/2200kb/hls/index.m3u8
+街头搭讪OL正妹酒店激啪,https://n4.huayundiaosu.com/202006/16/aQY5HEN0/2200kb/hls/index.m3u8
+老友重逢相干恨晚,https://n4.huayundiaosu.com/202006/16/VnXA8gJJ/2200kb/hls/index.m3u8
+极品欲女健身教练,https://n4.huayundiaosu.com/202006/16/LJErOuGK/2200kb/hls/index.m3u8
+情欲人妻偷腥大挑战,https://n4.huayundiaosu.com/202006/11/GBjQrK3n/2200kb/hls/index.m3u8
+寂寞人妻约小鲜肉上门啪啪,https://n4.huayundiaosu.com/202006/11/eGVVefaC/2200kb/hls/index.m3u8
+异地出差约旧友打炮,https://n4.huayundiaosu.com/202006/02/ilkI7OPE/2200kb/hls/index.m3u8
+物业小伙报复女业主,https://n4.huayundiaosu.com/202005/29/BfHptP8h/2200kb/hls/index.m3u8
+女模外送到府援交,https://n4.huayundiaosu.com/202005/29/JnfcnYON/2200kb/hls/index.m3u8
+闺蜜赠送的完美礼物,https://n4.huayundiaosu.com/202005/23/68LaqcL4/2200kb/hls/index.m3u8
+美乳正妹色诱客户签约,https://n4.huayundiaosu.com/202005/23/owR3pmK6/2200kb/hls/index.m3u8
+素描模特遭揩油很尻,https://n4.huayundiaosu.com/202005/23/OSFfm0Rg/2200kb/hls/index.m3u8
+思春时幸有大屌男慰籍,https://n4.huayundiaosu.com/202005/23/EObk77iX/2200kb/hls/index.m3u8
+性爱消消乐,https://n4.huayundiaosu.com/202005/23/zMhWpP8W/2200kb/hls/index.m3u8
+素人搭讪假面试真拍片,https://n4.huayundiaosu.com/202005/17/7nJSYvQM/2200kb/hls/index.m3u8
+辣妹刺青师硬上男雇主,https://n4.huayundiaosu.com/202005/17/gn2LL2fw/2200kb/hls/index.m3u8
+风骚欲女,https://n4.huayundiaosu.com/202005/11/TLngqSIo/2200kb/hls/index.m3u8
+旗袍诱惑林思妤,https://n4.huayundiaosu.com/202005/11/yu0KEQYx/2200kb/hls/index.m3u8
+窥视嫂子洗澡趁虚而入,https://n4.huayundiaosu.com/202005/11/kc84uniO/2200kb/hls/index.m3u8
+旗袍肉丝诱惑互舔啪啪,https://n4.huayundiaosu.com/202005/09/B4tbESE5/2200kb/hls/index.m3u8
+巨乳前任求安慰,https://n4.huayundiaosu.com/202004/30/g88mGKfN/2200kb/hls/index.m3u8
+情色催眠师激射求疗贵妇,https://n4.huayundiaosu.com/202004/30/dnC8IJlT/2200kb/hls/index.m3u8
+约大奶女邻居玩成人游戏,https://n4.huayundiaosu.com/202004/27/MVkpfLsM/2200kb/hls/index.m3u8
+傲娇刺青美女下海试镜,https://n4.huayundiaosu.com/202004/27/mldsw5Hv/2200kb/hls/index.m3u8
+美乳老师家访被家长侵犯,https://n4.huayundiaosu.com/202004/27/1sYFxUkv/2200kb/hls/index.m3u8
+查收福利巧遇爆乳小姨子,https://n4.huayundiaosu.com/202004/27/YYVzxAzc/2200kb/hls/index.m3u8
+初摄素人女优试镜,https://n4.huayundiaosu.com/202004/14/docoHTmL/2200kb/hls/index.m3u8
+律政俏佳人,https://n4.huayundiaosu.com/202004/14/0Erskkly/2200kb/hls/index.m3u8
+男雇主强上保洁员,https://n4.huayundiaosu.com/202004/02/sLVCZRSV/2200kb/hls/index.m3u8
+女邻居的情色陷阱,https://n4.huayundiaosu.com/202004/02/hrmb5HIR/2200kb/hls/index.m3u8
+哥哥的荒诞调教,https://n4.huayundiaosu.com/202004/02/juHOLm8B/2200kb/hls/index.m3u8
+准新娘发请帖遭前任强尻,https://n4.huayundiaosu.com/202004/02/r80OgmMj/2200kb/hls/index.m3u8
+饥渴妹妹诱惑哥哥做爱,https://n4.huayundiaosu.com/202003/21/3JwGlJpw/2200kb/hls/index.m3u8
+与美艳嫂子厨房的情欲释放,https://n4.huayundiaosu.com/202003/21/nkJQLDi3/2200kb/hls/index.m3u8
+英雄救美后的福利,https://n4.huayundiaosu.com/202003/17/XColksEz/2200kb/hls/index.m3u8
+淫魔舅舅挑逗外甥女,https://n4.huayundiaosu.com/202003/17/6UsZRrwG/2200kb/hls/index.m3u8
+和性感姐姐的禁忌之恋,https://n4.huayundiaosu.com/202003/17/vlX0SG1T/2200kb/hls/index.m3u8
+和寂寞的小阿姨做爱,https://n4.huayundiaosu.com/202003/17/TzGy3eX8/2200kb/hls/index.m3u8
+风骚姐姐勾引弟弟的朋友,https://n4.huayundiaosu.com/202003/08/NLONDN5P/2200kb/hls/index.m3u8
+被老公约的客户强暴,https://n4.huayundiaosu.com/202003/08/p8DYsvJt/2200kb/hls/index.m3u8
+失恋男酒后干了女友闺蜜,https://n4.huayundiaosu.com/202003/08/FNl60ZPC/2200kb/hls/index.m3u8
+白虎妹电召技师上门服务,https://n4.huayundiaosu.com/202003/08/VFHR7pev/2200kb/hls/index.m3u8
+搭讪素人酒店啪啪,https://n4.huayundiaosu.com/202003/08/JDSYSgyh/2200kb/hls/index.m3u8
+办公室强尻黑丝职员,https://n4.huayundiaosu.com/202003/08/eXflMjdS/2200kb/hls/index.m3u8
+新年惊喜之淫荡外甥女,https://n4.huayundiaosu.com/202003/08/hJ5tHlId/2200kb/hls/index.m3u8
+快递员强迫性感妹口交,https://n4.huayundiaosu.com/202003/08/awtT1Q1H/2200kb/hls/index.m3u8
+性感家教诱惑学生激啪,https://n4.huayundiaosu.com/202003/08/wCsK3Hqe/2200kb/hls/index.m3u8
+家教老师的性爱指导,https://n4.huayundiaosu.com/202003/08/YzBDj654/2200kb/hls/index.m3u8
+偷看姐姐洗澡浴室啪啪,https://n4.huayundiaosu.com/202003/08/L4L789gH/2200kb/hls/index.m3u8
+嫩模演绎表兄妹淫乱新春,https://n4.huayundiaosu.com/202003/08/aAumat9s/2200kb/hls/index.m3u8
+淫乱人妻勾引快递员,https://n4.huayundiaosu.com/202003/08/2jGucdkK/2200kb/hls/index.m3u8
+卫生间强干女同事,https://n4.huayundiaosu.com/202003/08/uqg88jm7/2200kb/hls/index.m3u8
+私人理疗师的性爱理疗,https://n4.huayundiaosu.com/202003/07/HVSspXtW/2200kb/hls/index.m3u8
+骚浪御姐的情人节礼物,https://n4.huayundiaosu.com/202003/07/yne0WP93/2200kb/hls/index.m3u8
+尾随白虎主播回家入室强暴,https://n4.huayundiaosu.com/202003/07/mtixj9wo/2200kb/hls/index.m3u8
+白领女邻居勾引隔壁男,https://n4.huayundiaosu.com/202003/07/5Y6EbZuv/2200kb/hls/index.m3u8
+出差约外地女同学打炮,https://n4.huayundiaosu.com/202003/07/eFNZi7FQ/2200kb/hls/index.m3u8
+情景演绎乱伦兄妹,https://n4.huayundiaosu.com/202003/06/JOG8sCFh/2200kb/hls/index.m3u8
+强肏女友漂亮表妹,https://n4.huayundiaosu.com/202001/01/lEWt4TJa/2200kb/hls/index.m3u8
+被强壮小哥征服的美少妇,https://n4.huayundiaosu.com/201910/16/lRXYXv2v/2200kb/hls/index.m3u8
