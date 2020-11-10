@@ -1,25 +1,32 @@
 体育Sports,#genre#
-Supersport1a,http://iptvtree.net:8080/test-edd59f/329a/157559
-Supersport_1,http://iptvtree.net:8080/test-edd59f/329a/146068
-SuperSport 1(Mi),mitv://147.135.39.171:9906/5e5a0699000ee41a3b3a170e70ad7328.ts
-SuperSport1(P2),P2p://147.135.39.171:9906/5e5a0699000ee41a3b3a170e70ad7328.ts
-Supersport2a,http://iptvtree.net:8080/test-edd59f/329a/157556 
-Supersport_2,http://iptvtree.net:8080/test-edd59f/329a/196476
-SuperSport 2(Mi),mitv://147.135.39.171:9906/5e5a069a0005c8653b3a18a403ea45fd.ts
-SuperSport2(P2),P2p://147.135.39.171:9906/5e5a069a0005c8653b3a18a403ea45fd.ts
-Supersport3a,http://iptvtree.net:8080/test-edd59f/329a/157557
-Supersport_3,http://iptvtree.net:8080/test-edd59f/329a/196477
-SuperSport3(P2),P2p://147.135.39.171:9906/5e5a069a000c9b3d3b3a1a5a1409143e.ts
-Supersport4a,http://iptvtree.net:8080/test-edd59f/329a/157558
-Supersport_4,http://iptvtree.net:8080/test-edd59f/329a/197051
-SuperSport4(P2),P2p://147.135.39.171:9906/5e5a069b0002dcac3b3a1bd1128f0ddf.ts
+Supersport1,http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110252?play_token=Iygywpzjqo#http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110252
+Supersport1a,http://iptvtree.net:8080/test-edd59f/329a/157559#http://iptvtree.net:8080/12660/67684cce/157559
+Supersport1b,http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55433
+Supersport1c,http://iptvtree.net:8080/test-edd59f/329a/146068#http://iptvtree.net:8080/12660/67684cce/146068
+Supersport1d,http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+Supersport1e,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10366
+Supersport2,http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110253?play_token=E2utWwt17k#http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110253
+Supersport2a,http://iptvtree.net:8080/test-edd59f/329a/157556#http://iptvtree.net:8080/12660/67684cce/157556
+Supersport2b,http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55434
+Supersport2c,http://iptvtree.net:8080/test-edd59f/329a/196476#http://iptvtree.net:8080/12660/67684cce/196476
+SuperSport2e,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10367
+Supersport3,http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110254?play_token=HWdXpTxNXP#http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110254
+Supersport3a,http://iptvtree.net:8080/test-edd59f/329a/157557#http://iptvtree.net:8080/12660/67684cce/157557
+Supersport3b,http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55435
+Supersport3c,http://iptvtree.net:8080/test-edd59f/329a/196477#http://iptvtree.net:8080/12660/67684cce/196477
+Supersport3d,http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+SuperSport3e,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10368
+Supersport4a,http://iptvtree.net:8080/test-edd59f/329a/157558#http://iptvtree.net:8080/12660/67684cce/157558
+Supersport4b,http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55436
+Supersport4c,http://iptvtree.net:8080/test-edd59f/329a/197051#http://iptvtree.net:8080/12660/67684cce/197051
+SuperSport4e,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10369
 SPORTTV_1,https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 SPORTTV_2,https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 SPORTTV_3,https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 SPORTTV_4,https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 SPORTTV_5,https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 RTM Sport,https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8#http://iptvtree.net:8080/test-edd59f/329a/187243
-ARENA,http://iptvtree.net:8080/test-edd59f/329a/157485
+ARENA,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10365#http://iptvtree.net:8080/11703/688cbf1a/157485?play_token=ovRrQhELXI#http://iptvtree.net:8080/test-edd59f/329a/157485
 Arena Sport 1,http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
 Arena Sport 2,http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8
 Arena Sport 3,http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
@@ -35,20 +42,23 @@ MNC Sport 1,http://iptvtree.net:8080/test-edd59f/329a/157589
 MNC Sport 2,http://iptvtree.net:8080/test-edd59f/329a/197973
 beIN Sports,http://iptvtree.net:8080/test-edd59f/329a/157561
 beIN Sports ENG 2,http://iptvtree.net:8080/test-edd59f/329a/197052
-beIN Sports MAX,http://iptvtree.net:8080/test-edd59f/329a/157487
+beIN Sports MAX,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10374#http://iptvtree.net:8080/test-edd59f/329a/157487
 eGG Network,http://iptvtree.net:8080/test-edd59f/329a/157484
 EUROSPORT HD,http://iptvtree.net:8080/test-edd59f/329a/158353
-FOX SPORTS 1,http://iptvtree.net:8080/test-edd59f/329a/174721
-FOX SPORTS 2 HD,http://iptvtree.net:8080/test-edd59f/329a/157488
-FOX SPORTS 3 HD,http://iptvtree.net:8080/test-edd59f/329a/157560
+FOX SPORTS 1,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10370#http://iptvtree.net:8080/test-edd59f/329a/174721
+FOX SPORTS 2,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10371#http://iptvtree.net:8080/test-edd59f/329a/157488
+FOX SPORTS 3,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10372#http://iptvtree.net:8080/test-edd59f/329a/157560
 FOX SPORTS HD,http://iptvtree.net:8080/test-edd59f/329a/171978
 GNIX SPORTS HD,http://iptvtree.net:8080/test-edd59f/329a/174698
-GOLF Channel HD,http://iptvtree.net:8080/test-edd59f/329a/157563
+GOLF Channel,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10377#http://iptvtree.net:8080/test-edd59f/329a/157563
 RTM Sports,http://iptvtree.net:8080/test-edd59f/329a/187243
 SkyNet Golf HD,http://iptvtree.net:8080/test-edd59f/329a/174727
 WWE Network,http://iptvtree.net:8080/test-edd59f/329a/157562
 TH:PPTV 1,http://iptvtree.net:8080/test-edd59f/329a/174669
 Real Madrid TV,http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?checkedby#http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+ESPN,http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110065
+SONY TEN 1,http://iptv-line.com:7899/YyhHY8Y5VK/TjHgR86xre/54249
+FISHING NETWORK,http://iptv-line.com:7899/sawr851/V3vXMSmP/47282
 
 EURO Sports,#genre#
 Ch-1,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
@@ -165,12 +175,12 @@ Lesson-23,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvme
 Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8
 
 News,#genre#
-Awani-Mal,http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+Awani-Mal,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10320#http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 Berita RTM-Mal,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
-Bernama-Mal,https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
+Bernama-Mal,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10321#https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 Channel NewsAsia-SG,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Channel 8-SG,mitv://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts
-Acns-SG,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://delivery.macan.live/stream/id_cna/index.m3u8?token=uLys6&v=20200308
+Acna-SG,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10327#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://delivery.macan.live/stream/id_cna/index.m3u8?token=uLys6&v=20200308
 CNBC-Indo,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1727180659_b384000_sleng.m3u8
 CNN-Indo,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8#http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
 iNews-Indo,https://www.dropbox.com/s/dl/9i6gugwhuhhlxtm/mkctv_inews.m3u8
@@ -179,32 +189,39 @@ Tv Ri-Indo,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel
 B1 News-Indo,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 Thai PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 Sky News-Aus,https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8#https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-ABC News-Aus,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+ABC News-Aus,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8#https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 CGTN China,https://live.cgtn.com/1000/prog_index.m3u8#https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN Spain,http://livees.cgtn.com/1000e/prog_index.m3u8
+CNC News,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 Arirang-Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 KBS World-korea,https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8
 KCTV-Korea,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 CBC News-Canada,http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-DW News-Germany,http://185.93.2.35:12012/live/359111068247FFA1/Kx6KVblYzUzOGCutoLR-dZovv97HS6UNGcfvECy3jun3Y875wK-K8CuIge15C6r5/9C40D04882CA425D/852280.ts#https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-France 24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+DW News-Germany,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10382#http://185.93.2.35:12012/live/359111068247FFA1/Kx6KVblYzUzOGCutoLR-dZovv97HS6UNGcfvECy3jun3Y875wK-K8CuIge15C6r5/9C40D04882CA425D/852280.ts#https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8#https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+France 24,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10383#http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 Euronews-France,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
-Al Jazeera-Qatar,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Al Jazeera-Qatar,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10325#https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Africa News,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 Russia Today,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8#p2p://lino.homeunix.com:6007/5acb88f40000e1422c19ae4624f1680c.ts
-BBC News-UK, http://51.52.156.22:8888/http/004
+BBC News-UK, http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10324#http://51.52.156.22:8888/http/004
 BBC CBESE-UK, http://51.52.156.22:8888/http/003
-Sky News-UK,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+Sky News-UK,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10326#https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 MSNBC-US,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
-BBC WORLD NEWS-US,
-BLOOMBERG TV-US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8#http://185.93.2.35:12012/live/359111068247FFA1/SKBruUymzyojEEMZzTy5AqBwu3x9Mw51gjy719107qNNNUtHwmI-uWT-8hcFEXlQ/003F68F3712541AB/876650.ts#https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8#http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+CNBC-US,http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+CNBC World,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10328#http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
+BLOOMBERG TV-US,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10329#http://103.130.186.138:8800/oxygenplay/bloomberg/index.m3u8#https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8#http://185.93.2.35:12012/live/359111068247FFA1/SKBruUymzyojEEMZzTy5AqBwu3x9Mw51gjy719107qNNNUtHwmI-uWT-8hcFEXlQ/003F68F3712541AB/876650.ts#https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8#http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 Newsmax-US,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8#http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-CBS News-US,https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT#http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8#http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-CNN-US,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8#http://185.93.2.35:12012/live/359111068247FFA1/6_yUHuCDw5gOeGedzoF5dJRfan2yaXQG0Nvi371paYyRfLuOfxfkQBKW5bh_ah5H/7440B78E821745B8/449552.ts#http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+CBS News-US,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on#https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT#http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8#http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+CNN-US,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10323#http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8#http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8#http://185.93.2.35:12012/live/359111068247FFA1/6_yUHuCDw5gOeGedzoF5dJRfan2yaXQG0Nvi371paYyRfLuOfxfkQBKW5bh_ah5H/7440B78E821745B8/449552.ts#http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+FOX News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+Cheddar News,http://live.chdrstatic.com/cbn/primary/3.m3u8
+EuroNews,http://103.130.186.138:8800/oxygenplay/euronewsasia/index.m3u8
+CNBC-US,http://103.130.186.138:8800/oxygenplay/cnbc/index.m3u8
 ABC News-US,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC News 24-US,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 Global News-US,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+TRT World News,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 Wairarapa-TV NZ,http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 Times Now-India,http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 Telesur Venezuela,https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
