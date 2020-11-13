@@ -1,37 +1,35 @@
 体育Sports,#genre#
 Supersport1,http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110252?play_token=Iygywpzjqo#http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110252
-Supersport1a,http://iptvtree.net:8080/test-edd59f/329a/157559#http://iptvtree.net:8080/12660/67684cce/157559
+Supersport1a,http://iptvtree.net:8080/test-edd59f/329a/157559
 Supersport1b,http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55433
-Supersport1c,http://iptvtree.net:8080/test-edd59f/329a/146068#http://iptvtree.net:8080/12660/67684cce/146068
+Supersport1c,http://iptvtree.net:8080/test-edd59f/329a/146068
 Supersport1d,http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 Supersport1e,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10366
-Supersport2,http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110253?play_token=E2utWwt17k#http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110253
-Supersport2a,http://iptvtree.net:8080/test-edd59f/329a/157556#http://iptvtree.net:8080/12660/67684cce/157556
+Supersport2,http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110253?play_token=E2utWwt17k
+Supersport2a,http://iptvtree.net:8080/test-edd59f/329a/157556
 Supersport2b,http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55434
-Supersport2c,http://iptvtree.net:8080/test-edd59f/329a/196476#http://iptvtree.net:8080/12660/67684cce/196476
+Supersport2c,http://iptvtree.net:8080/test-edd59f/329a/196476
 SuperSport2e,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10367
-Supersport3,http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110254?play_token=HWdXpTxNXP#http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110254
-Supersport3a,http://iptvtree.net:8080/test-edd59f/329a/157557#http://iptvtree.net:8080/12660/67684cce/157557
+Supersport2f,http://85.203.33.120:25461/0k5wYNAHk3/lRhOgVs9BN/174280?play_token=69Yn0lHfJk&token=ShdcBRFREglDBwYBUwZaDlQAD1EPXQEAVwMBV1JbCgUBAARTAQwHVVFGHxERR0tSUF5mClwbCQZRUQsNB04bRUJQRjsLXRIJQ1AEAFACCRUdEU0KVVwRDVdTCQcAUQ0CCQwYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg==
+Supersport3,http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110254?play_token=HWdXpTxNXP
+Supersport3a,http://iptvtree.net:8080/test-edd59f/329a/157557
 Supersport3b,http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55435
-Supersport3c,http://iptvtree.net:8080/test-edd59f/329a/196477#http://iptvtree.net:8080/12660/67684cce/196477
+Supersport3c,http://iptvtree.net:8080/test-edd59f/329a/196477
 Supersport3d,http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 SuperSport3e,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10368
-Supersport4a,http://iptvtree.net:8080/test-edd59f/329a/157558#http://iptvtree.net:8080/12660/67684cce/157558
+Supersport3f,http://85.203.33.120:25461/0k5wYNAHk3/lRhOgVs9BN/174282?play_token=GTEhjpi5ro&token=ShdcBRFREglDUgFXB1cJBFAFCVsKXVJUVVIMUAdVXVJVBAxUBgxWAVJGHxERR0tSUF5mClwbCQZRUQsNBU4bRUJQRjsLXRIJQ1AEAFACCRUdEU0KVVwRDVdTCQcAUQ0DAg0YRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
+Supersport4a,http://iptvtree.net:8080/test-edd59f/329a/157558#http://iptvtree.net:8080/12660/67684cce/157558#http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110255
 Supersport4b,http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55436
-Supersport4c,http://iptvtree.net:8080/test-edd59f/329a/197051#http://iptvtree.net:8080/12660/67684cce/197051
+Supersport4c,http://iptvtree.net:8080/test-edd59f/329a/197051
 SuperSport4e,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10369
+Supersport4f,http://85.203.33.120:25461/0k5wYNAHk3/lRhOgVs9BN/174284?play_token=5plmUsIdL9&token=ShdcBRFREglDUlVVUgoOVQEFCVILAVVWBwZbDAABDVNQU1dWWwAHC1RGHxERR0tSUF5mClwbCQZRUQsNA04bRUJQRjsLXRIJQ1AEAFACCRUdEU0KVVwRDVdTCQcAUQ0DBgwYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
 SPORTTV_1,https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 SPORTTV_2,https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 SPORTTV_3,https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 SPORTTV_4,https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 SPORTTV_5,https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 RTM Sport,https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8#http://iptvtree.net:8080/test-edd59f/329a/187243
-ARENA,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10365#http://iptvtree.net:8080/11703/688cbf1a/157485?play_token=ovRrQhELXI#http://iptvtree.net:8080/test-edd59f/329a/157485
-Arena Sport 1,http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
-Arena Sport 2,http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8
-Arena Sport 3,http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
-Arena Sport 4,http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
-Arena Sport 5,http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
+ARENA,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10365#http://85.203.33.120:25461/0k5wYNAHk3/lRhOgVs9BN/174295?play_token=5vt67nGcAN&token=ShdcBRFREglDUwAFUwBbVFcACgAADAAPUVJdVAJWAAJSBgFcAVhUUVZGHxERR0tSUF5mClwbCQZRUQsMAk4bRUJQRjsLXRIJQ1AEAFACCRUdEU0KVVwRDVdTCQcAUQ0EAAEYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg==#http://iptvtree.net:8080/11703/688cbf1a/157485?play_token=ovRrQhELXI#http://iptvtree.net:8080/test-edd59f/329a/157485
 CRICKET,http://iptvtree.net:8080/test-edd59f/329a/157565
 RUGBY PASS TV,http://iptvtree.net:8080/test-edd59f/329a/157564
 FIGHT Sports,http://iptvtree.net:8080/test-edd59f/329a/157606
