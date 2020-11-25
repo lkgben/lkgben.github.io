@@ -172,27 +172,27 @@ Lesson-23,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvme
 Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8
 
 马新,#genre#
-AEC-1,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10295
+AEC-1,http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110181
 AEC-2,http://185.59.222.189:25461/sSnquTekjC/sRnkJCBXT2/110181?token=GRdRWUpbQV9BVwgAVVRXUQADXlEHVVIFAgEGAghbCQNRBQgPX1ZVU1oRFEQQFxAGVQxnD1YVCVACU1UKAU8aRBFQS2dQV0FfQQIPVFJbV1MWTRoSW1pWQwlSUgIDUQ8CUQQMFBtDCgFBCRpXVFtbUxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVg1EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUVsAVxob
 AEC-3,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4257.m3u8
 AEC-4,http://62.210.127.217:8080/snwYC0SQEg/rAh0q9pwwq/28704?play_token=VJqCzLgNIO&token=QhVcUhcJRggXXQAHBFJTAVMPUgAAVlYAVlUNVwQHUlcIVlZRAlQCBw1GGURBEkJRAFtpWgVEXlFdUwVVSkAXElxFa1oAQ14QA1cFXwZSEhhDQl9eBEReUlBdAVlfVFJYDxsWQw0FRggXVgdUClESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXBg1TFBoRAgkRDREWTENcQDEmGxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABUAgNUFEs=
 AEC-5(Delay),http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
-全佳,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10297
-爱奇艺,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10291
-华丽台,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10299
-双星,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10296
-欢喜台,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10306#http://iptv-line.com:7899/sSnquTekjC/sRnkJCBXT2/110192
-小太阳,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10293
-天映頻道,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10298
-天映經典,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10305
-TVB經典,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10294
-TVB星河,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10303#http://62.210.124.97:8080/ThvyEuEq0x/KabEVcFsC0/33253?play_token=rXHfszbzIx&token=QhVcUhcJRggXXFAEVlFRAlNTBVdZBAFaB1RWBV8BU1BcBAUDUQcHVwZGGURBEkJRAFtpWgVEXlBWVgBSSkAXElxFa1oAQ14QAlUHUAFfEhhDQl9eBEReUlNUB1lSUltRCRsWQw0FRggXVwdQAlISGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXFwTXFhNFFVcFAgQERxGD0MrO0BNG1JMRwEPF1taChdcEBJDFk0UX0A+FAEQERZQAAsHEEMDFQQRSEMJU007VglcCFVXFV9ZXRJEXkFURhlDCw0MCE1YRmwUCAAQD0YGVAdfBhYc
-AOD-351,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10300
-AOD-352,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10308
-AOD-353,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10309
-AOD-354,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10310
-AOD-355,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10311
-Goshop,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10292
+全佳,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4327.m3u8
+爱奇艺,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4314.m3u8
+华丽台,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4341.m3u8
+双星,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4331.m3u8
+欢喜台,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4313.m3u8#http://iptv-line.com:7899/sSnquTekjC/sRnkJCBXT2/110192
+小太阳,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4350.m3u8
+天映頻道,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4281.m3u8
+天映經典,http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110191
+TVB經典,http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110180
+TVB星河,http://62.210.124.97:8080/ThvyEuEq0x/KabEVcFsC0/33253?play_token=rXHfszbzIx&token=QhVcUhcJRggXXFAEVlFRAlNTBVdZBAFaB1RWBV8BU1BcBAUDUQcHVwZGGURBEkJRAFtpWgVEXlBWVgBSSkAXElxFa1oAQ14QAlUHUAFfEhhDQl9eBEReUlNUB1lSUltRCRsWQw0FRggXVwdQAlISGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXFwTXFhNFFVcFAgQERxGD0MrO0BNG1JMRwEPF1taChdcEBJDFk0UX0A+FAEQERZQAAsHEEMDFQQRSEMJU007VglcCFVXFV9ZXRJEXkFURhlDCw0MCE1YRmwUCAAQD0YGVAdfBhYc
+AOD-351,http://crtv.crtv1.ml:8080/yude/yude2020/325
+AOD-352,http://crtv.crtv1.ml:8080/yude/yude2020/326
+AOD-353,http://crtv.crtv1.ml:8080/yude/yude2020/327
+AOD-354,http://crtv.crtv1.ml:8080/yude/yude2020/328
+AOD-355,http://crtv.crtv1.ml:8080/yude/yude2020/329
+Goshop,http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110178
 NTV7,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 8TV,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 TV9,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
@@ -202,66 +202,60 @@ TV3,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u87
 AWANI,http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 Bernama TV,https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 Berita RTM,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
-Ceria,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10342#http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+Ceria,http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 OKEY,https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
-OASIS,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10271
+OASIS,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4323.m3u8
 Drama Sangat,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 RTB,https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 Prima,http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8 
 Ria,http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 Warna,http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-Hello,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10350#https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
+Hello,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4309.m3u8#https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
 TVIKIM,http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
-Mediacorp8(Mi),mitv://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts#http://crtv.crtv.ml:8080/live/twiptv/twiptv/359.ts
-Mediacorp5(Mi),mitv://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts#http://crtv.crtv.ml:8080/live/twiptv/twiptv/360.ts
-Ch-U,http://crtv.crtv.ml:8080/live/twiptv/twiptv/361.ts
+Mediacorp8(Mi),mitv://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts#http://crtv.crtv1.ml:8080/yude/yude2020/359
+Mediacorp5(Mi),mitv://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts#http://crtv.crtv1.ml:8080/yude/yude2020/360
+Ch-U,http://crtv.crtv1.ml:8080/yude/yude2020/361
 
 港澳,#genre#
-鳳凰中文台,http://live.centerch.com/fhzw.m3u8#https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixTVHD.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8,ppepg-141#http://144.48.240.144:2019/SunTv.php?name=PhoenixTVHD
-鳳凰資訊台,http://live.centerch.com/fhzx.m3u8#https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixinfoTVHD.m3u8#http://198.98.55.16/crtv.php?id=1080#rtmp://58.200.131.2:1935/livetv/fhzx#http://198.98.55.16/crtv.php?id=1079#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://144.48.240.144:2019/SunTv.php?name=PhoenixinfoTVHD
-鳳凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT#https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixHKHD.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8#http://144.48.240.144:2019/SunTv.php?name=PhoenixHKHD
-無綫新聞台,https://www.ootori.xyz/tv/tvb.php?id=inews#http://livetv.dnsfor.me/channel.10.m3u8#http://tv.sason.xyz/proxy/tvb.php?id=xw#http://45.93.217.106/jiuban/hg.php?id=1#http://tv.sason.xyz/proxy/tvb.php?id=xw#http://45.93.217.106/jiuban/hg.php?id=13#http://45.93.217.106/jiuban/hg.php?id=10#http://103.130.186.138:8800/oxygenplay/tvbnews/index.m3u8
-有線新聞台,http://crtv.crtv.ml:8080/live/twiptv/twiptv/5.ts#http://livetv.dnsfor.me:80/channel.5.m3u8#http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8#http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2026
-有線新聞台(Mi),mitv://147.135.39.171:9906/5e9e83070000f800c0c4d18b692d70da.ts
+鳳凰中文台,http://tv_qt.kksyw.top/tv_qt888/gat/ifeng.php?id=2#http://hdtv.haust.edu.cn/hls/fhzw.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8,ppepg-141
+鳳凰資訊台,http://tv_qt.kksyw.top/tv_qt888/gat/ifeng.php?id=1#rtmp://58.200.131.2:1935/livetv/fhzx#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+鳳凰香港台,http://tv_qt.kksyw.top/tv_qt888/gat/ifeng.php?id=3#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT#https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixHKHD.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8#http://144.48.240.144:2019/SunTv.php?name=PhoenixHKHD
+"無綫新聞台,http://tv_qt.kksyw.top/tv_qt888/gat/tvb.php?id=1
+#https://www.ootori.xyz/tv/tvb.php?id=inews#http://livetv.dnsfor.me/channel.10.m3u8#http://tv.sason.xyz/proxy/tvb.php?id=xw#http://45.93.217.106/jiuban/hg.php?id=1#http://tv.sason.xyz/proxy/tvb.php?id=xw#http://45.93.217.106/jiuban/hg.php?id=13#http://45.93.217.106/jiuban/hg.php?id=10#http://103.130.186.138:8800/oxygenplay/tvbnews/index.m3u8"
+有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8#http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8#http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2026
 有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
-有线直播(Mi),mitv://147.135.39.171:9906/5ef4ecd400015d191252b914239a34f8.ts
-Now新聞,http://crtv.crtv.ml:8080/live/twiptv/twiptv/6.ts#http://teslagram.com/live/channel_332.m3u8#http://ws.matchupstream.tuboshu.com/live/6264ed5164c62e24ce3e0f966e5960e7.flv#http://hls.globaliptv.ml/now332.php#http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2054#http://112.213.101.147/cctv/UBlive.php?id=396#http://198.98.55.16/crtv.php?id=396
-Now新闻(P5),p5p://user3.shusongw.mobi:16871/5e565c070000cb6f2d78cad5c040fa7b
-Now新闻(Mi),mitv://147.135.39.171:9906/5e3e2d4d00034f186dbafcc93ae46ad8.ts
-Now直播331台,http://livetv.dnsfor.me/channel.3.m3u8#http://teslagram.com/live/channel_331.m3u8#http://hls.globaliptv.ml/now331.php
-翡翠台,http://cdn.wakds.xyz:25461/live/look/1440#http://cdn.wakds.xyz:25461/live/look/1390#http://livetv.dnsfor.me/channel.18.m3u8#http://144.48.240.144:2019/SunTv.php?name=XGFeiCui
-翡翠(Mi),mitv://147.135.39.171:9906/5ea51995000ec10eda81021569fa53dc.ts#mitv://147.135.39.171:9906/5e9e8063000969abc0ba831e7a0351c1.ts
-J2,http://crtv.crtv.ml:8080/live/twiptv/twiptv/7.ts
-J2(Mi),mitv://147.135.39.171:9906/5defdab5000c62a56ea0b90a0b532a03.ts
-明珠台,http://crtv.crtv.ml:8080/live/twiptv/twiptv/2.ts#http://144.48.240.144:2019/SunTv.php?name=XGMingZhu#http://61.238.6.49:8001/bysid/2
-明珠台(Mi),mitv://147.135.39.171:9906/5defe1400004ed256eba461e3fa17ad5.ts
+Now新聞,http://livetv.dnsfor.me/channel.6.m3u8#http://teslagram.com/live/channel_332.m3u8#http://hls.globaliptv.ml/now332.php
+Now直播331台,http://livetv.dnsfor.me/channel.3.m3u8#http://teslagram.com/live/channel_331.m3u8
+翡翠台,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4347.m3u8#http://tv_qt.kksyw.top/tv_qt888/gn/gudou.php?id=xgfeicui_1500#http://cdn.wakds.xyz:25461/live/look/1390
+J2,http://crtv.crtv1.ml:8080/yude/yude2020/7#http://61.238.6.49:8001/bysid/82
+明珠台,http://crtv.crtv1.ml:8080/yude/yude2020/2
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8#http://teslagram.com/live/channel_31.m3u8#http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8
 RTHK32,http://livetv.dnsfor.me/channel.2.m3u8#http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
 RTHK新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
-ViuTV,http://crtv.crtv.ml:8080/live/twiptv/twiptv/15.ts#http://hls.globaliptv.ml/viu99.php#http://61.238.6.49:8000/bysid/99
-ViuTV 6,http://crtv.crtv.ml:8080/live/twiptv/twiptv/16.ts#http://hls.globaliptv.ml/viu96.php#http://61.238.6.49:8000/bysid/96
+ViuTV,http://crtv.crtv1.ml:8080/yude/yude2020/15#http://hls.globaliptv.ml/viu99.php#http://61.238.6.49:8000/bysid/99
+ViuTV 6,http://crtv.crtv1.ml:8080/yude/yude2020/16#http://hls.globaliptv.ml/viu96.php#http://61.238.6.49:8000/bysid/96
 ATV香港追擊搜,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8#http://livetv.dnsfor.me/channel.14.m3u8
 ATV煮場,https://vod.prod.hkatv.com/D2E7EC29A95E400387707B252399E97B/hls/SD/index.m3u8
-無綫財經,http://crtv.crtv.ml:8080/live/twiptv/twiptv/4.ts#http://livetv.dnsfor.me/channel.11.m3u8
+無綫財經,http://crtv.crtv1.ml:8080/yude/yude2020/4#http://livetv.dnsfor.me/channel.11.m3u8
 有線財經資訊台,http://livetv.dnsfor.me:80/channel.6.m3u8
-有线财经(Mi),mitv://147.135.39.171:9906/5ead19e0000c2946f9c238242b751a54.ts
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-卫视电影(Mi),mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
-星衛電影台(Mi),http://cdn.wakds.xyz:25461/live/look/1399#mitv://147.135.39.171:9906/5e9b4b1300069e38b43241e231037404.ts
-TVB星河,http://crtv.crtv.ml:8080/live/twiptv/twiptv/20.ts
-有线娱乐,http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8#http://livetv.dnsfor.me:80/channel.7.m3u8
-有线体育(Mi),mitv://147.135.39.171:9906/5ea539e900076757daff48514c4e1e96.ts
-有线体育Plus 1(Mi),mitv://147.135.39.171:9906/5ea539ea00007ceadaff4a743a176aa1.ts
+卫视电影,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/780.m3u8#mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
+星衛電影台，http://crtv.crtv1.ml:8080/yude/yude2020/65
+TVB星河,http://crtv.crtv1.ml:8080/yude/yude2020/20
+有线娱乐,http://crtv.crtv1.ml:8080/yude/yude2020/12#http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8#http://livetv.dnsfor.me:80/channel.7.m3u8
+有线電影台,http://crtv.crtv1.ml:8080/yude/yude2020/13
+有线体育,http://crtv.crtv1.ml:8080/yude/yude2020/10
+有线体育Plus 1,http://crtv.crtv1.ml:8080/yude/yude2020/11
 有线体育Plus 2(Mi),mitv://147.135.39.171:9906/5ef4ecd40007934c1252baaa5c8b564e.ts
-Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
-Now Sports Prime 630,http://teslagram.com/live/channel_630.m3u8
+Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8#http://teslagram.com/live/channel_630.m3u8
 Now爆谷台,https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
 HKC beIN SPOS1,mitv://147.135.39.171:9906/5ea28d9a0005c385d08e210c66e47615.ts
 HKC beIN SPOS2,mitv://147.135.39.171:9906/5ea28d9a000cfc2bd08e22e03ebd0c76.ts
 HKC体育(Mi),mitv://147.135.39.171:9906/5ea539e900076757daff48514c4e1e96.ts
 HKC Spo1(Mi),mitv://147.135.39.171:9906/5ea539ea00007ceadaff4a743a176aa1.ts#mitv://147.135.39.171:9906/5ef4ecd40007934c1252baaa5c8b564e.ts
+now LOVE NATURE,http://crtv.crtv1.ml:8080/yude/yude2020/105
 Now Jeli,http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55441
 星空卫视,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XingKongTV.m3u8#rtmp://58.200.131.2:1935/livetv/startv#http://www.mytvhd.xyz/tvm.php?id=XingKongTV#http://144.48.240.144:2019/SunTv.php?name=XingKongTV
 凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8#rtmp://58.200.131.2:1935/livetv/fhdy
@@ -318,32 +312,32 @@ CNC-新华社,http://livecdn1.news.cn/cnccn/manifest.m3u8
 三立台灣台,http://58.99.33.9:1935/liveedge2/live_29_1.stream/chunklist708113372.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 
 其它,#genre#
-HGTV,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10359#http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4310.m3u8#mitv://147.135.39.171:9906/5eb535c70006670d196f350514163185.ts#tvbus://6ANqMvY4d38nep7nc1mdJVCdFmXy9Yr7isqWDyAH2wBEi9BsYu51mm5kPjjHV
-亞洲旅遊台,http://tw.iptv8k.org/gftv.m3u8?id=8b77f7b80e74be40&key=JiEGivHPpmjGEIjkeVwnVs846a3CHTEd5iCBvrDo81nTx%2BT5DHs7BfaA%2F0BjnEMwZahtNmwqCdUPQaGc%2FPLKvNj7ejb1U5zMYyVBzmxGspo9dezJfKepJoSALBaeVDpIKOijow64yV0LfxJc%2B%2B2y1sxrMDg44q2MWqX3yHBd99FJH0UrPzmB2N2qJGAUxzk%2FpWJK%2FBm1YgpEtoTYszOSVp2R73iLMMnAPj187SIsq9k%3D&ver=1902#http://crtv.crtv.ml:8080/live/twiptv/twiptv/249.ts
+HGTV,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4310.m3u8#mitv://147.135.39.171:9906/5eb535c70006670d196f350514163185.ts#http://crtv.crtv1.ml:8080/yude/yude2020/501
+亞洲旅遊台,http://crtv.crtv1.ml:8080/yude/yude2020/249#http://tw.iptv8k.org/gftv.m3u8?id=8b77f7b80e74be40&key=JiEGivHPpmjGEIjkeVwnVs846a3CHTEd5iCBvrDo81nTx%2BT5DHs7BfaA%2F0BjnEMwZahtNmwqCdUPQaGc%2FPLKvNj7ejb1U5zMYyVBzmxGspo9dezJfKepJoSALBaeVDpIKOijow64yV0LfxJc%2B%2B2y1sxrMDg44q2MWqX3yHBd99FJH0UrPzmB2N2qJGAUxzk%2FpWJK%2FBm1YgpEtoTYszOSVp2R73iLMMnAPj187SIsq9k%3D&ver=1902
 爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
 EYE TV旅遊(Tb),tvbus://6jAFC7WRYVnfPVGizQpwkrkwMXwj43JxqhQFPLSXP4ww7Q5mbNv9irAbmKJBc#mitv://lino.homeunix.com:6358/5f31a0a300006fa67699307a0b9d3ad7.ts
-民視旅游,http://520574.xyz/dl/gt.php?id=ftvtravel#http://tw.iptv8k.org/gftv.m3u8?id=4d6cc2c1e1a1ee7e&key=JiEGivHPpmjGEIjkeVwnVs846a3CHTEd5iCBvrDo81nTx%2BT5DHs7BfaA%2F0BjnEMwZahtNmwqCdUPQaGc%2FPLKvNj7ejb1U5zMYyVBzmxGspo9dezJfKepJoSALBaeVDpIKOijow64yV0LfxJc%2B%2B2y1sxrMDg44q2MWqX3yHBd99FJH0UrPzmB2N2qJGAUxzk%2FpWJK%2FBm1YgpEtoTYszOSVp2R73iLMMnAPj187SIsq9k%3D&ver=1902#http://crtv.crtv.ml:8080/live/twiptv/twiptv/250.ts
-AFN亞洲美食,http://crtv.crtv.ml:8080/live/twiptv/twiptv/366.ts#http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10355#http://crtv.crtv.ml:8080/live/twiptv/twiptv/100.ts
+民視旅游,http://crtv.crtv1.ml:8080/yude/yude2020/250#http://520574.xyz/dl/gt.php?id=ftvtravel#http://tw.iptv8k.org/gftv.m3u8?id=4d6cc2c1e1a1ee7e&key=JiEGivHPpmjGEIjkeVwnVs846a3CHTEd5iCBvrDo81nTx%2BT5DHs7BfaA%2F0BjnEMwZahtNmwqCdUPQaGc%2FPLKvNj7ejb1U5zMYyVBzmxGspo9dezJfKepJoSALBaeVDpIKOijow64yV0LfxJc%2B%2B2y1sxrMDg44q2MWqX3yHBd99FJH0UrPzmB2N2qJGAUxzk%2FpWJK%2FBm1YgpEtoTYszOSVp2R73iLMMnAPj187SIsq9k%3D&ver=1902
+AFN亞洲美食,http://crtv.crtv1.ml:8080/yude/yude2020/109
 美食厨房-1,http://gslb.dianshihome.com/gslb/live?stream_id=iqiyilb_meishichufang&ostype=android&hwtype=p212&tm=1591704014&isp=telecom&region=440000&uuid=6d63669aec684b6fbc3727651a62a4be&sign=aecde94602a0507daff4f40cc4e28dc3&ver=1.0.8#http://www.mytvhd.xyz/iqiyi.php?id=380187022
 美食星球(Mi),mitv://fccseuro.pvbox.live:18912/5b140917000d8becfd7949265b2f087b.ts
 美食星球(Tb),tvbus://63uxhzeBficQALWigXLjuifUxLJH9CsqtXXVjTDCQyXGBxGgXTzxVucFY1x35
 李子柒美食,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 中华美食,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi
 爱美食,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/1.m3u8#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8#http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-Food Network,http://5.135.92.133:52841/out/u/502_1.m3u8#http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10354
+Food Network,http://5.135.92.133:52841/out/u/502_1.m3u8#http://crtv.crtv1.ml:8080/yude/yude2020/252
 NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8#https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-緯來日本(Mi),mitv://147.135.39.171:9906/5e9b449a0002edbbb418f850343a565d.ts#mitv://lino.homeunix.com:6358/5f31a08d000c4a4d7698dd93cc2f9206.ts#tvbus://6aXrMD1Fq4WUmnGWi2jLES3532SG84b4FNawKcrGXERkP2ytUfjZWGv2QjPP8
+緯來日本,http://crtv.crtv1.ml:8080/yude/yude2020/207#mitv://147.135.39.171:9906/5e9b449a0002edbbb418f850343a565d.ts
 國興衛視(Mi),mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
 龙华日韩,http://tw.iptv8k.org/gftv.m3u8?id=3b5977a28477d44e&key=JiEGivHPpmjGEIjkeVwnVs846a3CHTEd5iCBvrDo81nTx%2BT5DHs7BfaA%2F0BjnEMwZahtNmwqCdUPQaGc%2FPLKvNj7ejb1U5zMYyVBzmxGspo9dezJfKepJoSALBaeVDpIKOijow64yV0LfxJc%2B%2B2y1sxrMDg44q2MWqX3yHBd99FJH0UrPzmB2N2qJGAUxzk%2FpWJK%2FBm1YgpEtoTYszOSVp2R73iLMMnAPj187SIsq9k%3D&ver=1902
-靖天日本,mitv://198.255.74.87:9906/5dc08f1b000c12a001b7f60eb395631d.ts
-曼迪日本,http://crtv.crtv.ml:8080/live/twiptv/twiptv/272.ts#tvbus://4fM63tvfNDCDEjrKzkFmNMhzP99Cm6ZaHmVQ2bGe1RYKDu4MdM#mitv://198.255.74.87:9906/5dc08f1800007a5301b7e75ee5782a3e.ts
-TLC旅遊生活,http://crtv.crtv.ml:8080/live/twiptv/twiptv/251.ts#http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10353
-豬哥亮歌廳秀,http://crtv.crtv.ml:8080/live/twiptv/twiptv/169.ts
+靖天日本,http://crtv.crtv1.ml:8080/yude/yude2020/216
+曼迪日本,http://crtv.crtv1.ml:8080/yude/yude2020/272
+TLC旅遊生活,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4335.m3u8
+豬哥亮歌廳秀,http://crtv.crtv1.ml:8080/yude/yude2020/169
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8#http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 环球奇观,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=8
-亞洲旅视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+亞旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8#http://livetv.dnsfor.me/channel.24.m3u8
 环球旅游,http://125.210.152.18:9090/live/HQLY.m3u8
 旅游卫视,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/lvyoustv/1.m3u8#http://223.82.250.72/live/lvyoustv/1.m3u8
 汽车,http://v.iam7.cn/iptv/cibn.php?code=QiChe
@@ -360,7 +354,9 @@ NewTV 记录片,http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
 文旅中国,http://v.iam7.cn/iptv/cibn.php?code=MeiZhuang
 新知识,http://v.iam7.cn/iptv/cibn.php?code=FengShang
 精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-生活英語,http://crtv.crtv.ml:8080/live/twiptv/twiptv/260.ts
+生活英語,http://crtv.crtv1.ml:8080/yude/yude2020/363#http://crtv.crtv.ml:8080/live/twiptv/twiptv/260.ts
+湖南茶頻道,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8
+生活英語,http://crtv.crtv1.ml:8080/yude/yude2020/260
 
 央视卫视,#genre#
 CCTV1-综合,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8#http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8#http://112.17.40.49:80/PLTV/88888888/224/3221226527/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.49_80&hms_devid=1452,1477&online=1570000251
