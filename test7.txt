@@ -1,62 +1,18 @@
 体育Sports,#genre#
-Supersport1,http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110252?play_token=Iygywpzjqo#http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110252
-Supersport1a,http://iptvtree.net:8080/test-edd59f/329a/157559
-Supersport1b,http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55433
-Supersport1c,http://iptvtree.net:8080/test-edd59f/329a/146068
-Supersport1d,http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-Supersport1e,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10366
-Supersport2,http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110253?play_token=E2utWwt17k
-Supersport2a,http://iptvtree.net:8080/test-edd59f/329a/157556
-Supersport2b,http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55434
-Supersport2c,http://iptvtree.net:8080/test-edd59f/329a/196476
-SuperSport2e,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10367
-Supersport2f,http://85.203.33.120:25461/0k5wYNAHk3/lRhOgVs9BN/174280?play_token=69Yn0lHfJk&token=ShdcBRFREglDBwYBUwZaDlQAD1EPXQEAVwMBV1JbCgUBAARTAQwHVVFGHxERR0tSUF5mClwbCQZRUQsNB04bRUJQRjsLXRIJQ1AEAFACCRUdEU0KVVwRDVdTCQcAUQ0CCQwYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg==
-Supersport3,http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110254?play_token=HWdXpTxNXP
-Supersport3a,http://iptvtree.net:8080/test-edd59f/329a/157557
-Supersport3b,http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55435
-Supersport3c,http://iptvtree.net:8080/test-edd59f/329a/196477
-Supersport3d,http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-SuperSport3e,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10368
-Supersport3f,http://85.203.33.120:25461/0k5wYNAHk3/lRhOgVs9BN/174282?play_token=GTEhjpi5ro&token=ShdcBRFREglDUgFXB1cJBFAFCVsKXVJUVVIMUAdVXVJVBAxUBgxWAVJGHxERR0tSUF5mClwbCQZRUQsNBU4bRUJQRjsLXRIJQ1AEAFACCRUdEU0KVVwRDVdTCQcAUQ0DAg0YRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
-Supersport4a,http://iptvtree.net:8080/test-edd59f/329a/157558#http://iptvtree.net:8080/12660/67684cce/157558#http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110255
-Supersport4b,http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55436
-Supersport4c,http://iptvtree.net:8080/test-edd59f/329a/197051
-SuperSport4e,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10369
-Supersport4f,http://85.203.33.120:25461/0k5wYNAHk3/lRhOgVs9BN/174284?play_token=5plmUsIdL9&token=ShdcBRFREglDUlVVUgoOVQEFCVILAVVWBwZbDAABDVNQU1dWWwAHC1RGHxERR0tSUF5mClwbCQZRUQsNA04bRUJQRjsLXRIJQ1AEAFACCRUdEU0KVVwRDVdTCQcAUQ0DBgwYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
+Supersport1,http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+Supersport3,http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+assp1,tvbus://5WqJVQRnFRL3iU8XdjNDMyJdzqEAkBZRZ4DfEfCAZsGSai7up7seDMGDccT7H
+assp2,tvbus://6beEjL8WJkEmP9EL9fTDumDSMtQsbCTTXESHcH2z2xYd1Am2FPViuUYL9MXWU
+assp3,tvbus://66YsnCwdo8dZ2CU4WaFDoRuFhws6EqMrvj9RvzaR7BqYjHQP6BupHpWgS6vTK
+assp4,tvbus://64c3y33FyTEPFJ6Y9vXci8KGyBNDV1mZ2hA8dfx1oqxFZEhGo1eGuRMiBxEm9
 SPORTTV_1,https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 SPORTTV_2,https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 SPORTTV_3,https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 SPORTTV_4,https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 SPORTTV_5,https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 RTM Sport,https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8#http://iptvtree.net:8080/test-edd59f/329a/187243
-ARENA,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10365#http://85.203.33.120:25461/0k5wYNAHk3/lRhOgVs9BN/174295?play_token=5vt67nGcAN&token=ShdcBRFREglDUwAFUwBbVFcACgAADAAPUVJdVAJWAAJSBgFcAVhUUVZGHxERR0tSUF5mClwbCQZRUQsMAk4bRUJQRjsLXRIJQ1AEAFACCRUdEU0KVVwRDVdTCQcAUQ0EAAEYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg==#http://iptvtree.net:8080/11703/688cbf1a/157485?play_token=ovRrQhELXI#http://iptvtree.net:8080/test-edd59f/329a/157485
-CRICKET,http://iptvtree.net:8080/test-edd59f/329a/157565
-RUGBY PASS TV,http://iptvtree.net:8080/test-edd59f/329a/157564
-FIGHT Sports,http://iptvtree.net:8080/test-edd59f/329a/157606
-FOX SPORTS 1,http://iptvtree.net:8080/test-edd59f/329a/162517
-FOX SPORTS 2,http://iptvtree.net:8080/test-edd59f/329a/162516
-FOX SPORTS 3,http://iptvtree.net:8080/test-edd59f/329a/165088
-MNC Sport 1,http://iptvtree.net:8080/test-edd59f/329a/157589
-MNC Sport 2,http://iptvtree.net:8080/test-edd59f/329a/197973
-beIN Sports,http://iptvtree.net:8080/test-edd59f/329a/157561
-beIN Sports ENG 2,http://iptvtree.net:8080/test-edd59f/329a/197052
-beIN Sports MAX,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10374#http://iptvtree.net:8080/test-edd59f/329a/157487
-eGG Network,http://iptvtree.net:8080/test-edd59f/329a/157484
-EUROSPORT HD,http://iptvtree.net:8080/test-edd59f/329a/158353
-FOX SPORTS 1,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10370#http://iptvtree.net:8080/test-edd59f/329a/174721
-FOX SPORTS 2,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10371#http://iptvtree.net:8080/test-edd59f/329a/157488
-FOX SPORTS 3,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10372#http://iptvtree.net:8080/test-edd59f/329a/157560
-FOX SPORTS HD,http://iptvtree.net:8080/test-edd59f/329a/171978
-GNIX SPORTS HD,http://iptvtree.net:8080/test-edd59f/329a/174698
-GOLF Channel,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10377#http://iptvtree.net:8080/test-edd59f/329a/157563
-RTM Sports,http://iptvtree.net:8080/test-edd59f/329a/187243
-SkyNet Golf HD,http://iptvtree.net:8080/test-edd59f/329a/174727
-WWE Network,http://iptvtree.net:8080/test-edd59f/329a/157562
-TH:PPTV 1,http://iptvtree.net:8080/test-edd59f/329a/174669
 Real Madrid TV,http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?checkedby#http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-ESPN,http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110065
-SONY TEN 1,http://iptv-line.com:7899/YyhHY8Y5VK/TjHgR86xre/54249
-FISHING NETWORK,http://iptv-line.com:7899/sawr851/V3vXMSmP/47282
+Golf,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4307.m3u8
 
 EURO Sports,#genre#
 Ch-1,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
