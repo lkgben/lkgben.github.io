@@ -181,27 +181,27 @@ Ch-U,https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manif
 鳳凰中文台,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4328.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw#http://hdtv.haust.edu.cn/hls/fhzw.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8,ppepg-141#http://hdtv.haust.edu.cn/hls/fhzw.m3u8#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8#http://anptbw409.aleidc.com.suqian.ssswl.cn/TV888888/xgom.index.m3u8?1080P=1#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 鳳凰資訊台,http://sr13.douphy.com/hdfenghuangzx.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx#rtmp://58.200.131.2:1935/livetv/fhzx#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://hdtv.haust.edu.cn/hls/fhzx.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 鳳凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT#https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixHKHD.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8#http://144.48.240.144:2019/SunTv.php?name=PhoenixHKHD#http://223.110.245.136/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
-無綫新聞台,P2p://107.148.223.220:48918/5fbff87d000855524c0d39e343e3f354#http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4315.m3u8#https://www.ootori.xyz/tv/tvb.php?id=inews#http://livetv.dnsfor.me/channel.10.m3u8#http://tv.sason.xyz/proxy/tvb.php?id=xw#http://45.93.217.106/jiuban/hg.php?id=1#http://tv.sason.xyz/proxy/tvb.php?id=xw#http://45.93.217.106/jiuban/hg.php?id=13#http://45.93.217.106/jiuban/hg.php?id=10#http://103.130.186.138:8800/oxygenplay/tvbnews/index.m3u8
+無綫新聞台,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4315.m3u8#https://www.ootori.xyz/tv/tvb.php?id=inews#http://livetv.dnsfor.me/channel.10.m3u8#http://tv.sason.xyz/proxy/tvb.php?id=xw
 有線新聞台,http://live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-3.m3u8#http://livetv.dnsfor.me:80/channel.5.m3u8#http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8#http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2026
 有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
 Now新聞,http://livetv.dnsfor.me/channel.6.m3u8#http://teslagram.com/live/channel_332.m3u8#http://hls.globaliptv.ml/now332.php
 Now直播331台,http://livetv.dnsfor.me/channel.3.m3u8#http://teslagram.com/live/channel_331.m3u8
 翡翠台,P2p://107.148.223.220:48918/5fbff87d000774a04c0d39a9484db2b1#http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4347.m3u8#http://tv_qt.kksyw.top/tv_qt888/gn/gudou.php?id=xgfeicui_1500#http://cdn.wakds.xyz:25461/live/look/1390
-J2,P2p://107.148.223.220:48918/5fbff87d0009345d4c0d3a1c59b1a9a0#http://61.238.6.49:8001/bysid/82
-明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#P2p://107.148.223.220:48918/5fbff87d0005ba6a4c0d39387dddfbd5
+J2,http://61.238.6.49:8001/bysid/82
+明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-RTHK31,P2p://107.148.223.220:48918/5fbff8830001e1f54c0d4fac40f1f047#http://livetv.dnsfor.me/channel.1.m3u8#http://teslagram.com/live/channel_31.m3u8#http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8
-RTHK32,P2p://107.148.223.220:48918/5fbff87d0004e82c4c0d39026d49d893#http://livetv.dnsfor.me/channel.2.m3u8#http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
+RTHK31,http://livetv.dnsfor.me/channel.1.m3u8#http://teslagram.com/live/channel_31.m3u8#http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8
+RTHK32,http://livetv.dnsfor.me/channel.2.m3u8#http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
 RTHK新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
-ViuTV,P2p://107.148.223.220:48918/5fbff87d0004a7164c0d38f1a850fc5c#http://hls.globaliptv.ml/viu99.php#http://61.238.6.49:8000/bysid/99
-ViuTV 6,P2p://107.148.223.220:48918/5fbff878000926414c0d269096edb536#http://hls.globaliptv.ml/viu96.php#http://61.238.6.49:8000/bysid/96
+ViuTV,http://hls.globaliptv.ml/viu99.php#http://61.238.6.49:8000/bysid/99
+ViuTV 6,http://hls.globaliptv.ml/viu96.php#http://61.238.6.49:8000/bysid/96
 ATV香港追擊搜,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8#http://livetv.dnsfor.me/channel.14.m3u8
 ATV煮場,https://vod.prod.hkatv.com/D2E7EC29A95E400387707B252399E97B/hls/SD/index.m3u8
 無綫財經,http://livetv.dnsfor.me/channel.11.m3u8
 有線財經資訊台,http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-3.m3u8#http://livetv.dnsfor.me:80/channel.6.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-卫视电影,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/780.m3u8#mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts#P2p://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts
-TVB星河,P2p://107.148.223.220:48918/5fbff877000e65124c0d24002abb0dcf#http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4342.m3u8
+卫视电影,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/780.m3u8#mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
+TVB星河,http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4342.m3u8
 有线娱乐,http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8#http://livetv.dnsfor.me:80/channel.7.m3u8
 有线体育Plus 2(Mi),mitv://147.135.39.171:9906/5ef4ecd40007934c1252baaa5c8b564e.ts
 Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8#http://teslagram.com/live/channel_630.m3u8
