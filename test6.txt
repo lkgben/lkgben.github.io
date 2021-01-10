@@ -131,7 +131,7 @@ AEC(备),P2p://54.39.118.88:18912/5cbd60a3000c7aa10f7bbff3a3e1abc1.ts#http://543
 AEC(Delay),http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 全佳,P2p://54.39.118.88:18912/5d6504490007b998b2eb2bbcf78738b5.ts#http://543.tvbox543.com/543ublive.php?cid=427
 爱奇艺,P2p://54.39.118.88:18912/5d6631530004ae4c2d9505ff2a9c6848.ts
-华丽,P2p://54.39.118.88:18912/5d650464000c0498c53ee3c7a30ed901.ts$http://543.tvbox543.com/543ublive.php?cid=1084#http://543.tvbox543.com/543ublive.php?cid=429
+华丽,P2p://54.39.118.88:18912/5d650464000c0498c53ee3c7a30ed901.ts#http://543.tvbox543.com/543ublive.php?cid=1084#http://543.tvbox543.com/543ublive.php?cid=429
 双星,P2p://54.39.118.88:18912/5d65044c000b4cce9c301cedd82d80c2.ts#http://543.tvbox543.com/543ublive.php?cid=1086
 欢喜,P2p://54.39.118.88:18912/5d650431000dec1f88bd7f360291900b.ts#http://543.tvbox543.com/543ublive.php?cid=432
 小太阳,P2p://54.39.118.88:18912/5d6504530000188b955b8319f4090722.ts#http://543.tvbox543.com/543ublive.php?cid=1080
@@ -183,8 +183,8 @@ Ch-U,http://543.tvbox543.com/543ublive.php?cid=1076#P2p://54.39.118.88:18912/5bc
 Now新聞,http://livetv.dnsfor.me/channel.6.m3u8#http://teslagram.com/live/channel_332.m3u8#http://hls.globaliptv.ml/now332.php#http://livetv.dnsfor.me/channel.4.m3u8
 Now直播331台,http://livetv.dnsfor.me/channel.3.m3u8#http://teslagram.com/live/channel_331.m3u8
 翡翠台,http://543.tvbox543.com/543ublive.php?cid=1084#http://61.238.6.49:8000/bysid/1#P2p://54.39.118.88:18912/5d1220350000ba27f9471ccdeb9a8058.ts#mitv://107.148.223.220:48918/5fc15d590005d8a4517f34a0f99ba5cc#http://m.567it.com/jade.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-翡翠台(备),http://livetv.dnsfor.me/channel.18.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#http://sl.tmtv.me/20201226/ubtl.php?cid=390#http://sl.tmtv.me/20201226/ubtl.php?cid=1084
-J2,http://61.238.6.49:8001/bysid/82#mitv://107.148.223.220:48918/5fc15d5900079638517f3512cece66a0#http://sl.tmtv.me/20201226/ubtl.php?cid=392
+翡翠台(备),http://livetv.dnsfor.me/channel.18.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8
+J2,http://61.238.6.49:8001/bysid/82#mitv://107.148.223.220:48918/5fc15d5900079638517f3512cece66a0
 J2(备),http://livetv.dnsfor.me/channel.19.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
 明珠台,http://61.238.6.49:8001/bysid/2#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1# http://m.567it.com/Pearl.m3u8#http://543.tvbox543.com/543ublive.php?cid=391
 香港开电视,http://livetv.dnsfor.me/channel.9.m3u8#P2p://54.39.118.88:18912/5b140a990002d1a89cac9e13b5b361a2.ts#http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#mitv://107.148.223.220:48918/5fc15d5e00042f51517f47bb902c4ee8
