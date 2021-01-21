@@ -78,7 +78,7 @@ Lesson-22,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvme
 Lesson-23,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/r/w/8/rw85ga6e_i9q4ne3o_h264_1244K.mp4/chunklist.m3u8
 Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8
 
-马新,#genre#
+马新-MalSin,#genre#
 AEC-1,P2p://54.39.118.88:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts#P2p://107.148.223.220:48918/5fc15cec000ce792517d8ca6a1765cee.ts
 AEC(备),P2p://54.39.118.88:18912/5cbd60a3000c7aa10f7bbff3a3e1abc1.ts
 AEC(Delay),http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
@@ -123,7 +123,7 @@ Mediacorp8(Mi),mitv://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts#ht
 Mediacorp5(Mi),mitv://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts#https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 Ch-U,http://543.tvbox543.com/543ublive.php?cid=1076#P2p://54.39.118.88:18912/5bcd6bdf00017fad7de6e62eca6fe61b.ts#https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-港澳,#genre#
+港澳-HKMacao,#genre#
 鳳凰中文台,rtmp://58.200.131.2:1935/livetv/fhzw#http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8#http://www.chahaoquan.com/wz/epg/fhdl.php?id=2#rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw#http://hdtv.haust.edu.cn/hls/fhzw.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8,ppepg-141#http://hdtv.haust.edu.cn/hls/fhzw.m3u8#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8#http://anptbw409.aleidc.com.suqian.ssswl.cn/TV888888/xgom.index.m3u8?1080P=1#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8#mitv://107.148.223.220:48918/5fc15d5400037b79517f207d1eedffc2#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 鳳凰資訊台,rtmp://58.200.131.2:1935/livetv/fhzx#http://www.chahaoquan.com/wz/epg/fhdl.php?id=1#http://sr13.douphy.com/hdfenghuangzx.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx#rtmp://58.200.131.2:1935/livetv/fhzx#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://hdtv.haust.edu.cn/hls/fhzx.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#mitv://107.148.223.220:48918/5fc15d54000299e0517f204334257330#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://543.tvbox543.com/543ublive.php?cid=359
 鳳凰香港台,http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8#P2p://54.39.118.88:18912/5b14092b000ab058aba6213c0ddec4b0.ts#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT#https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixHKHD.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8#http://144.48.240.144:2019/SunTv.php?name=PhoenixHKHD#http://223.110.245.136/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8#mitv://107.148.223.220:48918/5fc15d540001956f517f200043a0b582#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
@@ -189,7 +189,7 @@ Fashion TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1
 澳視衛星,http://61.244.22.4/ch3/ch3.live/index.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
 
-台湾新聞,#genre#
+台湾新聞-Taiwan,#genre#
 東森新聞台,http://seb.sason.top/sc/dsxw_fhd.m3u8
 民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 華視新聞台,http://seb.sason.top/sc/hsxw_fhd.m3u8
@@ -218,7 +218,7 @@ CNC-新华社,http://livecdn1.news.cn/cnccn/manifest.m3u8
 加拿大中文电视台,http://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_2150400_av-b.m3u8
 三立台灣台,http://58.99.33.9:1935/liveedge2/live_29_1.stream/chunklist708113372.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 
-其它,#genre#
+其它-Others,#genre#
 LasVegas Circus,https://arteconcert-a.akamaihd.net/am/concert/076000/076600/076634-000-A_SQ_0_VOA-STA_03416125_MP4-2200_AMM-CONCERT-NEXT_syEh1Kq24F.mp4
 HGTV,mitv://147.135.39.171:9906/5eb535c70006670d196f350514163185.ts#https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 亞洲旅遊台,P2p://54.39.118.88:18912/5b140917000941832426c7a7c76903f7.ts#mitv://107.148.223.220:48918/5fc15d2800080664517e75c671ea06a1#tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM$tvbus#P2p://190.2.146.92:18912/5c724854000188081d520e6e279b2446.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
@@ -279,7 +279,7 @@ NewTV 记录片,http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
 巨星金曲-4,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/56233303FWTFhdGBb9wYV7boH.m3u8
 巨星金曲-5,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330TxVAehrMQwH94njYEM.m3u8
 
-央视卫视,#genre#
+央视卫视-ChinaTV,#genre#
 CCTV1-综合,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8#http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8#http://112.17.40.49:80/PLTV/88888888/224/3221226527/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.49_80&hms_devid=1452,1477&online=1570000251
 CCTV2-财经,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8#http://112.17.40.206:80/PLTV/88888888/224/3221226468/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.206_80&hms_devid=1452,1480&online=1570000383
 CCTV3-综艺,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=28&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://ivi.bupt.edu.cn/hls/cctv3.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8#http://112.17.40.46:80/PLTV/88888888/224/3221226431/index.m3u8?icpid=88888888&from=30&ocs=2_112.17.40.46_80&hms_devid=1452,1470&online=1570000438
@@ -353,7 +353,7 @@ CNC-China,http://livecdn1.news.cn/cnccn/manifest.m3u8
 河南卫视,http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/henan_2/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
 深圳卫视,http://112.17.40.140/PLTV/88888888/224/3221226543/index.m3u8
 
-外语新闻,#genre#
+外语新闻-News,#genre#
 Awani-Mal,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10320#http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 Berita RTM-Mal,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 Bernama-Mal,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10321#https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
