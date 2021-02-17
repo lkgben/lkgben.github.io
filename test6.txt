@@ -78,9 +78,9 @@ Lesson-23,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvme
 Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8
 
 马新-MalSin,#genre#
-AEC-1,https://cmt.mb13.cyou/c/my/astroaec.m3u8#P2p://54.39.118.88:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts#P2p://198.255.74.56:41196/600dbe86000c4df87bdace0f422bfdbe#p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
+AEC-1,P2p://54.39.118.88:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts#P2p://198.255.74.56:41196/600dbe86000c4df87bdace0f422bfdbe#p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
 AEC(备),P2p://54.39.118.88:18912/5cbd60a3000c7aa10f7bbff3a3e1abc1.ts#http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5cbd60a3000c7aa1cfc1431f7c3a5e0a.ts
-AEC(Delay),http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+AEC(Delay),http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8#https://cmt.mb13.cyou/c/my/astroaec.m3u8
 全佳,P2p://54.39.118.88:18912/5d6504490007b998b2eb2bbcf78738b5.ts#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8#P2p://198.255.74.56:41196600dbe80000853947bdab59a4cfd7941#mitv://fccseuro.pvbox.live:18912/5d6504490007b998672d526ea9d021c6.ts
 爱奇艺,P2p://54.39.118.88:18912/5d6631530004ae4c2d9505ff2a9c6848.ts#http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5e64a26d000826390a29110ffc7ef0a0.ts
 华丽,P2p://54.39.118.88:18912/5d650464000c0498c53ee3c7a30ed901.ts#http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8#P2p://198.255.74.56:41196/600dbe80000b42947bdab65a9dd161e0#P2p://107.148.223.220:48918/5fc15ce6000636c6517d73803ff48a6a.ts
