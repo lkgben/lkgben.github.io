@@ -106,7 +106,7 @@ TV3,P2p://54.39.118.88:18912/5bdfc29f00057bd19574507201eac189.ts#http://ts.lemmo
 TV Sarawak,https://raw.githubusercontent.com/raizoML/new/main/freeview/TVS.m3u8
 AWANI,http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8#mitv://107.148.223.220:48918/5fc15cec000a2ee3517d8bf4f9f91df1
 Bernama TV,P2p://54.39.118.88:18912/5d6504800000d0253d8f0eb0c4c4db1b.ts
-Berita RTM,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+Berita RTM,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8#https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8#https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8
 Ceria,http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 OKEY,https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8#https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 OASIS,P2p://54.39.118.88:18912/5d650462000f1dd75dce13dae2534e95.ts
