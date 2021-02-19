@@ -357,7 +357,7 @@ CNC-China,http://livecdn1.news.cn/cnccn/manifest.m3u8
 
 News,#genre#
 Awani-Mal,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10320#http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-Berita RTM-Mal,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+Berita RTM,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8#https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8#https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8
 Bernama-Mal,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10321#https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 Channel NewsAsia-SG,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Channel 8-SG,mitv://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts
