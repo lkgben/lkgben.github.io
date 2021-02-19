@@ -104,9 +104,10 @@ TV1,https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m
 TV2,https://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8#https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8#mitv://107.148.223.220:48918/5fc15cec00065927517d8af859bb7145#P2p://54.39.118.88:18912/5bdfc29b000e4652d86047d2d33f5ae3.ts
 TV3,P2p://54.39.118.88:18912/5bdfc29f00057bd19574507201eac189.ts#http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
 TV Sarawak,https://raw.githubusercontent.com/raizoML/new/main/freeview/TVS.m3u8
-AWANI,http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8#mitv://107.148.223.220:48918/5fc15cec000a2ee3517d8bf4f9f91df1
-Bernama TV,P2p://54.39.118.88:18912/5d6504800000d0253d8f0eb0c4c4db1b.ts
-Berita RTM,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8#https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8#https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8
+AWANI,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#mitv://107.148.223.220:48918/5fc15cec000a2ee3517d8bf4f9f91df1
+Bernama TV,https://fvtv2.mywire.org/streams/youtube/ch_bnc.m3u8|Referer=https://www.youtube.com#http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8#http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391048#P2p://54.39.118.88:18912/5d6504800000d0253d8f0eb0c4c4db1b.ts
+Berita RTM,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8#https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8#https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8#https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+Berita Satu,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 Ceria,http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 OKEY,https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8#https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 OASIS,P2p://54.39.118.88:18912/5d650462000f1dd75dce13dae2534e95.ts
@@ -357,9 +358,10 @@ CNC-China,http://livecdn1.news.cn/cnccn/manifest.m3u8
 深圳卫视,http://112.17.40.140/PLTV/88888888/224/3221226543/index.m3u8
 
 外语新闻-News,#genre#
-Awani-Mal,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10320#http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-Berita RTM-Mal,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
-Bernama-Mal,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10321#https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
+AWANI,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#mitv://107.148.223.220:48918/5fc15cec000a2ee3517d8bf4f9f91df1
+Bernama TV,https://fvtv2.mywire.org/streams/youtube/ch_bnc.m3u8|Referer=https://www.youtube.com#http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8#http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391048#P2p://54.39.118.88:18912/5d6504800000d0253d8f0eb0c4c4db1b.ts
+Berita RTM,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8#https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8#https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8#https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+Berita Satu,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 Channel NewsAsia-SG,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Channel 8-SG,mitv://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts
 Acna-SG,http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10327#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://delivery.macan.live/stream/id_cna/index.m3u8?token=uLys6&v=20200308
