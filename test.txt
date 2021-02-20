@@ -41,7 +41,7 @@ HD5,tvbus://5vh5AYEgpLtBT8zc4qWXZs4qdikuMajtWoh22J7XbgbHt26s1mxnAbfc8b5TA
 Channel 8,tvbus://65xso2Veq1GffYRnyi4BPPtexdhXtwf8dqRJnpyJYwaGqSSsqahAt2mV4zofh
 Channel U,tvbus://6C4PGkpCggL8GC7MyxfxsUop6Jd4nMsvG28j16JQtuhdbQjMyFED4Js51RYvW
 
-HK_Macao,#genre#
+HK-Macao,#genre#
 凤凰资讯,tvbus://6VtmWGXBWsZdttRWaZxjXxxMo3SoTzZNp4U9vBJm8WXKUgXLJfUaPgsUR4qUL
 凤凰卫视,tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL
 凤凰香港,tvbus://6BJwgLicQwMHssbeiMJNbwSPoySHTb5voME89ofJKoN8gJ9BrdoXxcRUEdXXE
@@ -452,7 +452,7 @@ NGC,tvbus://5m91x7BRLZtBuvFynmuPnCFqSqX78LpLM9jnc1my2KEo3FEiL7xPmbxLFJT2e
 ????,tvbus://5sWUP3sE3L8wQAGEVKUk2bVedTQVA8dQ6kypTMryi7FyPdQBhtpvB5EkAhsX9
 Arirang,tvbus://6NpQ7fio1zfp8zHR9M65f1LoqwAVqPF2aNAYEM5ZC1ynk14TPsCYizTdJ7nHs
 
-Indonesia1,#genre#
+Indo-1,#genre#
 Sahara-Samay-Bihar,tvbus://8TY4JHWnoTPSMkAmEqdMY6cAHRnips683TqMpr1X6KkYQzSCmb
 Zee-Punjabi,tvbus://8U8CHWKMyh6ULJi8Y2S4hwyBrNaTSXHBZdqqUmNbkjLedeXzhd
 DD-NEWS,tvbus://7DotPdHfrySCE1sx6q5Q7ABxUohbDf134GfLbW7CQc1E6q1dhg
@@ -525,7 +525,7 @@ K+PM,tvbus://6AaPwyv6iizhsBGJEjmfAcUZnTdgqcsRaKoXiTimU5aSny4y4K4DH41RDPQvK
 K+NS,tvbus://6gycHzgxcQ2xgYpEQEWGfiTNp5jgJphQMY63s6foa9tK4XZY9Ww9SHrArETuK
 K+PC,tvbus://64jrCxZjqHwRZeCvoYj5iL4boyrhLFKPMhj2euyxEWyTqLqPKm8GQMoe8hBQD
 
-Indonesia2,#genre#
+Indo-2,#genre#
 NA_TELETOON,tvbus://8Vn63mSjXjV7eEaM8n7MaqoqCfsSvEhiqgFu43Naq9g1icn53q
 NA_cnn,tvbus://6JmKZvKEkZx9kjh44UnbhZ7yQrJMChUf1RCxiBUWLLjDqHBaniGyCLTnybHXh
 NA2_CARTOON-NETWORK,tvbus://5MfVkmm57UdPxJTbB8a7Hu4i2iU2LmFfRAitXmDQ2MZLvA7LBfRh5eWBDR8z8
@@ -600,7 +600,7 @@ Vietnam,#genre#
 DRT_Da_Nang1,tvbus://5xewi3f1ptr35Hwp6Jbw6bUESh81ToEf61FZG25M2PHaSspbyZL3TEsvszjFM
 DRT1,tvbus://67YUjZeHM32rSkvDBhRmMFZ19zW7fSnsPVfP1N1QwUruLgT5Qmg4YocVkRacH
 
-Indonesia2,#genre#
+Indon-3,#genre#
 NA_TELETOON,tvbus://8Vn63mSjXjV7eEaM8n7MaqoqCfsSvEhiqgFu43Naq9g1icn53q
 NA_cnn,tvbus://6JmKZvKEkZx9kjh44UnbhZ7yQrJMChUf1RCxiBUWLLjDqHBaniGyCLTnybHXh
 NA2_CARTOON-NETWORK,tvbus://5MfVkmm57UdPxJTbB8a7Hu4i2iU2LmFfRAitXmDQ2MZLvA7LBfRh5eWBDR8z8
