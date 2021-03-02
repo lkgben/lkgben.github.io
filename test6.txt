@@ -152,7 +152,7 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 Mediacorp8(http://50.7.222.130:8278/streams/d/Channel8HD/playlist.m3u8#https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 Mediacorp8,tvbus://65xso2Veq1GffYRnyi4BPPtexdhXtwf8dqRJnpyJYwaGqSSsqahAt2mV4zofh#mitv://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts#P2p://54.39.118.88:18912/5bcd6bdb0006c2463fd42a92cae392f0.ts#P2p://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts
 Mediacorp5,http://50.7.222.130:8278/streams/d/Channel5HD/playlist.m3u8#https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
-"Mediacorp5,mitv://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts#tvbus://5vh5AYEgpLtBT8zc4qWXZs4qdikuMajtWoh22J7XbgbHt26s1mxnAbfc8b5TA#P2p://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts
+Mediacorp5,mitv://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts#tvbus://5vh5AYEgpLtBT8zc4qWXZs4qdikuMajtWoh22J7XbgbHt26s1mxnAbfc8b5TA#P2p://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts
 Ch-U,http://50.7.222.130:8278/streams/d/ChannelU/playlist.m3u8#https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 Ch-U,P2p://54.39.118.88:18912/5bcd6bdf00017fad7de6e62eca6fe61b.ts#tvbus://6C4PGkpCggL8GC7MyxfxsUop6Jd4nMsvG28j16JQtuhdbQjMyFED4Js51RYvW
 
@@ -252,7 +252,7 @@ CNC-新华社,http://livecdn1.news.cn/cnccn/manifest.m3u8
 加拿大中文电视台,http://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_2150400_av-b.m3u8
 三立台灣台,http://58.99.33.9:1935/liveedge2/live_29_1.stream/chunklist708113372.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 
-旅遊台,#genre#
+Travel,#genre#
 亞洲旅遊台,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM#tvbus#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 亞洲旅遊台,mitv://ns2.hellotvvod.com:9906/5fad029800009925b9685ed80e917096.ts#tvbus://3AAKeznLg6KjALMKdz1bPogjQoDmEaaJn1atRuM2FZ4jy3zm6h
 爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8#http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
@@ -271,7 +271,7 @@ TLC旅遊生活,tvbus://5tPdUqjvz49gip2aJVZSKhkmUq4R6DnQdV3oAsdXVHyoA4egfj1MZba4
 Travel Channel,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/390965#http://jieting.yugg.cf/vip2021/jieting.php?id=63
 环球旅游,http://125.210.152.18:9090/live/HQLY.m3u8
 
-美食,#genre#
+Foods,#genre#
 亞洲旅遊台,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM#tvbus#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 亞洲旅遊台,mitv://ns2.hellotvvod.com:9906/5fad029800009925b9685ed80e917096.ts#tvbus://3AAKeznLg6KjALMKdz1bPogjQoDmEaaJn1atRuM2FZ4jy3zm6h
 爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8#http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
@@ -290,7 +290,7 @@ TLC旅遊生活,tvbus://5tPdUqjvz49gip2aJVZSKhkmUq4R6DnQdV3oAsdXVHyoA4egfj1MZba4
 Travel Channel,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/390965#http://jieting.yugg.cf/vip2021/jieting.php?id=63
 环球旅游,http://125.210.152.18:9090/live/HQLY.m3u8
 
-其它,#genre#
+Others,#genre#
 LasVegas Circus,https://arteconcert-a.akamaihd.net/am/concert/076000/076600/076634-000-A_SQ_0_VOA-STA_03416125_MP4-2200_AMM-CONCERT-NEXT_syEh1Kq24F.mp4
 HGTV,ttp://line.yo-ott.com:8000/167d10c8c2/50cda00648/391000#http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
 HGTV,tvbus://6PJnQ1BNjZmC26TNFcQyEdcgsD8jpqzuKDPMWL2E6rqTq4kWapV4iU7UdoHQV#tvbus://6ANqMvY4d38nep7nc1mdJVCdFmXy9Yr7isqWDyAH2wBEi9BsYu51mm5kPjjHV
@@ -331,7 +331,7 @@ BBC独家,http://jialvjiancai6857.com/jyqwan/proxy.php?vid=migu&id=633138330
 新唐人舊金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
 CNC,http://livecdn1.news.cn/cnccn/manifest.m3u8
 
-综合,#genre#
+Mix Entertainment,#genre#
 TVBS歡樂,tvbus://5iuZdrPxQDmVpNk2RvS5p7U9UMSk1r7CrcjvpP1yzBQjMe6GytF3bDqbiF1vo
 TVBS精采台,tvbus://6XbZPjUSREcXYoh1NWQ6LmTHS54rREPg8e4kEnWaHzcRZaspKcN5h9HxPGgM4
 TVBS·欢乐台,rtmp://59.124.75.157/sat/tv421
