@@ -1,12 +1,17 @@
 Sports,#genre#
-Supersport1,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391090
-Supersport2,http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8#http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391090
-Supersport3,http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8#http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391087
-Supersport4,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391086
+Supersport1,
+Supersport2,http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+Supersport3,http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+Supersport4,
 ASSP 1,tvbus://5fupRjukQbUSe4YT7YLhi8WM1ar4VYwytwcr1BwSMh2vMmcfB7HBB9JXj9EtV#tvbus://5WqJVQRnFRL3iU8XdjNDMyJdzqEAkBZRZ4DfEfCAZsGSai7up7seDMGDccT7H
 ASSP 2,tvbus://5LtDAcGu9zFK2FGMbt9zG2DEqUfhenieGDinP8f24YnEibmGEdBCHeMDNHoPn#tvbus://6beEjL8WJkEmP9EL9fTDumDSMtQsbCTTXESHcH2z2xYd1Am2FPViuUYL9MXWU
 ASSP 3,tvbus://6U8TUmLgLwHKoBMMdgVKYLDdh8up5WzjVy2vmkwCSos93CdomZ26ZRwmVzxCL#tvbus://66YsnCwdo8dZ2CU4WaFDoRuFhws6EqMrvj9RvzaR7BqYjHQP6BupHpWgS6vTK
 ASSP 4,tvbus://6UrYHAtHyTAbH6KAstr3iXnkvAXsJZfqeRpCteoEV9JmKq4rKmhzJYtWWEjJK#tvbus://64c3y33FyTEPFJ6Y9vXci8KGyBNDV1mZ2hA8dfx1oqxFZEhGo1eGuRMiBxEm9
+SuperSport1,P2p://ns1.hellotvvod.com:9906/5f9538d2000aaec65c7c1e2e0fb02d0b.ts
+SuperSport2,P2p://ns1.hellotvvod.com:9906/5f9538d20004cebf5c7c1cb702100051.ts
+SuperSport3,P2p://ns1.hellotvvod.com:9906/5f8befa80007b51f383651636e125e31.ts
+SuperSport4,P2p://ns1.hellotvvod.com:9906/5f9538d1000ec53a5c7c1b5f068a66f8.ts
+Arena,https://nonton.site:8443/novi/novi123/38727
 SPORTTV_1,https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 SPORTTV_2,https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 SPORTTV_3,https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
@@ -14,14 +19,83 @@ SPORTTV_4,https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 SPORTTV_5,https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 RTM Sport,https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8#http://iptvtree.net:8080/test-edd59f/329a/187243#https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 Real Madrid TV,http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?checkedby#http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-Golf,https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8#http://160.119.77.116:8081/iptv/hd-golf.stream/playlist.m3u8
-ES-CH1,https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8#http://160.119.77.116:8081/iptv/uk-eurosport.stream/playlist.m3u8
+Golf,https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8#http://160.119.77.116:8081/iptv/hd-golf.stream/playlist.m3u8#https://nonton.site:8443/novi/novi123/38767
+ES-CH1,https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8#http://160.119.77.116:8081/iptv/uk-eurosport.stream/playlist.m3u8#https://nonton.site:8443/novi/novi123/38762
 ES-CH2,https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8#http://160.119.77.116:8081/iptv/uk-eurosport2.stream/playlist.m3u8
 SPORT TV1,https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
 SPORT TV2,https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
 SPORT TV3,https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
 SPORT TV4,https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8?zerosix.m3u8
 SPORT TV5,https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
+緯來體育_HD,tvbus://6dvyXxrgyK2SDTDRbvo7eZiZkn4oVBnttCRazMcjvfriVd29d1ihd7ZBwAah2
+FOX_SPORTS_HD,tvbus://6ZoiQNkhZSPfY9s3VffwMPXEusncCbcjNAu7vKNZTtdhdZ76CfFMd13z4ABBH
+FOX_SPORTS_2,tvbus://6W2ozVmfTVdGadVhv6F75zwX5VYtnKAvYxri9bnd9WxsUyFhtScGgbuXKxXBe
+Eleven_Sport,tvbus://5NrQ5pvLs9nQVyZtWJYJQaobzbEa1uTQwg2D4P1mwrtAh7ZsWZfpG2hA9FM2P
+Z频道,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq
+Fight_Sport_HD,tvbus://5bPPQaxBZozxSDVUDR32yxFaKRyMCuFfDwF4e4bkbXgUkzMcgLAvCxtCwVRSG
+華視體育台,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
+愛爾達體育1台,tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb
+愛爾達體育2台,tvbus://6eUVgb2q6mR2wN3TuPNmKkqPmQvzaqgQQS6KEqahbV6rRSz1GSabpqWfnoCwb
+愛爾達體育3台,tvbus://63GPxtiHLwo8KLGyPnjBQnTYgHyFUf2PHDwJfH8szh5gGhshnZZQV8ZagBirm
+高爾夫美國,tvbus://5keAFkcojbKfrBYtjrFtVibNP6oZN2BZt3wHdVnbdAw4muZGgFhiFxJeSWqeG
+nba,tvbus://6jVrf9r92hKsQCPqqCiEgETKVK8wcjcwJNQH9j46aWB5r8NqA6HufS5n6a6jX
+Eleven_Sport2,tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2pM2mRg8ahfkJG9AjKTCJwZQjaKUL
+博斯運動一台,tvbus://5PWUSk5i67uQNx1TYcu9KANMCLe6CtTztGSgXAdnqqDpNX7YkVjUvscJDtYYo
+博斯運動2,tvbus://8RXsBA2c75Hu7JA27UAZwpzm1vpkQmBtiqsRXvtTdMs9QmshuZ
+FOX_SPORTS_3,tvbus://6HB6UMpUbJzpUEwF6YbaRxMxw2muZ2WVyNFyU7mRoWgh9WzSFpnVhgtMSNRr5
+Golf_Channel_(博斯高球),tvbus://61gn94JLNN2gxHHPZGD5N7wn8JfZSKsrwr9HnBrfoRA8Y6Lh4tfWzREoSsQJN
+Golf_Plus_(博斯高球二台),tvbus://5sBm5icQbDAZimzmUUCDWftepBhGDcrT4c21xnxyn8bBMtn7Jm7F1az6vdNJX
+博斯網球,tvbus://5ZjaFSgh4BXSSVPJLgRybUYuxPeLQxLBSpnwqcUuvH4ZPWZuYFMNB4hwRXWui
+ 博斯無限 ,tvbus://6UKxSYxrqMVTE7RkrLjrLrbnQX2y2iRUJoYiWVEhqzr8uwZ7QJio6qbaVacHf
+Sky_Sports_Premiere_League_HD,tvbus://69RqgH4tJWdeUBuokEYGsBzTVpYg2ZAMMAeK1cYybxZRGL34jEjAzif96TWGa
+Sky_Sports_News_HD,tvbus://5SqwPixBAVVESSyMgbLCUm5CWm9YoP3ErCcMT64kbGkFfteTgwXbuqc8xiPZt
+Sky_Sports_ootball_HD,tvbus://5VsypGmVfWbmoW1Endoaru7gsCMnXrRkC9CWRWWJMTwqp1H5sL9MWcJP1BS9H
+TSN_1,tvbus://5ZbsXTkLkg7zEPC6Vnrdk5ubjpFhgWYaZTdGf6Z6oQoTmxXhJaZized89To7r
+TSN_2,tvbus://6TQtzYHYn7VZ1Eknw2gNMySaHgPbBR5P1nVnqQWSUqV8b9uFsK1tYvcL6CSAD
+TSN_3,tvbus://5eJSBjV55ADhgC85AZd9q3GXToxbcfuezby55bTdpyFkNLTZmyggL7UNqo8ci
+TSN_4,tvbus://5Wfer819KXEoeZeeZncVeqMXEevvwxs2MQ6QZWX4SEphWHH8qanWgEncfaPJJ
+TSN_5,tvbus://62H3vuRrAqZiqT4zzZBHFR9w89mzR5YkmQoASr32owv4PzjsUbrwMHahixDH8
+assp1,tvbus://5WqJVQRnFRL3iU8XdjNDMyJdzqEAkBZRZ4DfEfCAZsGSai7up7seDMGDccT7H
+assp2,tvbus://6beEjL8WJkEmP9EL9fTDumDSMtQsbCTTXESHcH2z2xYd1Am2FPViuUYL9MXWU
+assp3,tvbus://66YsnCwdo8dZ2CU4WaFDoRuFhws6EqMrvj9RvzaR7BqYjHQP6BupHpWgS6vTK
+assp4,tvbus://64c3y33FyTEPFJ6Y9vXci8KGyBNDV1mZ2hA8dfx1oqxFZEhGo1eGuRMiBxEm9
+有線18台,tvbus://5i3Bvmk3f1gLcJee7BoPVyvNdMkkybMWXkvpNYWjiCG6en5r85mZzd77FM8mE
+澳视体育,tvbus://7z7GSXCAZX7uRAZJQqtrpybE6e3n2U8ax5RbJrNpcMyfV9ZDgh
+cctv5,tvbus://6Z4Xm9BjkipsiQEh6zMkqdckMXTAkk9jn8RVUZJ1CRovXUq1YbD87aqk4S7cW
+cctv5+,tvbus://5LWTgtTEr5LxFUNxRJvUas7zn6HU9nkwqLW5Bu2LokjKbTLKnW19QpkjXhgeA
+广东体育,tvbus://5jVQxPtV5yrF5W4ua67SvK7nSaeHxdLRHrNnHgRnTE6Y3GEXpeL67eGdQHT6a
+五星体育,tvbus://6CnahbzeQ6qu3S8Crv7b7dVMyDK5cHTa3RbypZe9F2hnfoWyRRGtuneYC7sY4
+四海钓鱼,tvbus://5e6Cd4CGQ6ep8xvyzcCRA1iUYtMCEB6RubiGrVzXZE61T1s9MU3qKNKtgd3vs
+RB_テレビ朝日,tvbus://6fBCXJuiiC8eX12Tx81AYnpHekbnKU9RPwGb1ScqDD45jHjxqyoVT3Gkuukvr
+RB_J SPORTS 1,tvbus://5P19YaVCrBTdG3hSy3AuRC6dzuRFWCEvP9UHtjdCxzvQqyiQ5pDYtbMS6NUca
+RB_J SPORTS 2,tvbus://5pQD24S4466A139yM6y3fPrBkPdV7chyhEJ8y4bXbX2Qv9JEGHAdMHRCx3CDE
+RB_J SPORTS 3,tvbus://6dADDkTGu2oiwREWcP93w5nGscSVfZjaXEBA5dAC92XEevHjPSqYrY3XL6ST4
+RB_J SPORTS 4,tvbus://5xJS5QV17qfubUQRDmcme8wzU8EAigZtZeFsDgxcMKwxDVSztergMkL7PwGxz
+RB_スカイA,tvbus://5mVSNMW8UQo2fQnofGoyfiroTmxJRYGtrgzzuZgJTgXg71EYtVWktKJzSUZY9
+RB_ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdbEGWCs
+美国NBA,tvbus://6cBMJcX4qvyn2wPwjHRCQC9whnPoxj2zbnbkvVoUkfSYs75NsuQZ7qmisheSr
+NA_espnu,tvbus://5pJ89Fd8ySqevaQfiQcNm85zW1n885SN9u9aRNC5taaWaxBYwTQhKscY111EP
+NA_nba,tvbus://5ZuVP5JBftNYwXFDCZGa1sSnF5zvMr3SBfmSdc3dLF3Sw9zEJkeddMJ7Dneod
+NA_eurosp2,tvbus://5Za3uPb1YTSR3kVaZCo1iJUk4pqCT7ECiGNELwAynTkY692gfqGnV6h9YEeBL
+NA_espn,tvbus://6dAuxZcZxALaxKnVTc5kHAGSbKxj7pr87YivXDFtkftPtv2LSKktZEo98cjE1
+NA_eurosp1,tvbus://5vuZqZCyWNbmMosYWFUHFpKcjaKsDYz7CPKMCEBd9tLGKKA4D8kBqphgq6SXf
+NA_CBSsprotsHD,tvbus://6N5ymz2zwvUxta9xxW9F9HWJ2X9iY3p8Svy2E8p5Hj4FHgXFJk6D3EMGS6Z22
+NA_NBCSportsHD,tvbus://5TxJowEyn2YeQ1R54jkEJh61B5zzSZkbYm2NccPWqtZMrvEPBTcVkprTdKF1S
+NA_golf,tvbus://6efXUoXX9UJAfrMFtwS5X311gnjCj8Gh8cF8EJ6A48K9WBqfZLVW6TFz8fBpd
+NA2_FOX-SPORTS1,tvbus://5WM8hWrEWfriwUfvG6iZzg1SUfiHpDB9MjxTgzx4epmsYpWkaS1AHbTGJmFei
+NA2_FOX-SPORTS2,tvbus://5UnGRCTsF25oDepBhRvbGVfbY7gLNsYRNstg9XXNBJ3rHD6xChPLFH1FaHos4
+BEIN_SPORT1,tvbus://5gyvTD16xgvMGmoXNPsT8fQThTHYJDab7yEAQ38n2Tu2WNQtcKXUn6JXoxqqS
+BEIN_SPORT2,tvbus://69xw6akBTZprdUcAZXRJU4bhRC3yu7zQrLAdK6ZWPwQQPnBhDKDnahALqP9PT
+BEIN_SPORT3,tvbus://6CFNugNBpDWSmYZbHfkZNGSVj5GAhDxtS1XqnZoHJF8Z5w5s2aam8FZGgwkdy
+BEIN_SPORT4,tvbus://5ZV6xLFo3fqyu391LPzGeucnBkLqeCYKkb3Mxt8vro9QaQ1XJWqFMTgAApVrY
+BEIN_SPORT5,tvbus://63k9beCkSjDZJTJwYHk81GfwUfriExzSsjx4ZvEWUGRR5qXct1tP5rx6yyDzF
+BEIN_SPORT6,tvbus://6C5YpLCGEBjmKpGuHKoscENKDUd3QXm9w4gQbwp7Yqmz7CFQC4wemTKKb7GTq
+BEIN_SPORT7,tvbus://5bm7etgrnLT83RhVBaMADTpqPe2iaWXUsyUuBV8Nej7sjsvV15TnJkM18DcPu
+BEIN_SPORT8,tvbus://6XvAwbo8a6gxFJFWLub8vuoNxUKZjw3fUk1cV3qpVkgTJpC4NFGhZRKsaNxQJ
+BEIN_SPORT9,tvbus://5MjP5nyuW4XcQSY2hVqr3LvqPDuC4yNKs5GjtgRH34W1jq3hBcbiTjnvDY5fg
+BEIN_SPORT10,tvbus://5XXqfUGtfamXrguBqkgvFZgCAYHNmYhfhAJRE1HY8ycTQ2xqw2uzzRoSeyMiu
+BEIN_SPORT11,tvbus://5MbQRH71Ddn5a3DVxYNyv4YznEa3RcvcwUVnCA49kfCamVgvssTBao5BTQeuK
+BEIN_SPORT12,tvbus://5UieiWVbtAu9FxgBYMxoZBhDVLSp6ztdcUxFmaqB7KRkzfmKnCiLgps18gZwW
 
 EasyTravelJapanese,#genre#
 Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/s/7/ks73d26m_itx11l36_h264_1244K.mp4/chunklist.m3u8
@@ -86,41 +160,41 @@ Lesson-23,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvme
 Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8
 
 MalSin,#genre#
-AEC-1,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391097#http://103.143.81.186/123/ub.php?id=433#http://103.143.81.186/123/ub.php?id=1073#https://nonton.site:8443/novi/novi123/38718
+AEC-1,https://nonton.site:8443/novi/novi123/38718
 AEC-2,tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3#tvbus://5Kvp549VCkiqZ2rGEgubPevAhQ4KtMaNf7tPb9VM4vfWtmLQa7wV2NZ71bpJq#tvbus://6L2keFB3TzqTqR4Y3b3jgqTG2V4yPYSs6tbPp2tv1rjx8njTRyi6Dumq26Ehe
 AEC(Delay),http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8#https://cmt.mb13.cyou/c/my/astroaec.m3u8
-全佳,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391070#https://nonton.site:8443/novi/novi123/38787#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+全佳,https://nonton.site:8443/novi/novi123/38787#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 全佳,P2p://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts#tvbus://61XJ6FKo7WXX8qmJTjsiy31pFaDLPCpUvGJXiRinmDa7TPnRJJgr7NTxh2J4m
-爱奇艺,http://line.yo-#https://nonton.site:8443/novi/novi123/38774#http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
+爱奇艺,https://nonton.site:8443/novi/novi123/38774#http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
 爱奇艺,tvbus://66FRpocmtD6gMwzcvdFBh66GfamAqyNA5s1b9FrEKnuUnjQXsQn7zs6YAR55g
-华丽,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/390957#https://nonton.site:8443/novi/novi123/38801
+华丽https://nonton.site:8443/novi/novi123/38801
 华丽,P2p://147.135.39.171:9906/5f173561000bda7819efbb3d2df41108.ts#P2p://147.135.39.171:9906/5f1735610009ecf919efbac0734102e1.ts#tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF
-双星,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391067#https://nonton.site:8443/novi/novi123/38791#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+双星,https://nonton.site:8443/novi/novi123/38791#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 双星,P2p://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts#tvbus://65KFzmeNPHWa91jTcsym8egA3XAiavnD5Ak1NJ2iiHNhKxC2AY7Gz47q6MyDj
 欢喜,http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8@https://nonton.site:8443/novi/novi123/38773
 欢喜,P2p://147.135.39.171:9906/5f36d43f00011311957484b07a516b30.ts#P2p://147.135.39.171:9906/5f36d43f000399ca9574854c058c2796.ts#tvbus://6Gv4wn3XhVm449Z2Qc9Dip7j2WQYWW1ZjWoGGKiv9NRQNpGKgDEYEYtWmJJC6
-小太阳,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391057#https://nonton.site:8443/novi/novi123/38810#http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+小太阳,https://nonton.site:8443/novi/novi123/38810#http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 小太阳,P2p://147.135.39.171:9906/5c311b380000b12f06c9ab7174b605e2.ts#tvbus://6LktFjSSxNajgkUMFiNyQ5929UGv7otwbF7NYuVfCsDzQy9CxRQDdTyJYcYmJ
-無綫娱乐,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/390958#https://nonton.site:8443/novi/novi123/38800
+無綫娱乐,https://nonton.site:8443/novi/novi123/38800
 卫视电影,mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
 私人影院,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/20210211mszbHKSRYY.flv
-天映频道,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391038#https://nonton.site:8443/novi/novi123/38742#http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+天映频道,https://nonton.site:8443/novi/novi123/38742#http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映频道,P2p://147.135.39.171:9906/5e7cfab00001b8d03dc7f4e34dfd4368.ts
 天映频道,tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o#tvbus://66vi5oAA14CZnKWXTQbHZeFuLkptqU7NuN5SHq7xB61RESvS9C3SMMcW28ktS
-天映经典,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391040#https://nonton.site:8443/novi/novi123/38740#http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+天映经典,https://nonton.site:8443/novi/novi123/38740#http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映经典,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/mszb201211tyjd202111.flv#P2p://147.135.39.171:9906/5e7cf98f00024e183dc38c1a5eb34315.ts
 TVB经典HD,https://nonton.site:8443/novi/novi123/38799
 TVB经典HD,tvbus://6HbVAkQXXj4SAXKpyDt18vqEHoHVkjNQ4gSQNVtgWeBJ72VT7Yc2npgAr2WUY
 TVB星河,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/390956#https://nonton.site:8443/novi/novi123/38802#http://v3948069e.live.126.net/live/us01/tw20200114tvbxinghe.flv#http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 TVB星河,tvbus://5rYDDrFr8zHam7aFnp1Dz97B634q5QbLqhrVNCT2p4C56gBsaemHs8eWmRkqJ
-AOD1,http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8#P2p://147.135.39.171:9906/5eb3076300010b0110e9fd0d71637a0b.ts
+AOD1,https://nonton.site:8443/novi/novi123/38723#https://nonton.site:8443/novi/novi123/38725#http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8#P2p://147.135.39.171:9906/5eb3076300010b0110e9fd0d71637a0b.ts
 AOD1,tvbus://62NNnEntcG5Uev4mzo8NPmozm3g5Lpa6vVrfq7CbNyKQfSLgsy54PQaS6sgyY
-AOD2,P2p://147.135.39.171:9906/5e577104000e8a9a3121b4f12c473608.ts
-GO SHOP(中文),tvbus://6GTHDW3tiyfhMXVSbyrovtjyYdvvCXQ6WEZa4r441MqwDTiaNrQRedsvYKnNw
+AOD2,https://nonton.site:8443/novi/novi123/38724#P2p://147.135.39.171:9906/5e577104000e8a9a3121b4f12c473608.ts
+GO SHOP(中文),tvbus://6GTHDW3tiyfhMXVSbyrovtjyYdvvCXQ6WEZa4r441MqwDTiaNrQRedsvYKnNw#https://nonton.site:8443/novi/novi123/38764
 Ntv7,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8#https://raw.githubusercontent.com/percubaan/cuba/master/Ntb7.m3u8#https://nonton.site:8443/novi/novi123/38671
 Ntv7,tvbus://5kn41Lpr589iZMwYw2rT1qvUXoNSLqvgYBv135SU5ALatmAmvMNyE3QwPnbkW
 TV8,https://raw.githubusercontent.com/percubaan/cuba/master/8tb.m3u8#https://nonton.site:8443/novi/novi123/38670
-TV8,tvbus://68tToF9dmdwyVaq37iG6MLZZAJEFaxww3j51VwHXZxHYZekVfa84VkMcdVj7k
+TV8,tvbus://68tToF9dmdwyVaq37iG6MLZZAJEFaxww3j51VwHXZxHYZekVfa84VkMcdVj7k#https://nonton.site:8443/novi/novi123/38711
 TV9,https://raw.githubusercontent.com/percubaan/cuba/master/tb9.m3u8#https://nonton.site:8443/novi/novi123/38669
 TV9,tvbus://6B4apWva1Y8xJMNogtf6KGz2ud9k9MMyL5SaTL7nQe2GNsbpm8AoCPQY2FLzL
 TV1,https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8#https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8#https://nonton.site:8443/novi/novi123/38843
@@ -130,8 +204,8 @@ TV2,tvbus://6RYDsoHodF94frXYaSTyfydVzfyYx4N8PjEipXRxsorENxbFZY9FowtGPZurF
 TV3,http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8#https://nonton.site:8443/novi/novi123/38672
 TV3,tvbus://5MBHfstHRxv4veqrkdkishHpfvuW2hMdL954y4yaMz77pTH7HsqkGFFu1ZAbv#P2p://54.39.118.88:18912/5bdfc29f00057bd19574507201eac189.ts
 TV Sarawak,https://raw.githubusercontent.com/raizoML/new/main/freeview/TVS.m3u8
-AWANI,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#https://nonton.site:8443/novi/novi123/38730
-Bernama TV,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391048#https://fvtv2.mywire.org/streams/youtube/ch_bnc.m3u8|Referer=https://www.youtube.com#http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+AWANI,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#https://nonton.site:8443/novi/novi123/38730#https://nonton.site:8443/novi/novi123/38769
+Bernama TV,https://nonton.site:8443/novi/novi123/38737#https://fvtv2.mywire.org/streams/youtube/ch_bnc.m3u8|Referer=https://www.youtube.com#http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 Bernama TV,tvbus://5poYVhRQLe61qxaWvhaJ5RRSTWWNyzZ3UzP7ZPD7Z5S5SHoNYD8LgjDWu1VtU
 Berita RTM,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8#https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8#https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8#https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 Berita Satu,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -253,7 +327,7 @@ CNC-新华社,http://livecdn1.news.cn/cnccn/manifest.m3u8
 三立台灣台,http://58.99.33.9:1935/liveedge2/live_29_1.stream/chunklist708113372.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 
 Travel,#genre#
-亞洲旅遊台,http://103.143.81.186/123/ub.php?id=77#tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM#tvbus#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
+亞洲旅遊台,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM#tvbus#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 亞洲旅遊台,mitv://ns2.hellotvvod.com:9906/5fad029800009925b9685ed80e917096.ts#tvbus://3AAKeznLg6KjALMKdz1bPogjQoDmEaaJn1atRuM2FZ4jy3zm6h
 爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8#http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
 EYE TV旅遊,P2p://147.135.39.171:9906/5eb5302a000e2110195949c1104f58d8.ts
@@ -272,27 +346,27 @@ Travel Channel,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/390965#http://j
 环球旅游,http://125.210.152.18:9090/live/HQLY.m3u8
 
 Foods,#genre#
-AFN亞洲美食,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391105#https://nonton.site:8443/novi/novi123/38719#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8#https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+AFN亞洲美食,https://nonton.site:8443/novi/novi123/38719#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8#https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 AFN亞洲美食,tvbus://5cnGsb1zt9JnveQhexaWWPVG84Tdf1eXynqTXH3sCK7WvHqExgLGvdKMfUejC#tvbus://3mfabSGHxFQ9xye8rd2mFAqu39Kw7bPVZX1bQtf1izxZZTnvNY
 美食厨房,http://gslb.dianshihome.com/gslb/live?stream_id=iqiyilb_meishichufang&ostype=android&hwtype=p212&tm=1591704014&isp=telecom&region=440000&uuid=6d63669aec684b6fbc3727651a62a4be&sign=aecde94602a0507daff4f40cc4e28dc3&ver=1.0.8#http://www.mytvhd.xyz/iqiyi.php?id=380187022
 美食星球,tvbus://63uxhzeBficQALWigXLjuifUxLJH9CsqtXXVjTDCQyXGBxGgXTzxVucFY1x35#tvbus://3zfx7XEKTMYrKoFX4S8tQepB6h59t2nVwAFjERx5yWZvEN1RxL#p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts#p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
 李子柒美食,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 中华美食,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi#mitv://198.255.74.57:12396/5e50204e000eb9413d323b119b462908.ts
 爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/01.m3u8#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8#http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/1.m3u8#http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://117.148.187.51/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
-Food Network,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391013#http://5.135.92.133:52841/out/u/502_1.m3u8#P2p://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
+Food Network,https://nonton.site:8443/novi/novi123/38754#http://5.135.92.133:52841/out/u/502_1.m3u8#P2p://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
 FOOD美食,tvbus://39Ss5wt6F5zT9dX4DwThz83UryCjpGLwW8UMWrt4NTfY56tc4p
 
 Others,#genre#
 LasVegas Circus,https://arteconcert-a.akamaihd.net/am/concert/076000/076600/076634-000-A_SQ_0_VOA-STA_03416125_MP4-2200_AMM-CONCERT-NEXT_syEh1Kq24F.mp4
-HGTV,ttp://line.yo-ott.com:8000/167d10c8c2/50cda00648/391000#http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
+HGTV,https://nonton.site:8443/novi/novi123/38770#http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
 HGTV,tvbus://6PJnQ1BNjZmC26TNFcQyEdcgsD8jpqzuKDPMWL2E6rqTq4kWapV4iU7UdoHQV#tvbus://6ANqMvY4d38nep7nc1mdJVCdFmXy9Yr7isqWDyAH2wBEi9BsYu51mm5kPjjHV
 幸福空间居家,tvbus://3NiaRGtNbHVAmQNc4Jr6oAdkVSr4u1gyuPXQhqS9PGBDA66znW
 Waku-Waku Japan,https://nonton.site:8443/novi/novi123/717#tvbus://6FvygsEHnZgMxxhQRLQVxWYwM53dCPMMbwk8xzdci1L2MEUeM3FsZ3aW1kAoU#tvbus://786qCNs7FLm9ouCtbUEPA57ZkRQZfZBkcQM7Yg8CV6Xti36r7D
 NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8#https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8#https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 緯來日本,rtmp://59.124.75.156/sat/tv521#rtmp://59.124.75.156:1935/sat/tv522#http://50.7.61.148:30080/Entry/vljp#https://ws.matchupstream.tuboshu.com/live/e2e8377c1b2c36236f2e62b3cfdcfa18.flv
 緯來日本,P2p://147.135.39.171:9906/5e9b449a0002edbbb418f850343a565d.ts#mitv://147.135.39.171:9906/5e9b449a0002edbbb418f850343a565d.ts#tvbus://6aXrMD1Fq4WUmnGWi2jLES3532SG84b4FNawKcrGXERkP2ytUfjZWGv2QjPP8#tvbus://3VT6ZATFizrdZsRmCMfymPWvH3rvwicUxovs2HkLwEKUpCRqaB#tvbus://4KDos9q1SNo5gcWCQdmrDvU4ma4mvVRdobk4Pr7RmMFzWFQXhW#P2p://54.39.118.88:18912/5b14092b000efa4c233af0e8a75243d8.ts
-國興衛視,tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP$tvbus#mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts#P2p://107.148.223.220:48918/5fbff855000d86bf4c0c9ef781bb0b3d#P2p://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts#tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP#vjms://23.237.33.155:8500:3502/live/cid=424#mitv://198.255.74.87:9906/5dc08f17000eda8f01b7e725491a8d01.ts#vjms://23.237.33.155:8500:3502/live/cid=424#mitv://198.255.74.87:9906/5dc08f17000eda8f01b7e725491a8d01.ts#P2p://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
-龙华日韩,http://103.143.81.186/123/ub.php?id=382#tvbus://wrewrwetretry55898uytuiyt787uytuytutyuyt394wz82zQPsBWVGd34ZdiRDqkk#P2p://217.182.18.136:9906/5b093c3c000aab520526b47034c74a7f.ts
+國興衛視,tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP#mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts#P2p://107.148.223.220:48918/5fbff855000d86bf4c0c9ef781bb0b3d#P2p://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts#tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP#vjms://23.237.33.155:8500:3502/live/cid=424#mitv://198.255.74.87:9906/5dc08f17000eda8f01b7e725491a8d01.ts#vjms://23.237.33.155:8500:3502/live/cid=424#mitv://198.255.74.87:9906/5dc08f17000eda8f01b7e725491a8d01.ts#P2p://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
+龙华日韩,tvbus://wrewrwetretry55898uytuiyt787uytuytutyuyt394wz82zQPsBWVGd34ZdiRDqkk#http://103.143.81.186/123/ub.php?id=382#P2p://217.182.18.136:9906/5b093c3c000aab520526b47034c74a7f.ts
 靖天日本,P2p://107.148.223.220:48918/5fbff85b000e5f284c0cb69e9df3e680#P2p://217.182.18.136:9906/5a092407000f340f41e2eac97d79234a.ts#mitv://198.255.74.87:9906/5dc08f1b000c12a001b7f60eb395631d.ts#mitv://198.255.74.57:12396/5e502072000bacfc3d32c6e92be0bb4a.ts
 曼迪日本,P2p://54.39.118.88:18912/5b1408f1000aeceebea7efa30baaf059.ts#mitv://198.255.74.87:9906/5dc08f1800007a5301b7e75ee5782a3e.ts#mitv://198.255.74.57:12396/5e50206f0005edfa3d32b9b9ce312600.ts
 豬哥亮歌廳秀,http://103.143.81.186/123/ub.php?id=75
