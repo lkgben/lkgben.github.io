@@ -1,8 +1,8 @@
 Sports,#genre#
-Supersport1,
-Supersport2,http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-Supersport3,http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-Supersport4,
+Supersport1,http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/19170#http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/40598
+Supersport2,http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8#http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/19171#http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/40599
+Supersport3,http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8#http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/19172#http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/40600
+Supersport4,http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/19173#http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/40601
 ASSP 1,tvbus://5fupRjukQbUSe4YT7YLhi8WM1ar4VYwytwcr1BwSMh2vMmcfB7HBB9JXj9EtV#tvbus://5WqJVQRnFRL3iU8XdjNDMyJdzqEAkBZRZ4DfEfCAZsGSai7up7seDMGDccT7H
 ASSP 2,tvbus://5LtDAcGu9zFK2FGMbt9zG2DEqUfhenieGDinP8f24YnEibmGEdBCHeMDNHoPn#tvbus://6beEjL8WJkEmP9EL9fTDumDSMtQsbCTTXESHcH2z2xYd1Am2FPViuUYL9MXWU
 ASSP 3,tvbus://6U8TUmLgLwHKoBMMdgVKYLDdh8up5WzjVy2vmkwCSos93CdomZ26ZRwmVzxCL#tvbus://66YsnCwdo8dZ2CU4WaFDoRuFhws6EqMrvj9RvzaR7BqYjHQP6BupHpWgS6vTK
@@ -160,28 +160,28 @@ Lesson-23,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvme
 Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8
 
 MalSin,#genre#
-AEC-1,https://nonton.site:8443/novi/novi123/38718
+AEC-1,http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/28704#https://nonton.site:8443/novi/novi123/38718
 AEC-2,tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3#tvbus://5Kvp549VCkiqZ2rGEgubPevAhQ4KtMaNf7tPb9VM4vfWtmLQa7wV2NZ71bpJq#tvbus://6L2keFB3TzqTqR4Y3b3jgqTG2V4yPYSs6tbPp2tv1rjx8njTRyi6Dumq26Ehe
 AEC(Delay),http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8#https://cmt.mb13.cyou/c/my/astroaec.m3u8
-全佳,https://nonton.site:8443/novi/novi123/38787#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+全佳,http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/28703#https://nonton.site:8443/novi/novi123/38787#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 全佳,P2p://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts#tvbus://61XJ6FKo7WXX8qmJTjsiy31pFaDLPCpUvGJXiRinmDa7TPnRJJgr7NTxh2J4m
 爱奇艺,https://nonton.site:8443/novi/novi123/38774#http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
 爱奇艺,tvbus://66FRpocmtD6gMwzcvdFBh66GfamAqyNA5s1b9FrEKnuUnjQXsQn7zs6YAR55g
 华丽https://nonton.site:8443/novi/novi123/38801
 华丽,P2p://147.135.39.171:9906/5f173561000bda7819efbb3d2df41108.ts#P2p://147.135.39.171:9906/5f1735610009ecf919efbac0734102e1.ts#tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF
-双星,https://nonton.site:8443/novi/novi123/38791#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+双星,http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/28702#https://nonton.site:8443/novi/novi123/38791#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 双星,P2p://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts#tvbus://65KFzmeNPHWa91jTcsym8egA3XAiavnD5Ak1NJ2iiHNhKxC2AY7Gz47q6MyDj
-欢喜,http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8@https://nonton.site:8443/novi/novi123/38773
+欢喜,http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8#http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/33273#https://nonton.site:8443/novi/novi123/38773
 欢喜,P2p://147.135.39.171:9906/5f36d43f00011311957484b07a516b30.ts#P2p://147.135.39.171:9906/5f36d43f000399ca9574854c058c2796.ts#tvbus://6Gv4wn3XhVm449Z2Qc9Dip7j2WQYWW1ZjWoGGKiv9NRQNpGKgDEYEYtWmJJC6
-小太阳,https://nonton.site:8443/novi/novi123/38810#http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+小太阳,http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/28697#https://nonton.site:8443/novi/novi123/38810#http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 小太阳,P2p://147.135.39.171:9906/5c311b380000b12f06c9ab7174b605e2.ts#tvbus://6LktFjSSxNajgkUMFiNyQ5929UGv7otwbF7NYuVfCsDzQy9CxRQDdTyJYcYmJ
 無綫娱乐,https://nonton.site:8443/novi/novi123/38800
 卫视电影,mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
 私人影院,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/20210211mszbHKSRYY.flv
-天映频道,https://nonton.site:8443/novi/novi123/38742#http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+天映频道,http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/28688#http://line.crystalott.net/8gsbkUHGguCMFP6/ykcIyZulvUsKHVX/4292#https://nonton.site:8443/novi/novi123/5#https://nonton.site:8443/novi/novi123/38742#http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映频道,P2p://147.135.39.171:9906/5e7cfab00001b8d03dc7f4e34dfd4368.ts
 天映频道,tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o#tvbus://66vi5oAA14CZnKWXTQbHZeFuLkptqU7NuN5SHq7xB61RESvS9C3SMMcW28ktS
-天映经典,https://nonton.site:8443/novi/novi123/38740#http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+天映经典,http://dragoniptv.club:8080/vAaSUcefXP/vAaSUcefXP/9617#https://nonton.site:8443/novi/novi123/38740#http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映经典,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/mszb201211tyjd202111.flv#P2p://147.135.39.171:9906/5e7cf98f00024e183dc38c1a5eb34315.ts
 TVB经典HD,https://nonton.site:8443/novi/novi123/38799
 TVB经典HD,tvbus://6HbVAkQXXj4SAXKpyDt18vqEHoHVkjNQ4gSQNVtgWeBJ72VT7Yc2npgAr2WUY
