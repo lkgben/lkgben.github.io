@@ -156,6 +156,7 @@ Times Now-India,http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m
 Telesur Venezuela,https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 Africa News,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 
+VIP-1_999999,#genre#
 快乐频道,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
 松视一台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
 松视一台,https://717616144.r.worldssl.net/717616144/tv/ttv11/playlist.m3u8
