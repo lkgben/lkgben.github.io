@@ -505,10 +505,10 @@ JET综合,http://50.7.61.147:30080/Entry/jet
 老陈音谈,http://v.iam7.cn/iptv/cibn.php?code=136
 
 $c_start体育/Sports-1$c_end
-Supersport1,
-Supersport2,http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-Supersport3,http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-Supersport4,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391086
+Supersport1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1070#tvbus://4N4K4T6w98gA6nRqJT3B9aXbcGKHN1pRcmw7wt9dJPFBz8tNmf
+Supersport2,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1071#http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8#tvbus://2zoA3d5r5AEVC4Fc4x7dw7sv6QHBYuRCSQL5P5i6bCdL7pBjWo
+Supersport3,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1072#http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8#tvbus://4joCnuRjN5oHfX9hX18vtTqPcjfkzVP2QhTXRGUdvCb2RLX3Vh
+Supersport4,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1074#tvbus://3e9R54cQEp68yZuMgKAKe4M3FaWgucaGEAPEGkRWHikivq7y5t
 ASSP 1,tvbus://5fupRjukQbUSe4YT7YLhi8WM1ar4VYwytwcr1BwSMh2vMmcfB7HBB9JXj9EtV#tvbus://5WqJVQRnFRL3iU8XdjNDMyJdzqEAkBZRZ4DfEfCAZsGSai7up7seDMGDccT7H
 ASSP 2,tvbus://5LtDAcGu9zFK2FGMbt9zG2DEqUfhenieGDinP8f24YnEibmGEdBCHeMDNHoPn#tvbus://6beEjL8WJkEmP9EL9fTDumDSMtQsbCTTXESHcH2z2xYd1Am2FPViuUYL9MXWU
 ASSP 3,tvbus://6U8TUmLgLwHKoBMMdgVKYLDdh8up5WzjVy2vmkwCSos93CdomZ26ZRwmVzxCL#tvbus://66YsnCwdo8dZ2CU4WaFDoRuFhws6EqMrvj9RvzaR7BqYjHQP6BupHpWgS6vTK
