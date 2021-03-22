@@ -1,9 +1,9 @@
 Learn Hiragana and Japanese,#genre#
-Japanese Greetings,https://www.youtube.com/watch?v=MblKNliC6uc
-Special greetings in Japanese,https://youtu.be/watch?v=c3Hku4HABx0&start=0&autoplay=1&loop=1
-Hello in different languages,https://www.youtube.com/watch?v=5tg0j2o0Gg8&start=0&autoplay=1
-"Thank you" in different languages,https://www.youtube.com/watch?v=K2MEnLu4rZ8&autoplay=1&loop=1
-"Good Bye" in different languages,https://www.youtube.com/watch?v=gvE0a8G0MCE?start=0&autoplay=1&loop=1&playlist=gvE0a8G0MCE
+Japanese Greetings,https://www.youtube.com/embed/MblKNliC6uc
+Special greetings in Japanese,https://youtu.be/embed/c3Hku4HABx0&start=0&autoplay=1&loop=1
+Hello in different languages,https://www.youtube.com/embed/5tg0j2o0Gg8&start=0&autoplay=1
+"Thank you" in different languages,https://www.youtube.com/embed/K2MEnLu4rZ8&autoplay=1&loop=1
+"Good Bye" in different languages,https://www.youtube.com/embed/gvE0a8G0MCE?start=0&autoplay=1&loop=1&playlist=gvE0a8G0MCE
 a e u e o -【あいうえお】,https://www.youtube.com/embed/RT9ynp7qnsI?playlist=RT9ynp7qnsI?start=0&autoplay=1&loop=1
 ka ki ku ke ko -【かきくけこ】,https://www.youtube.com/embed/PAEWIt93TFQ?start=0&autoplay=1&loop=1&playlist=PAEWIt93TFQ
 sa shi su se so -【さしすせそ】,https://www.youtube.com/embed/3GtUmLXyoW0?start=0&autoplay=1&loop=1&playlist=3GtUmLXyoW0
