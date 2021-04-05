@@ -1,73 +1,78 @@
 $c_start马新$c_end
-AEC-1,tvbus://6L2keFB3TzqTqR4Y3b3jgqTG2V4yPYSs6tbPp2tv1rjx8njTRyi6Dumq26Ehe#tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3#tvbus://5Kvp549VCkiqZ2rGEgubPevAhQ4KtMaNf7tPb9VM4vfWtmLQa7wV2NZ71bpJq#tvbus://6L2keFB3TzqTqR4Y3b3jgqTG2V4yPYSs6tbPp2tv1rjx8njTRyi6Dumq26Ehe#tvbus://69HUkvFC5bgvWC7Aiyw5D97oab717PfL95iuqLjfdhJuWz5DA2phzxoLcKLi4
-AEC-2,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=433#https://nonton.site:8443/novi/novi123/38718#mitv://ns2.hellotvvod.com:9906/5fe5c433000cdc8e28b09c1939843682#mitv://ns2.hellotvvod.com:9906/5fee295f000d5e8a497bda4a5d3851c2
+AEC-1,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts#P2p://54.39.118.88:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts#p2p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts#P2p://54.39.118.88:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts#http://96.44.140.132:18006/view.php?type=m3u8&id=c_58025&key=84797b799ae18d1b
+AEC-2,tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3#tvbus://5Kvp549VCkiqZ2rGEgubPevAhQ4KtMaNf7tPb9VM4vfWtmLQa7wV2NZ71bpJq#tvbus://6L2keFB3TzqTqR4Y3b3jgqTG2V4yPYSs6tbPp2tv1rjx8njTRyi6Dumq26Ehe#tvbus://69HUkvFC5bgvWC7Aiyw5D97oab717PfL95iuqLjfdhJuWz5DA2phzxoLcKLi4
 AEC(Delay),http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8#https://cmt.mb13.cyou/c/my/astroaec.m3u8
-全佳,tvbus://61XJ6FKo7WXX8qmJTjsiy31pFaDLPCpUvGJXiRinmDa7TPnRJJgr7NTxh2J4m#P2p://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts
-全佳,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=427#https://nonton.site:8443/novi/novi123/38787#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-爱奇艺,tvbus://66FRpocmtD6gMwzcvdFBh66GfamAqyNA5s1b9FrEKnuUnjQXsQn7zs6YAR55g
-爱奇艺,https://nonton.site:8443/novi/novi123/38774#http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
-华丽,tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF#P2p://147.135.39.171:9906/5f173561000bda7819efbb3d2df41108.ts#P2p://147.135.39.171:9906/5f1735610009ecf919efbac0734102e1.ts
-华丽,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=429#https://nonton.site:8443/novi/novi123/38801#mitv://ns2.hellotvvod.com:9906/5fc89f29000b44b051445b872ad9583d
-双星,tvbus://65KFzmeNPHWa91jTcsym8egA3XAiavnD5Ak1NJ2iiHNhKxC2AY7Gz47q6MyDj#P2p://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts
-双星,https://nonton.site:8443/novi/novi123/38791#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-欢喜,tvbus://6Gv4wn3XhVm449Z2Qc9Dip7j2WQYWW1ZjWoGGKiv9NRQNpGKgDEYEYtWmJJC6#P2p://147.135.39.171:9906/5f36d43f00011311957484b07a516b30.ts#P2p://147.135.39.171:9906/5f36d43f000399ca9574854c058c2796.ts
-欢喜,http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8@https://nonton.site:8443/novi/novi123/38773
-小太阳,tvbus://6LktFjSSxNajgkUMFiNyQ5929UGv7otwbF7NYuVfCsDzQy9CxRQDdTyJYcYmJ#P2p://147.135.39.171:9906/5c311b380000b12f06c9ab7174b605e2.ts
-小太阳,https://nonton.site:8443/novi/novi123/38810#http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_885&key=84797b799ae18d1b
+全佳,P2p://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts#tvbus://61XJ6FKo7WXX8qmJTjsiy31pFaDLPCpUvGJXiRinmDa7TPnRJJgr7NTxh2J4m
+爱奇艺,http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_886&key=84797b799ae18d1b#http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8#P2p://54.39.118.88:18912/5d6631530004ae4c2d9505ff2a9c6848.ts#P2p://147.135.39.171:9906/5e57755e00054af53132b22041d007fa.ts#P2p://147.135.39.171:9906/5f36d43f000399ca9574854c058c2796.ts
+爱奇艺,p2p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts#tvbus://66FRpocmtD6gMwzcvdFBh66GfamAqyNA5s1b9FrEKnuUnjQXsQn7zs6YAR55g#tvbus://3KdQmsHHv9grz9X5HeAPsWjjXvaXqSpCMYoQioBhLoMMahvcWv#P2p://147.135.39.171:9906/5e57755e00054af53132b22041d007fa.ts
+华丽,P2p://147.135.39.171:9906/5f1735610009ecf919efbac0734102e1.ts#http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_884&key=84797b799ae18d1b
+华丽,tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF#p2p://0198.02686.cc:16871/5ecfb36000001d6396821ea0563496d9.ts
+双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=c_58027&key=84797b799ae18d1b
+双星,P2p://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts#tvbus://65KFzmeNPHWa91jTcsym8egA3XAiavnD5Ak1NJ2iiHNhKxC2AY7Gz47q6MyDj#tvbus://3rFiNJAz46rgSXmmemXZieEhw9YUpYFq8NUKrvjxD1m97aHpeb
+欢喜,http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=c_58026&key=84797b799ae18d1b
+欢喜,P2p://147.135.39.171:9906/5f36d43f00011311957484b07a516b30.ts#P2p://147.135.39.171:9906/5f36d43f000399ca9574854c058c2796.ts#tvbus://6Gv4wn3XhVm449Z2Qc9Dip7j2WQYWW1ZjWoGGKiv9NRQNpGKgDEYEYtWmJJC6#p2p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
+小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=c_58021&key=84797b799ae18d1b
+小太阳,P2p://147.135.39.171:9906/5c311b380000b12f06c9ab7174b605e2.ts#tvbus://6LktFjSSxNajgkUMFiNyQ5929UGv7otwbF7NYuVfCsDzQy9CxRQDdTyJYcYmJ#p2p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts
 邵氏电影,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 無綫娱乐,https://nonton.site:8443/novi/novi123/38800
 卫视电影,mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
 私人影院,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/20210211mszbHKSRYY.flv
-天映频道,tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o#tvbus://66vi5oAA14CZnKWXTQbHZeFuLkptqU7NuN5SHq7xB61RESvS9C3SMMcW28ktS
-天映频道,http://line.crystalott.net/8gsbkUHGguCMFP6/ykcIyZulvUsKHVX/4292#https://nonton.site:8443/novi/novi123/38742#http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+天映频道,http://line.crystalott.net/8gsbkUHGguCMFP6/ykcIyZulvUsKHVX/4292#https://nonton.site:8443/novi/novi123/5#https://nonton.site:8443/novi/novi123/38742#http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映频道,P2p://147.135.39.171:9906/5e7cfab00001b8d03dc7f4e34dfd4368.ts
+天映频道,tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o#tvbus://66vi5oAA14CZnKWXTQbHZeFuLkptqU7NuN5SHq7xB61RESvS9C3SMMcW28ktS#tvbus://6HbVAkQXXj4SAXKpyDt18vqEHoHVkjNQ4gSQNVtgWeBJ72VT7Yc2npgAr2WUY
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8#https://nonton.site:8443/novi/novi123/38740
+天映经典,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/mszb201211tyjd202111.flv#P2p://147.135.39.171:9906/5e7cf98f00024e183dc38c1a5eb34315.ts#p2p://0198.02686.cc:16871/5f2f935d000124722250d0dff4066d74.ts
+TVB经典HD,P2p://198.255.74.56:41196/602fed74000ae18179f8446b3975a359#http://ub2.ukiss8.com/live/1083/fd7cd5faae73b3e5d4d88f48fd14b32d/index.m3u8
 TVB经典HD,tvbus://6HbVAkQXXj4SAXKpyDt18vqEHoHVkjNQ4gSQNVtgWeBJ72VT7Yc2npgAr2WUY
-天映经典,https://nonton.site:8443/novi/novi123/38740#http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-天映经典,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/mszb201211tyjd202111.flv#P2p://147.135.39.171:9906/5e7cf98f00024e183dc38c1a5eb34315.ts
-TVB经典HD,https://nonton.site:8443/novi/novi123/38799
+TVB星河,http://v3948069e.live.126.net/live/us01/tw20200114tvbxinghe.flv#http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8#https://nonton.site:8443/novi/novi123/38802
 TVB星河,tvbus://5rYDDrFr8zHam7aFnp1Dz97B634q5QbLqhrVNCT2p4C56gBsaemHs8eWmRkqJ
-TVB星河,https://nonton.site:8443/novi/novi123/38802#http://v3948069e.live.126.net/live/us01/tw20200114tvbxinghe.flv#http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+AOD1,http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8#P2p://147.135.39.171:9906/5eb3076300010b0110e9fd0d71637a0b.ts#https://nonton.site:8443/novi/novi123/38723#https://nonton.site:8443/novi/novi123/38725
 AOD1,tvbus://62NNnEntcG5Uev4mzo8NPmozm3g5Lpa6vVrfq7CbNyKQfSLgsy54PQaS6sgyY
-AOD1,http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8#P2p://147.135.39.171:9906/5eb3076300010b0110e9fd0d71637a0b.ts
-GO SHOP(中文),tvbus://6GTHDW3tiyfhMXVSbyrovtjyYdvvCXQ6WEZa4r441MqwDTiaNrQRedsvYKnNw
-Ntv7,tvbus://5kn41Lpr589iZMwYw2rT1qvUXoNSLqvgYBv135SU5ALatmAmvMNyE3QwPnbkW
+AOD2,https://nonton.site:8443/novi/novi123/38724#P2p://147.135.39.171:9906/5e577104000e8a9a3121b4f12c473608.ts#http://c2.dcba.club:8880/hjh14m7742/8768970808/1724
+GO SHOP(中文),tvbus://6GTHDW3tiyfhMXVSbyrovtjyYdvvCXQ6WEZa4r441MqwDTiaNrQRedsvYKnNw#https://nonton.site:8443/novi/novi123/38764
 Ntv7,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8#https://raw.githubusercontent.com/percubaan/cuba/master/Ntb7.m3u8#https://nonton.site:8443/novi/novi123/38671
-TV8,tvbus://68tToF9dmdwyVaq37iG6MLZZAJEFaxww3j51VwHXZxHYZekVfa84VkMcdVj7k
+Ntv7,tvbus://5kn41Lpr589iZMwYw2rT1qvUXoNSLqvgYBv135SU5ALatmAmvMNyE3QwPnbkW
 TV8,https://raw.githubusercontent.com/percubaan/cuba/master/8tb.m3u8#https://nonton.site:8443/novi/novi123/38670
-TV9,tvbus://6B4apWva1Y8xJMNogtf6KGz2ud9k9MMyL5SaTL7nQe2GNsbpm8AoCPQY2FLzL
+TV8,tvbus://68tToF9dmdwyVaq37iG6MLZZAJEFaxww3j51VwHXZxHYZekVfa84VkMcdVj7k#https://nonton.site:8443/novi/novi123/38711
 TV9,https://raw.githubusercontent.com/percubaan/cuba/master/tb9.m3u8#https://nonton.site:8443/novi/novi123/38669
+TV9,tvbus://6B4apWva1Y8xJMNogtf6KGz2ud9k9MMyL5SaTL7nQe2GNsbpm8AoCPQY2FLzL
+TV1,https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8#https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8#https://nonton.site:8443/novi/novi123/38843#http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 TV1,tvbus://6e4hEeMVvASd7JKXXCLo9JU65A2ns8Dj3CZ4tQo95FCtRnks8euKBifTk513z
-TV1,https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8#https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8#https://nonton.site:8443/novi/novi123/38843
+TV2,https://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8#https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8#,https://nonton.site:8443/novi/novi123/38844#http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 TV2,tvbus://6RYDsoHodF94frXYaSTyfydVzfyYx4N8PjEipXRxsorENxbFZY9FowtGPZurF
-TV2,https://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8#https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8#,https://nonton.site:8443/novi/novi123/38844
-TV3,tvbus://5MBHfstHRxv4veqrkdkishHpfvuW2hMdL954y4yaMz77pTH7HsqkGFFu1ZAbv#P2p://54.39.118.88:18912/5bdfc29f00057bd19574507201eac189.ts
 TV3,http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8#https://nonton.site:8443/novi/novi123/38672
+TV3,tvbus://5MBHfstHRxv4veqrkdkishHpfvuW2hMdL954y4yaMz77pTH7HsqkGFFu1ZAbv#P2p://54.39.118.88:18912/5bdfc29f00057bd19574507201eac189.ts
 TV Sarawak,https://raw.githubusercontent.com/raizoML/new/main/freeview/TVS.m3u8
-AWANI,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#https://nonton.site:8443/novi/novi123/38730
+AWANI,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#https://nonton.site:8443/novi/novi123/38730#https://nonton.site:8443/novi/novi123/38769#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+Bernama TV,https://nonton.site:8443/novi/novi123/38737#https://fvtv2.mywire.org/streams/youtube/ch_bnc.m3u8|Referer=https://www.youtube.com#http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 Bernama TV,tvbus://5poYVhRQLe61qxaWvhaJ5RRSTWWNyzZ3UzP7ZPD7Z5S5SHoNYD8LgjDWu1VtU
-Bernama TV,http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391048#https://fvtv2.mywire.org/streams/youtube/ch_bnc.m3u8|Referer=https://www.youtube.com#http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 Berita RTM,https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8#https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8#https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8#https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 Berita Satu,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-Ceria,http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
-OKEY,https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8#https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+Ceria,http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8#http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+OKEY,https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8#https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8#http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 OASIS,P2p://54.39.118.88:18912/5d650462000f1dd75dce13dae2534e95.ts
-Drama Sangat,P2p://147.135.39.171:9906/5f01870b0005da5c438d42e57946369f.ts
+Drama Sangat,P2p://147.135.39.171:9906/5f01870b0005da5c438d42e57946369f.ts#http://c2.dcba.club:8880/hjh14m7742/8768970808/71117
 Drama Sangat,tvbus://6HGzP5kU6fKUDbV1nNMaCqFjpA2uE3U4xh5EjdAoU1agwMQnCryQkLD5xboCF
 RTB,https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
-Prima,http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8#http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8#mitv://107.148.223.220:48918/5fc15cec000871a5517d8b82bb6897b6
+Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8#http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8#http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8#mitv://107.148.223.220:48918/5fc15cec000871a5517d8b82bb6897b6
 Ria,http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8#mitv://107.148.223.220:48918/5fc15cec00078d4f517d8b47fa7f23a3
 Warna,http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-Hello,https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-Naura,https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
+Hello,https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8#http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+Naura,https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8#http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+Boo,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 TVIKIM,http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8
-SURIA,P2p://54.39.118.88:18912/5b20e3ae000daac3367aacf289f0c5ff.ts
+SURIA,P2p://54.39.118.88:18912/5b20e3ae000daac3367aacf289f0c5ff.ts#http://96.44.140.132:18006/view.php?type=m3u8&id=c_10004&key=84797b799ae18d1b
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com#http://50.7.222.130:8278/streams/d/cna/playlist.m3u8
+Mediacorp8,http://50.7.222.130:8278/streams/d/Channel8HD/playlist.m3u8#https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd#http://96.44.140.132:18006/view.php?type=m3u8&id=c_10002&key=84797b799ae18d1b
 Mediacorp8,tvbus://65xso2Veq1GffYRnyi4BPPtexdhXtwf8dqRJnpyJYwaGqSSsqahAt2mV4zofh#mitv://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts#P2p://54.39.118.88:18912/5bcd6bdb0006c2463fd42a92cae392f0.ts#P2p://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts
-Mediacorp8(http://50.7.222.130:8278/streams/d/Channel8HD/playlist.m3u8#https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
-Mediacorp5,tvbus://5vh5AYEgpLtBT8zc4qWXZs4qdikuMajtWoh22J7XbgbHt26s1mxnAbfc8b5TA#P2p://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts#mitv://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts
-Mediacorp5,http://50.7.222.130:8278/streams/d/Channel5HD/playlist.m3u8#https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+Mediacorp5,http://50.7.222.130:8278/streams/d/Channel5HD/playlist.m3u8#https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd#http://96.44.140.132:18006/view.php?type=m3u8&id=c_10001&key=84797b799ae18d1b
+Mediacorp5,mitv://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts#tvbus://5vh5AYEgpLtBT8zc4qWXZs4qdikuMajtWoh22J7XbgbHt26s1mxnAbfc8b5TA#P2p://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts
 Ch-U,http://50.7.222.130:8278/streams/d/ChannelU/playlist.m3u8#https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 Ch-U,P2p://54.39.118.88:18912/5bcd6bdf00017fad7de6e62eca6fe61b.ts#tvbus://6C4PGkpCggL8GC7MyxfxsUop6Jd4nMsvG28j16JQtuhdbQjMyFED4Js51RYvW
+KiX HD,http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+喜羊羊,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380183422
 
 $c_start 香港频道$c_end
 凤凰卫视,tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL
