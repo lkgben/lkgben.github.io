@@ -1,4 +1,4 @@
-$c_start马新$c_end
+$c_start马新/MalSin$c_end
 AEC-1,tvbus://6dtCeawyvSQEbSUpBmvv339ixBnxiBc3C98C5yr2v1pWditovZy1T1F37jAEn#tvbus://6L2keFB3TzqTqR4Y3b3jgqTG2V4yPYSs6tbPp2tv1rjx8njTRyi6Dumq26Ehe#tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3#tvbus://5Kvp549VCkiqZ2rGEgubPevAhQ4KtMaNf7tPb9VM4vfWtmLQa7wV2NZ71bpJq#tvbus://69HUkvFC5bgvWC7Aiyw5D97oab717PfL95iuqLjfdhJuWz5DA2phzxoLcKLi4#http://iptv.tvmalaysia.cc:80/penang172/penang172/6701#mitv://fccseuro.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts#mitv://fccseuro.pvbox.live:18912/5e649e1c000aa68a6c99c6e37b5c2136.ts#mitv://fccsovh.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts#mitv://fccseuro.pvbox.live:18912/5cbd60a3000c7aa10f7bbff3a3e1abc1.ts#mitv://fccsovh.pvbox.live:18912/5cbd60a3000c7aa10f7bbff3a3e1abc1.ts
 AEC-2,http://185.180.221.194:8278/streams/d/AEC/playlist.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=c_58025&key=84797b799ae18d1b#p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts#https://nonton.site:8443/6894864475/7163819284/37352#http://iptvtree.net:8080/44444/4506fd18/247409#http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247409#http://iptvtree.net:8080/test-220471/4008/247409#http://96.44.140.132:18006/view.php?type=m3u8&id=c_58025&key=84797b799ae18d1b#p2p://23.237.42.6:8080/5fad43020000447d006e4aff92373580.ts#http://158.69.25.22:25469/bbap690445/bbap690445/500137321
 AEC(Delay),http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8#https://cmt.mb13.cyou/c/my/astroaec.m3u8
@@ -71,7 +71,7 @@ Mediacorp5,http://50.7.222.130:8278/streams/d/Channel5HD/playlist.m3u8#https://t
 Ch-U,http://50.7.222.130:8278/streams/d/ChannelU/playlist.m3u8#https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd#http://96.44.140.132:18006/view.php?type=m3u8&id=c_10003&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=c_10003&key=84797b799ae18d1b#p2p://23.237.42.6:8080/5fad3a54000a78d6004c65ecd6004210.ts#http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
 Ch-U,P2p://54.39.118.88:18912/5bcd6bdf00017fad7de6e62eca6fe61b.ts#tvbus://6C4PGkpCggL8GC7MyxfxsUop6Jd4nMsvG28j16JQtuhdbQjMyFED4Js51RYvW
 
-$c_start 香港频道$c_end
+$c_start香港/HK$c_end
 凤凰卫视,tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL
 鳳凰中文台,http://playurl.elibei.com/tv/channel/fenghuang?id=2#http://www.chahaoquan.com/wz/epg/fhdl.php?id=2#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8,ppepg-141#http://hdtv.haust.edu.cn/hls/fhzw.m3u8#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8#http://anptbw409.aleidc.com.suqian.ssswl.cn/TV888888/xgom.index.m3u8?1080P=1#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8#https://player.ggiptv.com/v/ifeng.php?id=2#http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phcn&key=84797b799ae18d1b
 鳳凰中文台,rtmp://58.200.131.2:1935/livetv/fhzw#rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw#mitv://107.148.223.220:48918/5fc15d5400037b79517f207d1eedffc2#tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL#tvbus://7hpEZEVQ1MZu2jzkQreR5DwWhtfAVA7BTzd5uEGGFRqMzwHrR6
@@ -349,9 +349,9 @@ Eat & Go,https://nonton.site:8443/6894864475/7163819284/26979
 TravelChannel,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13024&key=84797b799ae18d1b#https://nonton.site:8443/6894864475/7163819284/37466#http://iptv.tvmalaysia.cc:80/penang172/penang172/6833
 
 $c_start美食/Food$c_end
-AFN亞洲美食,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8802&key=84797b799ae18d1b#https://nonton.site:8443/6894864475/7163819284/37412#https://nonton.site:8443/6894864475/7163819284/807#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13005&key=84797b799ae18d1b#tvbus://5cnGsb1zt9JnveQhexaWWPVG84Tdf1eXynqTXH3sCK7WvHqExgLGvdKMfUejC#tvbus://3mfabSGHxFQ9xye8rd2mFAqu39Kw7bPVZX1bQtf1izxZZTnvNY#tvbus://7qTNrpD3h5YigfW7sNmtjHjQdot8Zx4yu9aHNY8Q6APs9ck4JJ 
-AFN亞洲美食,tvbus://5bt8GdWfz7CoBFt6bKyk8V1sa5QTTH8sSWty9bt9hcWQ2ERWovGiH284MWRbX#p2p://0198.02686.cc:16871/5f37db930000c98242aae3b8829cb3c8.ts#http://line.crystalott.net/8gsbkUHGguCMFP6/ykcIyZulvUsKHVX/4290##https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8#https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd#https://nonton.site:8443/provision/pp/807#mitv://fccsovh.pvbox.live:18912/5b1409da000c98012b21065a2d054373.ts#mitv://fccseuro.pvbox.live:18912/5b1409da000c98012b21065a2d054373.ts#tvbus://7fan2zoXkyYejdmSgg7LkGPFmPcHua3JVQywcMGAVxdh8g7C3D
-美食厨房,http://gslb.dianshihome.com/gslb/live?stream_id=iqiyilb_meishichufang&ostype=android&hwtype=p212&tm=1591704014&isp=telecom&region=440000&uuid=6d63669aec684b6fbc3727651a62a4be&sign=aecde94602a0507daff4f40cc4e28dc3&ver=1.0.8#http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380187022#http://www.mytvhd.xyz/iqiyi.php?id=380187022
+AFN亞洲美食,tvbus://5bt8GdWfz7CoBFt6bKyk8V1sa5QTTH8sSWty9bt9hcWQ2ERWovGiH284MWRbX#p2p://0198.02686.cc:16871/5f37db930000c98242aae3b8829cb3c8.ts#http://line.crystalott.net/8gsbkUHGguCMFP6/ykcIyZulvUsKHVX/4290##https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8#https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd#https://nonton.site:8443/provision/pp/807#mitv://fccsovh.pvbox.live:18912/5b1409da000c98012b21065a2d054373.ts#mitv://fccseuro.pvbox.live:18912/5b1409da000c98012b21065a2d054373.ts#tvbus://7fan2zoXkyYejdmSgg7LkGPFmPcHua3JVQywcMGAVxdh8g7C3D##tvbus://5cnGsb1zt9JnveQhexaWWPVG84Tdf1eXynqTXH3sCK7WvHqExgLGvdKMfUejC#tvbus://3mfabSGHxFQ9xye8rd2mFAqu39Kw7bPVZX1bQtf1izxZZTnvNY#tvbus://7qTNrpD3h5YigfW7sNmtjHjQdot8Zx4yu9aHNY8Q6APs9ck4JJ
+美食厨房,http://huaweicdnoversea.inter.iqiyi.com/tslive/c56_lb_182_600_t10/c56_lb_182_600_t10.m3u8?key=0815ad362867fedd27ef247ed988a7161&dis_k=7f0f4a52ca034ddd05020b486f86d2a4&dis_t=1621494128&dis_lk=5ce5799e9e5443a109bb0486d269625f&dis_dz=OVERSEA_TMNET-MY&dis_st=26&qdv=2&qd_uid=&qd_sc=afa44fd0d3f53b66a30c41cd02f54664&qd_tvid=&qd_p=60.48.45.244&qd_k=&qd_index=&qd_vip=&qd_src=ih5&pv=0.2&qd_tm=1621494128252&qd_ip=60.48.45.244#http://huaweicdnoversea.inter.iqiyi.com/tslive/c56_lb_182_600_t10/c56_lb_182_600_t10.m3u8?key=0a1334ffc0ae0b3d33603e0d86216930f&dis_k=c8858abf30a920b0a036ca489e6678ed&dis_t=1621492833&dis_lk=f4581e200d29ee20ab1046f10925a353&dis_dz=OVERSEA_TMNET-MY&dis_st=26&qdv=2&qd_uid=&qd_sc=c95d4bd7e6a453572352de03364407f2&qd_tvid=&qd_p=175.141.164.201&qd_k=&qd_index=&qd_vip=&qd_src=ih5&pv=0.2&qd_tm=1621492833410&qd_ip=175.141.164.201
+美食星球,http://158.69.25.22:25469/bbap690445/bbap690445/138#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8804&key=84797b799ae18d1b#tvbus://63uxhzeBficQALWigXLjuifUxLJH9CsqtXXVjTDCQyXGBxGgXTzxVucFY1x35#tvbus://3zfx7XEKTMYrKoFX4S8tQepB6h59t2nVwAFjERx5yWZvEN1RxL#p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts#mitv://ns2.hellotvvod.com:9906/5ff414cd0005c3bf609b88666399782e#p2p://0198.02686.cc:16871/5f37d306000c9ae442897ff68addc3ba.ts#tvbus://7fan2zoXkyYejdmSgg7LkGPFmPcHua3JVQywcMGAVxdh8g7C3D#mitv://fccsovh.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts#mitv://fccseuro.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts
 美食星球,http://158.69.25.22:25469/bbap690445/bbap690445/138#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8804&key=84797b799ae18d1b#tvbus://63uxhzeBficQALWigXLjuifUxLJH9CsqtXXVjTDCQyXGBxGgXTzxVucFY1x35#tvbus://3zfx7XEKTMYrKoFX4S8tQepB6h59t2nVwAFjERx5yWZvEN1RxL#p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts#mitv://ns2.hellotvvod.com:9906/5ff414cd0005c3bf609b88666399782e#p2p://0198.02686.cc:16871/5f37d306000c9ae442897ff68addc3ba.ts#tvbus://7fan2zoXkyYejdmSgg7LkGPFmPcHua3JVQywcMGAVxdh8g7C3D#mitv://fccsovh.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts#mitv://fccseuro.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts
 李子柒美食,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 下饭频道,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380121722
@@ -364,6 +364,7 @@ eve,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13006&key=84797b799ae1
 
 $c_start其它/Others$c_end
 LasVegas Circus,https://arteconcert-a.akamaihd.net/am/concert/076000/076600/076634-000-A_SQ_0_VOA-STA_03416125_MP4-2200_AMM-CONCERT-NEXT_syEh1Kq24F.mp4
+金庸频道,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/150/index.m3u8?&encrypt=
 HGTV,tvbus://6RKhBXY47ywabEErgG5XQcMxKYRPBzL1RkG8oNyHvfWsvmpjM7UFofedsRTtT#tvbus://6PJnQ1BNjZmC26TNFcQyEdcgsD8jpqzuKDPMWL2E6rqTq4kWapV4iU7UdoHQV#tvbus://6ANqMvY4d38nep7nc1mdJVCdFmXy9Yr7isqWDyAH2wBEi9BsYu51mm5kPjjHV#http://iptv.tvmalaysia.cc:80/penang172/penang172/6798#http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
 HGTV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b#http://gg.gg/HGTV_HD#http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564#https://nonton.site:8443/6894864475/7163819284/537#https://nonton.site:8443/6894864475/7163819284/37416#http://iptvtree.net:8080/44444/4506fd18/157553#http://158.69.25.22:25469/bbap690445/bbap690445/500137373
 幸福空间居家,tvbus://3NiaRGtNbHVAmQNc4Jr6oAdkVSr4u1gyuPXQhqS9PGBDA66znW#http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=61#mitv://ns2.hellotvvod.com:9906/5ff414cd0005c3bf609b88666399782e
@@ -538,21 +539,19 @@ MOMO親子,tvbus://5X5Hd9WdA5SySjWsbASTc8rbcxfcYewnPnvy59KegMAhWFrA16sHebm9L8Xqn
 迪士尼,tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX#tvbus://8iGUgj4canqMd8N5hAd38VuitoABtVE5nUg1BaPNkxm6wxGGYN
 東森幼幼,tvbus://6QCZY2EVkFP5ebQcSLx9Bn1GJ95zvxkQDW1ia3fy6gQZETKgvBh1yXLtYaZnd#tvbus://7mTCKDyRQkAMpAsx4eMdtWdUjzrk85yb3mbfmN8qeLUi1qpWxg
 CN卡通,tvbus://6cCTwbYLkkx5vSHmZ1fTVb7rrbo5XRcaWbtNuUTTpSHFxsqPD6KyZuEHESnZz#tvbus://6w4yoNvqa2xSmPhaptHSCatSvnhPzJ6w76kmm9Y82pP1VpVdLv
-英文儿歌,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380221822
-宝宝巴士,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380222622
-贝瓦儿歌,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380222322
-儿童乐园,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380188722
-宝宝课堂,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380186522
-亲子启蒙,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380185522
-小猪佩奇,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380221622
-玩具乐园,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380185422
-兔小贝儿歌,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380222422
-喜羊羊,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380183422
-哆啦a夢,http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=jqm
-蠟筆小新,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380176322
-名偵探柯南,http://cdn.chxjon.cn:80/iptv/QQ582185381/iqiyi.php?id=380158422
-
-
+英文儿歌,
+宝宝巴士,
+贝瓦儿歌,
+儿童乐园,
+宝宝课堂,
+亲子启蒙,
+小猪佩奇,http://huaweicdnoversea.inter.iqiyi.com/tslive/c57_lb_206_300_t10/c57_lb_206_300_t10.m3u8?key=0a1334ffc0ae0b3d3d448e89f3c2070d7&dis_k=5bad0d2defe028fa2a8b9b1ed7f55280&dis_t=1621494609&dis_lk=d458351331bd0938d90cfd93ef63a1ab&dis_dz=OVERSEA_TMNET-MY&dis_st=26&qdv=2&qd_uid=&qd_sc=4e83a7d1e84aa27e12e88d2b4b936fb6&qd_tvid=&qd_p=60.48.45.244&qd_k=&qd_index=&qd_vip=&qd_src=ih5&pv=0.2&qd_tm=1621494606920&qd_ip=60.48.45.244
+玩具乐园,
+兔小贝儿歌,
+喜羊羊,
+哆啦a夢,
+蠟筆小新,
+名偵探柯南
 
 $c_start体育/Sports-1$c_end
 Supersport1,http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8#http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8#http://iptvtree.net:8080/test-220471/4008/146068#http://iptvtree.net:8080/test-220471/4008/247415#tvbus://4N4K4T6w98gA6nRqJT3B9aXbcGKHN1pRcmw7wt9dJPFBz8tNmf#http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
