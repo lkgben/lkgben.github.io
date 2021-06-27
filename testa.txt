@@ -1,3 +1,12 @@
+$c_start欧杯赛$_end
+Arena,tvbus://8Ruu5W57ZC3tXY3DQRLdBMKzPCPto2222SwyRadyrwFRH9gLPC#mitv://fccseuro.pvbox.live:18912/5cbd616a000e62d086ad8d2a96c9b61c.ts
+RTMsport,tvbus://5ejKRPmNukEhWXWe2bnuafe5hqL5a5Mb1UCc1SWy8jrXwYrHs9kfYJTREQECC
+CCTV-5体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8#http://39.134.168.91/PLTV/1/224/3221225556/index.m3u8#http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8#http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
+CCTV-5+体育赛事,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+Ten-1,http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/267554
+Ten-3,http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/16621
+
 $c_start马新/MalSin$c_end
 AEC-1,tvbus://6dtCeawyvSQEbSUpBmvv339ixBnxiBc3C98C5yr2v1pWditovZy1T1F37jAEn#tvbus://6dtCeawyvSQEbSUpBmvv339ixBnxiBc3C98C5yr2v1pWditovZy1T1F37jAEn#tvbus://6L2keFB3TzqTqR4Y3b3jgqTG2V4yPYSs6tbPp2tv1rjx8njTRyi6Dumq26Ehe#tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3#tvbus://5Kvp549VCkiqZ2rGEgubPevAhQ4KtMaNf7tPb9VM4vfWtmLQa7wV2NZ71bpJq#tvbus://69HUkvFC5bgvWC7Aiyw5D97oab717PfL95iuqLjfdhJuWz5DA2phzxoLcKLi4#mitv://fccseuro.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts#mitv://fccseuro.pvbox.live:18912/5e649e1c000aa68a6c99c6e37b5c2136.ts#mitv://fccsovh.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts#mitv://fccseuro.pvbox.live:18912/5cbd60a3000c7aa10f7bbff3a3e1abc1.ts#mitv://fccsovh.pvbox.live:18912/5cbd60a3000c7aa10f7bbff3a3e1abc1.ts#http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 AEC-2,http://47.242.54.220/daili/ce50.php?gun=2&id=Aec#http://iptv.tvmalaysia.cc:80/penang172/penang172/6701#http://185.180.221.194:8278/streams/d/AEC/playlist.m3u8#p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts#https://nonton.site:8443/6894864475/7163819284/37352#http://iptvtree.net:8080/44444/4506fd18/247409#http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247409#http://iptvtree.net:8080/test-220471/4008/247409#http://96.44.140.132:18006/view.php?type=m3u8&id=c_58025&key=84797b799ae18d1b#p2p://23.237.42.6:8080/5fad43020000447d006e4aff92373580.ts#http://158.69.25.22:25469/bbap690445/bbap690445/500137321#mitv://ns2.hellotvvod.com:9906/5ff5dda20004747467940810339f1e29.ts#mitv://ns2.hellotvvod.com:9906/602432d7000216ee1c91125d236b764c.ts
