@@ -1,4 +1,4 @@
-$c_start欧杯赛$_end
+$c_start欧杯赛$c_end
 RTM-1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8#https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd#http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8#http://iptv.tvmalaysia.cc:80/penang172/penang172/7177
 OKEY,https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd#tvbus://6Rx8NSXLxzTk8sy84z688ZUqbHv76seQGBi2MjmynSwSVMQ4YcWGGYef35Wbo
 Arena,http://iptv.tvmalaysia.cc:80/penang172/penang172/8750#tvbus://8Ruu5W57ZC3tXY3DQRLdBMKzPCPto2222SwyRadyrwFRH9gLPC#mitv://fccseuro.pvbox.live:18912/5cbd616a000e62d086ad8d2a96c9b61c.ts#p2p://fccsovh.pvbox.live:18912/5cbd616a000e62d086ad8d2a96c9b61c#p2p://fccseuro.pvbox.live:18912/5cbd616a000e62d086ad8d2a96c9b61c#http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3269#http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
